@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_king_ivory_2025",
+  "title": "King Ivory",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123986303",
+    "imdb": "tt25147850",
+    "tmdb": 1155324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killbill_society_2025",
+  "title": "Killbill Society",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133678463",
+    "imdb": "tt35660545",
+    "tmdb": 1416820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-11",
+  "runtime_minutes": 135
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kundschafter_des_friedens_2_2025",
+  "title": "Kundschafter des Friedens 2",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134385392",
+    "imdb": "tt34986623",
+    "tmdb": 1220831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knights_war_2025",
+  "title": "A Knight's War",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136334608",
+    "imdb": "tt27705545",
+    "tmdb": 1312833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 103
+}

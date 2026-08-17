@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kazerma_2025",
+  "title": "Kazerma",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137750514",
+    "imdb": "tt39141490",
+    "tmdb": 1603993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-19",
+  "runtime_minutes": 120
+}

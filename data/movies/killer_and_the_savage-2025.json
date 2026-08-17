@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killer_and_the_savage_2025",
+  "title": "The Killer and the Savage",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85973713",
+    "imdb": "tt13921066",
+    "tmdb": 936617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-01",
+  "runtime_minutes": 118
+}

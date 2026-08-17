@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karmele_2025",
+  "title": "Karmele",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126417279",
+    "imdb": "tt11132536",
+    "tmdb": 1495245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-01",
+  "runtime_minutes": 120
+}

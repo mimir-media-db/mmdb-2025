@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kherson_2025",
+  "title": "Kherson",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573816",
+    "imdb": "tt33255398"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-01"
+}

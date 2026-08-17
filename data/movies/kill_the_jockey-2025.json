@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_the_jockey_2025",
+  "title": "Kill the Jockey",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127700776",
+    "imdb": "tt28231777",
+    "tmdb": 1104937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-30",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kanekos_commissary_2025",
+  "title": "Kaneko's Commissary",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131274929",
+    "imdb": "tt33290681",
+    "tmdb": 1339611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-16",
+  "runtime_minutes": 126
+}

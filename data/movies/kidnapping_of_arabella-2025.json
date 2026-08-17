@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kidnapping_of_arabella_2025",
+  "title": "The Kidnapping of Arabella",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130502864",
+    "imdb": "tt33292601",
+    "tmdb": 1339666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-28",
+  "runtime_minutes": 107
+}

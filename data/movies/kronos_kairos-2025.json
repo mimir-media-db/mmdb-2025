@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kronos_kairos_2025",
+  "title": "Kronos Kairos",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134577507",
+    "imdb": "tt38890314",
+    "tmdb": 1495096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

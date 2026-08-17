@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kika_2025",
+  "title": "Kika",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134396290",
+    "imdb": "tt33400055",
+    "tmdb": 1313226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-16",
+  "runtime_minutes": 104
+}
