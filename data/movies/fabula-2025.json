@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fabula_2025",
+  "title": "Fabula",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131689437",
+    "imdb": "tt31325532",
+    "tmdb": 1400244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-30"
+}

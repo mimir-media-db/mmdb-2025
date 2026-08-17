@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freakier_friday_2025",
+  "title": "Freakier Friday",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126897811",
+    "imdb": "tt31956415",
+    "tmdb": 1125257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-07"
+}

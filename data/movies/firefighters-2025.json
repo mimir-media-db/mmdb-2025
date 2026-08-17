@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_firefighters_2025",
+  "title": "Firefighters",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597773",
+    "imdb": "tt32628369",
+    "tmdb": 645985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-07",
+  "runtime_minutes": 106
+}

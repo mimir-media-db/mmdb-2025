@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_family_man_2025_film_2025",
+  "title": "The Family Man (2025 film)",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140536869",
+    "imdb": "tt36107132",
+    "tmdb": 1248732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

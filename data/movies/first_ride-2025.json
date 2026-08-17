@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_first_ride_2025",
+  "title": "The First Ride",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135523224",
+    "imdb": "tt38644831",
+    "tmdb": 1290183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-29"
+}

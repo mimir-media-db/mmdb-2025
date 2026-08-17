@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_familiar_touch_2025",
+  "title": "Familiar Touch",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130164694",
+    "imdb": "tt32928666",
+    "tmdb": 1265717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-20"
+}

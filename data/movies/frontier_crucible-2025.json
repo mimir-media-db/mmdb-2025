@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_frontier_crucible_2025",
+  "title": "Frontier Crucible",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131308619",
+    "imdb": "tt34370951",
+    "tmdb": 1379413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fragments_of_a_life_loved_2025",
+  "title": "Fragments of a Life Loved",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130461743",
+    "imdb": "tt28635725",
+    "tmdb": 1157128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-04",
+  "runtime_minutes": 95
+}

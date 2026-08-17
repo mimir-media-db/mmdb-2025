@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fanny_2025_film_2025",
+  "title": "Fanny (2025 film)",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133871629",
+    "imdb": "tt34913322",
+    "tmdb": 1322790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-09",
+  "runtime_minutes": 115
+}

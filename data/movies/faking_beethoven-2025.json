@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faking_beethoven_2025",
+  "title": "Faking Beethoven",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136374446",
+    "imdb": "tt38516406",
+    "tmdb": 1501465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-12",
+  "runtime_minutes": 115
+}

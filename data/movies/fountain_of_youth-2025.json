@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fountain_of_youth_2025",
+  "title": "Fountain of Youth",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124256460",
+    "imdb": "tt27075958",
+    "tmdb": 1098006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-23",
+  "runtime_minutes": 125
+}

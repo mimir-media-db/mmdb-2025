@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_famiglia_ma_non_troppo_2025",
+  "title": "Famiglia, ma non troppo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135295082",
+    "imdb": "tt37457638",
+    "tmdb": 1429834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-18",
+  "runtime_minutes": 81
+}

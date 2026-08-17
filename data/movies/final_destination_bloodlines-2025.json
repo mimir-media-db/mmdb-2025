@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_destination_bloodlines_2025",
+  "title": "Final Destination Bloodlines",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118212751",
+    "imdb": "tt9619824",
+    "tmdb": 574475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-14",
+  "runtime_minutes": 110
+}

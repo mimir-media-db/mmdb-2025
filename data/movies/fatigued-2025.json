@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fatigued_2025",
+  "title": "The Fatigued",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573726",
+    "imdb": "tt36316702",
+    "tmdb": 1489430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-31",
+  "runtime_minutes": 97
+}

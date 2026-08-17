@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fremmed_det_frste_opgr_2025",
+  "title": "Fremmed - Det første opgør",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132646978",
+    "imdb": "tt27704759",
+    "tmdb": 1301012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 112
+}

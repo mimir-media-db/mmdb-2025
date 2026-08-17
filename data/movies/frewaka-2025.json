@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frewaka_2025",
+  "title": "Fréwaka",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130487629",
+    "imdb": "tt27828550",
+    "tmdb": 1189735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21",
+  "runtime_minutes": 103
+}

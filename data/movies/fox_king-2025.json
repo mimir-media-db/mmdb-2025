@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fox_king_2025",
+  "title": "The Fox King",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135668440",
+    "imdb": "tt29495236",
+    "tmdb": 1295691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-09"
+}

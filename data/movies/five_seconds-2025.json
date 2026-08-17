@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_seconds_2025",
+  "title": "Five Seconds",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135914044",
+    "imdb": "tt34960684",
+    "tmdb": 1368519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-18",
+  "runtime_minutes": 105
+}

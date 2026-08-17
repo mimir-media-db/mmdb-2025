@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_floating_2025",
+  "title": "Floating",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136690586",
+    "imdb": "tt37988447",
+    "tmdb": 1486195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-03",
+  "runtime_minutes": 7
+}

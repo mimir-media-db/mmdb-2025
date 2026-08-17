@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forbidden_fairytale_2025",
+  "title": "Forbidden Fairytale",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131412614",
+    "imdb": "tt35303960",
+    "tmdb": 1174128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-08"
+}

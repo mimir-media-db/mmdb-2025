@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_furcy_ne_libre_2025",
+  "title": "Furcy, né libre",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126692967",
+    "imdb": "tt31183235",
+    "tmdb": 960051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}
