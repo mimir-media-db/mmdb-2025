@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manitous_canoe_2025",
+  "title": "Manitou's Canoe",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128708059",
+    "imdb": "tt30972054",
+    "tmdb": 1233066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-14",
+  "runtime_minutes": 88
+}

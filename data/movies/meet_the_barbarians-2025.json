@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_the_barbarians_2025",
+  "title": "Meet the Barbarians",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127823593",
+    "imdb": "tt23640170",
+    "tmdb": 1001736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-20"
+}

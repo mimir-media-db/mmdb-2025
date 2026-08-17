@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madchen_konnen_kein_fuball_spielen_2025",
+  "title": "Mädchen können kein Fußball spielen",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135216001",
+    "imdb": "tt37493505",
+    "tmdb": 1470426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 89
+}

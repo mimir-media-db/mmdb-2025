@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_made_in_eu_2025",
+  "title": "Made In EU",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136675961",
+    "imdb": "tt37660486",
+    "tmdb": 974236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 108
+}

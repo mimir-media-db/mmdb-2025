@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moddhobitto_2025",
+  "title": "Moddhobitto",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128410774",
+    "imdb": "tt33062619",
+    "tmdb": 1429010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-03"
+}

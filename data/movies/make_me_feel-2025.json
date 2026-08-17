@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_make_me_feel_2025",
+  "title": "Make Me Feel",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134418715",
+    "imdb": "tt26769608",
+    "tmdb": 1477429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-13",
+  "runtime_minutes": 118
+}

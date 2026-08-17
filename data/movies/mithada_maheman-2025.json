@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mithada_maheman_2025",
+  "title": "Mithada Maheman",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133820357",
+    "imdb": "tt36204257",
+    "tmdb": 1467823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-18"
+}

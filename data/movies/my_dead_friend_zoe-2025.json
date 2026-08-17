@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_dead_friend_zoe_2025",
+  "title": "My Dead Friend Zoe",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124250689",
+    "imdb": "tt22022784",
+    "tmdb": 1128505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-28",
+  "runtime_minutes": 98
+}

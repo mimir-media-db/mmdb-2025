@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madklubben_hjemme_igen_2025",
+  "title": "Madklubben - Hjemme igen",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136525020",
+    "imdb": "tt33022450",
+    "tmdb": 1543902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-02"
+}

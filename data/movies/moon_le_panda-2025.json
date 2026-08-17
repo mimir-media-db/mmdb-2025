@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_le_panda_2025",
+  "title": "Moon le panda",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133751197",
+    "imdb": "tt35705226",
+    "tmdb": 1178532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

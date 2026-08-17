@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_dearest_senorita_2025",
+  "title": "My Dearest Señorita",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132192624",
+    "imdb": "tt31116965",
+    "tmdb": 1239198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

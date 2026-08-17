@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_more_loving_one_2025",
+  "title": "The More Loving One",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131765646",
+    "imdb": "tt34367800",
+    "tmdb": 1223594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-03"
+}

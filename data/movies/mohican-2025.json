@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mohican_2025",
+  "title": "The Mohican",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127947328",
+    "imdb": "tt33030107",
+    "tmdb": 1012601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-18",
+  "runtime_minutes": 87
+}

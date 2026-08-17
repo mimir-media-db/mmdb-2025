@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monkey_in_a_cage_2025",
+  "title": "Monkey in a Cage",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135678446",
+    "imdb": "tt32432515",
+    "tmdb": 1293550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-06"
+}

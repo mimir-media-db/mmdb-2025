@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muzzle_city_of_wolves_2025",
+  "title": "Muzzle: City of Wolves",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136432677",
+    "imdb": "tt32395062",
+    "tmdb": 1439112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-14",
+  "runtime_minutes": 93
+}

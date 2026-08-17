@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muxmauschenstill_x_2025",
+  "title": "Muxmäuschenstill X",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134350709",
+    "imdb": "tt32844154",
+    "tmdb": 1004985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-01"
+}

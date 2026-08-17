@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muromachi_burai_2025",
+  "title": "Muromachi Burai",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133306357",
+    "imdb": "tt34663773",
+    "tmdb": 1246369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-17"
+}

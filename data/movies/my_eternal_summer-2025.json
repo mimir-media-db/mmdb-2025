@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_eternal_summer_2025",
+  "title": "My Eternal Summer",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131289290",
+    "imdb": "tt32611911",
+    "tmdb": 1325024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-26",
+  "runtime_minutes": 105
+}

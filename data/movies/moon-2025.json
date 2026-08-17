@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_2025",
+  "title": "Moon",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127327216",
+    "imdb": "tt29141179",
+    "tmdb": 1172244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-27",
+  "runtime_minutes": 92
+}

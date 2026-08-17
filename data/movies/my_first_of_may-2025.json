@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_first_of_may_2025",
+  "title": "My First of May",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123330593",
+    "imdb": "tt35724928",
+    "tmdb": 1071646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-22"
+}

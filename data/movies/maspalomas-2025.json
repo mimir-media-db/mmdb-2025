@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maspalomas_2025",
+  "title": "Maspalomas",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135236096",
+    "imdb": "tt34945265",
+    "tmdb": 1400214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-20",
+  "runtime_minutes": 115
+}

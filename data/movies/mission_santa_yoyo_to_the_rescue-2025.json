@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_santa_yoyo_to_the_rescue_2025",
+  "title": "Mission Santa: Yoyo to the rescue",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136703755",
+    "imdb": "tt35820129",
+    "tmdb": 1455686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-06",
+  "runtime_minutes": 96
+}

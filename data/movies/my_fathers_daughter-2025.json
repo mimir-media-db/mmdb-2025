@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_fathers_daughter_2025",
+  "title": "My Fathers' Daughter",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129993664",
+    "imdb": "tt28802436",
+    "tmdb": 1320830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-07",
+  "runtime_minutes": 78
+}

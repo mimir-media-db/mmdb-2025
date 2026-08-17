@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_farm_2025",
+  "title": "Magic Farm",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131428110",
+    "imdb": "tt34966919",
+    "tmdb": 1309962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-28"
+}

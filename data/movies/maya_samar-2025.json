@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maya_samar_2025",
+  "title": "Maya & Samar",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137970171",
+    "imdb": "tt31190636",
+    "tmdb": 1513996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 95
+}

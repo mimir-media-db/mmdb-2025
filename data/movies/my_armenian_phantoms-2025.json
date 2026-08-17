@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_armenian_phantoms_2025",
+  "title": "My Armenian Phantoms",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131748110",
+    "imdb": "tt35327651",
+    "tmdb": 1414746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mayna_2025",
+  "title": "Mayna",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131752705",
+    "imdb": "tt35452827",
+    "tmdb": 1039123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-14"
+}

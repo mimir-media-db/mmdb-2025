@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_memory_hotel_2025",
+  "title": "Memory Hotel",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138772883",
+    "imdb": "tt34747902",
+    "tmdb": 588247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-30",
+  "runtime_minutes": 110
+}

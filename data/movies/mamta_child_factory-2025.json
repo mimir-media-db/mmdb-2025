@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mamta_child_factory_2025",
+  "title": "Mamta Child Factory",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137537086",
+    "imdb": "tt32260076",
+    "tmdb": 1596151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-10"
+}

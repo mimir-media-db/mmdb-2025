@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mastermind_2025",
+  "title": "The Mastermind",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130569520",
+    "imdb": "tt33455099",
+    "tmdb": 1352624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-23"
+}

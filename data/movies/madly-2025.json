@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madly_2025",
+  "title": "Madly",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132192659",
+    "imdb": "tt34621892",
+    "tmdb": 1312157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-20",
+  "runtime_minutes": 98
+}

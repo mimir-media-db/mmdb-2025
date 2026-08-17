@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mcwalter_2025",
+  "title": "McWalter",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135179636",
+    "imdb": "tt34078927",
+    "tmdb": 1301072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-12"
+}

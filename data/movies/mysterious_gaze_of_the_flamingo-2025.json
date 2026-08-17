@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mysterious_gaze_of_the_flamingo_2025",
+  "title": "The Mysterious Gaze of the Flamingo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134285373",
+    "imdb": "tt22237964",
+    "tmdb": 896096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-15",
+  "runtime_minutes": 104
+}
