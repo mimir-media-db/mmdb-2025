@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_mundo_da_lua",
+  "title": "Mundo da Lua",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133697914"
+  },
+  "last_updated": "2026-08-17"
+}

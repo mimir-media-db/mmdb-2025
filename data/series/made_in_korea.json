@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_made_in_korea",
+  "title": "Made in Korea",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124799060",
+    "imdb": "tt33298903",
+    "tmdb": 246473
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

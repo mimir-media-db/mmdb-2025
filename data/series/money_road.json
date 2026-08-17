@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_money_road",
+  "title": "Money Road",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134699626",
+    "imdb": "tt36824482",
+    "tmdb": 292792
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

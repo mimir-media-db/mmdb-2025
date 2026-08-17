@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_m_son_of_the_century",
+  "title": "M. Son of the Century",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125570544",
+    "imdb": "tt19386538",
+    "tmdb": 212333
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

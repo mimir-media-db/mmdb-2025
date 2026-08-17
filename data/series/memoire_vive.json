@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_memoire_vive",
+  "title": "Mémoire vive",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125931706",
+    "imdb": "tt32046835",
+    "tmdb": 251907
+  },
+  "last_updated": "2026-08-17"
+}

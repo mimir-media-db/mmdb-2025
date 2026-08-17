@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_madder",
+  "title": "MADDER その事件、ワタシが犯人です",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140469608",
+    "imdb": "tt36519603",
+    "tmdb": 286510
+  },
+  "last_updated": "2026-08-17"
+}
