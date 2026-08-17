@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_black_forest_murders",
+  "title": "The Black Forest Murders",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132225726",
+    "imdb": "tt35063792",
+    "tmdb": 281616
+  },
+  "last_updated": "2026-08-17"
+}

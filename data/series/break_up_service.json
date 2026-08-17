@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_break_up_service",
+  "title": "Break Up Service",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128962579",
+    "imdb": "tt32207426",
+    "tmdb": 252887
+  },
+  "last_updated": "2026-08-17"
+}

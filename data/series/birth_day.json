@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_birth_day",
+  "title": "Birth Day",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11328517",
+    "tmdb": 296305
+  },
+  "last_updated": "2026-08-17"
+}

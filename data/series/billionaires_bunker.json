@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_billionaires_bunker",
+  "title": "Billionaires' Bunker",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134589321",
+    "imdb": "tt31173096",
+    "tmdb": 245648
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

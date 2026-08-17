@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_thoughts",
+  "title": "Bad Thoughts",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133968421",
+    "imdb": "tt32082636",
+    "tmdb": 251608
+  },
+  "last_updated": "2026-08-17"
+}

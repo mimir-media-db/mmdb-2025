@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_boy_next_world",
+  "title": "The Boy Next World",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131626150",
+    "imdb": "tt34933916",
+    "tmdb": 236457
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

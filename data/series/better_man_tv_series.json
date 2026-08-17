@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_better_man_tv_series",
+  "title": "A Better Man (TV series)",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136803523",
+    "imdb": "tt32146322",
+    "tmdb": 296276
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

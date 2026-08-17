@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_black_box",
+  "title": "The Black Box",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136566012",
+    "imdb": "tt38808029",
+    "tmdb": 274380
+  },
+  "last_updated": "2026-08-17"
+}

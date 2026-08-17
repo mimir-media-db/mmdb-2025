@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bbb_o_documentario",
+  "title": "BBB: O Documentário",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131754412",
+    "imdb": "tt35256596",
+    "tmdb": 280962
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

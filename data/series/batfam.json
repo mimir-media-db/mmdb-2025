@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_batfam",
+  "title": "Bat-Fam",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136649415",
+    "imdb": "tt27621333",
+    "tmdb": 225361
+  },
+  "last_updated": "2026-08-17"
+}

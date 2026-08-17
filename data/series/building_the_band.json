@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_building_the_band",
+  "title": "Building the Band",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135466762",
+    "imdb": "tt32492739",
+    "tmdb": 261887
+  },
+  "last_updated": "2026-08-17"
+}
