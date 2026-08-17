@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_play_dirty_2025",
+  "title": "Play Dirty",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124353875",
+    "imdb": "tt18392014",
+    "tmdb": 941109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-01",
+  "runtime_minutes": 128
+}

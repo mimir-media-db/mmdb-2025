@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_promised_sky_2025",
+  "title": "Promised Sky",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135655630",
+    "imdb": "tt33311007",
+    "tmdb": 1218412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-14",
+  "runtime_minutes": 95
+}

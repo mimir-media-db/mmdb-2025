@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_phule_2025",
+  "title": "Phule",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133816459",
+    "imdb": "tt21108804",
+    "tmdb": 965087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25",
+  "runtime_minutes": 129
+}

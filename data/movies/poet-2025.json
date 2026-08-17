@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poet_2025",
+  "title": "The Poet",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124153738",
+    "imdb": "tt24218224",
+    "tmdb": 1008445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

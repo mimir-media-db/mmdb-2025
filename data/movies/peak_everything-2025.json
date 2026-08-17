@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peak_everything_2025",
+  "title": "Peak Everything",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133882633",
+    "imdb": "tt33335204",
+    "tmdb": 1283671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-18"
+}

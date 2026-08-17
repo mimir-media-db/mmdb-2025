@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_proud_princess_2025",
+  "title": "The Proud Princess",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898618",
+    "imdb": "tt10996076",
+    "tmdb": 1134680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-30",
+  "runtime_minutes": 84
+}

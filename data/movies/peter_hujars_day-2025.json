@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peter_hujars_day_2025",
+  "title": "Peter Hujar’s Day",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131428368",
+    "imdb": "tt34250044",
+    "tmdb": 1159539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-27",
+  "runtime_minutes": 76
+}

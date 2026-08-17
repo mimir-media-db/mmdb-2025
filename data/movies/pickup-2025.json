@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pickup_2025",
+  "title": "The Pickup",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125578089",
+    "imdb": "tt30445556",
+    "tmdb": 1106289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-06"
+}

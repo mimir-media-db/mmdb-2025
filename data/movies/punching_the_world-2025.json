@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_punching_the_world_2025",
+  "title": "Punching the World",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131932060",
+    "imdb": "tt26414209",
+    "tmdb": 1338472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-03",
+  "runtime_minutes": 110
+}

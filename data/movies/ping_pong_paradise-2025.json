@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ping_pong_paradise_2025",
+  "title": "Ping Pong Paradise",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135982952",
+    "imdb": "tt30276694"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-23",
+  "runtime_minutes": 111
+}

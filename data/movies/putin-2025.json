@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_putin_2025",
+  "title": "Putin",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125999766",
+    "imdb": "tt20414834",
+    "tmdb": 1255795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-09"
+}

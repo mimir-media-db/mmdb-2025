@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_protector_2025",
+  "title": "Protector",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138000912",
+    "imdb": "tt34471850",
+    "tmdb": 1383731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-19"
+}

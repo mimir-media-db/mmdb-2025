@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prophet_omniscient_reader_2025",
+  "title": "The Prophet: Omniscient Reader",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126724933",
+    "imdb": "tt30254719",
+    "tmdb": 1131759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-23",
+  "runtime_minutes": 117
+}

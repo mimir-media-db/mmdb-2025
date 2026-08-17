@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pelli_kani_prasad_2025",
+  "title": "Pelli Kani Prasad",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133573206",
+    "imdb": "tt35918041",
+    "tmdb": 1449928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21"
+}

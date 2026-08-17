@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_persona_a_strange_girl_2025",
+  "title": "Persona a Strange Girl",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598105",
+    "imdb": "tt26698192",
+    "tmdb": 1039374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-15"
+}

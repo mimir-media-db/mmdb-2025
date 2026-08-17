@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_psylibrium_a_collection_of_short_films_by_sergiy_pudich_2025",
+  "title": "Psylibrium: A collection of Short Films by Sergiy Pudich",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573771",
+    "imdb": "tt38582296",
+    "tmdb": 1673471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-01"
+}

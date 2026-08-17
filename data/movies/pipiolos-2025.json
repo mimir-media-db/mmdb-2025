@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pipiolos_2025",
+  "title": "Pipiolos",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137655442",
+    "imdb": "tt35052680",
+    "tmdb": 1445711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-10",
+  "runtime_minutes": 24
+}

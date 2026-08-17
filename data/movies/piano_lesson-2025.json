@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piano_lesson_2025",
+  "title": "The Piano Lesson",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117842630",
+    "imdb": "tt15507512",
+    "tmdb": 804406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 125
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poughkeepsie_crispies_2025",
+  "title": "Poughkeepsie Crispies",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133854498",
+    "imdb": "tt36506392",
+    "tmdb": 1462754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-10",
+  "runtime_minutes": 6
+}

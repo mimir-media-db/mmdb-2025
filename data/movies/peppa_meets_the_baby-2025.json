@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peppa_meets_the_baby_2025",
+  "title": "Peppa Meets the Baby",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137183990",
+    "imdb": "tt36414406",
+    "tmdb": 1458437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-30"
+}

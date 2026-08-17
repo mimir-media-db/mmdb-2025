@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_predator_badlands_2025",
+  "title": "Predator: Badlands",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126396314",
+    "imdb": "tt31227572",
+    "tmdb": 1242898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-05",
+  "runtime_minutes": 108
+}

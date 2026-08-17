@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_gamble_2025",
+  "title": "The Perfect Gamble",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130569705",
+    "imdb": "tt32482844",
+    "tmdb": 1297458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_positions_2025",
+  "title": "$POSITIONS",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139619762",
+    "imdb": "tt30304841",
+    "tmdb": 1303498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-08",
+  "runtime_minutes": 97
+}

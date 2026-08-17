@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_principal_examination_2025",
+  "title": "Principal Examination",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136274809",
+    "tmdb": 1475029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-20"
+}

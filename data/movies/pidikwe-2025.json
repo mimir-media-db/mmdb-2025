@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pidikwe_2025",
+  "title": "Pidikwe",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131759791",
+    "imdb": "tt35506320",
+    "tmdb": 1414895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_papaya_2025",
+  "title": "Papaya",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137473422",
+    "imdb": "tt38350704",
+    "tmdb": 1534205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

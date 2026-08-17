@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_popeye_the_slayer_man_2025",
+  "title": "Popeye the Slayer Man",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132817663",
+    "imdb": "tt30956852",
+    "tmdb": 1388366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21"
+}

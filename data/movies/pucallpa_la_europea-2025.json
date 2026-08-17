@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pucallpa_la_europea_2025",
+  "title": "Pucallpa la Europea",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136078072",
+    "imdb": "tt43711985",
+    "tmdb": 1507240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 105
+}

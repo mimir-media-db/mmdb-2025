@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_politicas_familiares_2025",
+  "title": "Políticas familiares",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135932635",
+    "imdb": "tt38039344",
+    "tmdb": 1517338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

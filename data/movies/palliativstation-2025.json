@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_palliativstation_2025",
+  "title": "Palliativstation",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131953479",
+    "imdb": "tt35494602",
+    "tmdb": 1418620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

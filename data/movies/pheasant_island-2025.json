@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pheasant_island_2025",
+  "title": "Pheasant Island",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133874382",
+    "imdb": "tt31436598",
+    "tmdb": 1248185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-25"
+}

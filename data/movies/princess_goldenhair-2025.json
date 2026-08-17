@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_princess_goldenhair_2025",
+  "title": "Princess Goldenhair",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898122",
+    "imdb": "tt3354678",
+    "tmdb": 1368602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-23",
+  "runtime_minutes": 116
+}

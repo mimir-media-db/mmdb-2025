@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_peace_of_mind_2025",
+  "title": "Peace Of Mind",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139550962",
+    "imdb": "tt38517030"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}
