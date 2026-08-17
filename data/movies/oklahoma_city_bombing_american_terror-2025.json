@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oklahoma_city_bombing_american_terror_2025",
+  "title": "Oklahoma City Bombing: American Terror",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133888220",
+    "imdb": "tt36351149",
+    "tmdb": 1455132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-18",
+  "runtime_minutes": 88
+}

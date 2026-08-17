@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oxana_2025",
+  "title": "Oxana",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133886426",
+    "imdb": "tt29389846",
+    "tmdb": 1153111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-03"
+}

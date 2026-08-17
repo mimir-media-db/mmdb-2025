@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_battle_after_another_2025",
+  "title": "One Battle After Another",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117085614",
+    "imdb": "tt30144839",
+    "tmdb": 1054867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-08",
+  "runtime_minutes": 9691
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_hadal_2025",
+  "title": "Operation Hadal",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132029622",
+    "imdb": "tt32515812",
+    "tmdb": 1280330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-26"
+}

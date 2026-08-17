@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_to_one_john_yoko_2025",
+  "title": "One to One: John & Yoko",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130242435",
+    "imdb": "tt33029955",
+    "tmdb": 1320392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-26",
+  "runtime_minutes": 101
+}

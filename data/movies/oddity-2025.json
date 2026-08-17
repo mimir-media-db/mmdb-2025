@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oddity_2025",
+  "title": "Oddity",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124852795",
+    "imdb": "tt26470109",
+    "tmdb": 1216191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-20",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_old_woman_with_the_knife_2025",
+  "title": "The Old Woman with the Knife",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598232",
+    "imdb": "tt34509472",
+    "tmdb": 1247002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-20",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_pope_2025",
+  "title": "Operation Pope",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136408154",
+    "imdb": "tt33996793",
+    "tmdb": 1359076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-26",
+  "runtime_minutes": 123
+}

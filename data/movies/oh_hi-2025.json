@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oh_hi_2025",
+  "title": "Oh, Hi!",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131429514",
+    "imdb": "tt33292655",
+    "tmdb": 1339658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-26",
+  "runtime_minutes": 94
+}

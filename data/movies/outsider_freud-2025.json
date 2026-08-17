@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outsider_freud_2025",
+  "title": "Outsider. Freud",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140605212",
+    "imdb": "tt35170345",
+    "tmdb": 1398383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 66
+}

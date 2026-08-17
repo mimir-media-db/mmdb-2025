@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_orphans_2025",
+  "title": "The Orphans",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135416027",
+    "imdb": "tt35330717",
+    "tmdb": 1244975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-20",
+  "runtime_minutes": 95
+}

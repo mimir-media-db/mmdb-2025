@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_o_horizon_2025",
+  "title": "O Horizon",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116966057",
+    "imdb": "tt25971256",
+    "tmdb": 1070754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-08"
+}

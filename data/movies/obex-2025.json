@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_obex_2025",
+  "title": "OBEX",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131471444",
+    "imdb": "tt29544916",
+    "tmdb": 1212461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-25"
+}

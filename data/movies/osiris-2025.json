@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_osiris_2025",
+  "title": "Osiris",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124625067",
+    "imdb": "tt31179712",
+    "tmdb": 1241470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-25",
+  "runtime_minutes": 120
+}

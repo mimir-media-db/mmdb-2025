@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_only_on_earth_2025",
+  "title": "Only on Earth",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131922217",
+    "imdb": "tt32373054",
+    "tmdb": 1394818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 93
+}
