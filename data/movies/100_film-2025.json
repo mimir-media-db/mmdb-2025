@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_100_film_2025",
+  "title": "The 100 (film)",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135438436",
+    "imdb": "tt15509506",
+    "tmdb": 1503551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-11",
+  "runtime_minutes": 135
+}

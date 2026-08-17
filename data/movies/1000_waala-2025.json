@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_1000_waala_2025",
+  "title": "1000 Waala",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133567039",
+    "imdb": "tt36071714"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-14"
+}

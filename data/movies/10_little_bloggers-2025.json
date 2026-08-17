@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_10_little_bloggers_2025",
+  "title": "10 Little Bloggers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136352389",
+    "imdb": "tt37595799",
+    "tmdb": 1485681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-16"
+}

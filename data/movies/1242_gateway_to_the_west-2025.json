@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1242_gateway_to_the_west_2025",
+  "title": "1242: Gateway to the West",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112054710",
+    "imdb": "tt13542474",
+    "tmdb": 974562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-02",
+  "runtime_minutes": 105
+}

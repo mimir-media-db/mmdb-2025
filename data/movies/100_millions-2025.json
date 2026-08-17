@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_100_millions_2025",
+  "title": "100 Millions !",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132852269",
+    "imdb": "tt35404638",
+    "tmdb": 1309410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-26",
+  "runtime_minutes": 97
+}

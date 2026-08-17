@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_100_liters_of_gold_2025",
+  "title": "100 Liters of Gold",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131929176",
+    "imdb": "tt33311744",
+    "tmdb": 1204016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-28",
+  "runtime_minutes": 88
+}
