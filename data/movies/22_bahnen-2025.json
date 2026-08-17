@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_22_bahnen_2025",
+  "title": "22 Bahnen",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134695973",
+    "imdb": "tt32433627",
+    "tmdb": 1380070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-04"
+}

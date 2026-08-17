@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2073_2025",
+  "title": "2073",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127785559",
+    "imdb": "tt22042346",
+    "tmdb": 1023915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_28_degree_celsius_2025",
+  "title": "28 Degree Celsius",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133833412",
+    "imdb": "tt12740666",
+    "tmdb": 586369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-04",
+  "runtime_minutes": 119
+}
