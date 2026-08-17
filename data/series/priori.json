@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_priori",
+  "title": "A priori",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130196032",
+    "imdb": "tt35667817",
+    "tmdb": 258003
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_prisoner_of_beauty",
+  "title": "The Prisoner Of Beauty",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q134497490",
+    "imdb": "tt28115977",
+    "tmdb": 220269
+  },
+  "last_updated": "2026-08-17"
+}

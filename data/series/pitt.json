@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pitt",
+  "title": "The Pitt",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131431817",
+    "imdb": "tt31938062",
+    "tmdb": 250307
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pirates_of_antiquities",
+  "title": "Pirates of Antiquities",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135208325",
+    "imdb": "tt36616312"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

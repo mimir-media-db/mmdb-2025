@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_parantaja",
+  "title": "Parantaja",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133569230",
+    "imdb": "tt36313216",
+    "tmdb": 287853
+  },
+  "last_updated": "2026-08-17"
+}

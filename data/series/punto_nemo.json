@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_punto_nemo",
+  "title": "Punto Nemo",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q133264072",
+    "imdb": "tt32881242",
+    "tmdb": 280893
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

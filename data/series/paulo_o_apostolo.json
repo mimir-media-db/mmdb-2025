@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paulo_o_apostolo",
+  "title": "Paulo, o Apóstolo",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131851466",
+    "imdb": "tt35936543",
+    "tmdb": 283073
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}

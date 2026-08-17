@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pour_toujours",
+  "title": "Pour toujours",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133287607",
+    "imdb": "tt15515490",
+    "tmdb": 248394
+  },
+  "last_updated": "2026-08-17"
+}

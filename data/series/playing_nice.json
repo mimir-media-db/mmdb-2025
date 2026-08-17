@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_playing_nice",
+  "title": "Playing Nice",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q124166583",
+    "imdb": "tt30135004",
+    "tmdb": 242706
+  },
+  "last_updated": "2026-08-17"
+}
