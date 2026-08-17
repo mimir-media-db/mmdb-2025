@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_virgins_2025",
+  "title": "Virgins",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134961411",
+    "imdb": "tt33511100",
+    "tmdb": 1445389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

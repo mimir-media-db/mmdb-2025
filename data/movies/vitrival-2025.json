@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vitrival_2025",
+  "title": "Vitrival",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132006324",
+    "imdb": "tt35332621",
+    "tmdb": 1012611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31"
+}

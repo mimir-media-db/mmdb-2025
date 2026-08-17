@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vermiglio_2025",
+  "title": "Vermiglio",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127699542",
+    "imdb": "tt28618488",
+    "tmdb": 1151244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-03",
+  "runtime_minutes": 119
+}

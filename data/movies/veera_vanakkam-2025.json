@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_veera_vanakkam_2025",
+  "title": "veera vanakkam",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136226369",
+    "imdb": "tt37931696"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-29"
+}

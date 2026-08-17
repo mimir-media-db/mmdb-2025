@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_valley_of_the_shadow_of_death_2025",
+  "title": "Valley of the Shadow of Death",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125120052",
+    "imdb": "tt33982106",
+    "tmdb": 1361565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-05"
+}

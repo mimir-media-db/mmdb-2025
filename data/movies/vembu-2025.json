@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vembu_2025",
+  "title": "Vembu",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134475956",
+    "imdb": "tt28601576",
+    "tmdb": 1477248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-23"
+}
