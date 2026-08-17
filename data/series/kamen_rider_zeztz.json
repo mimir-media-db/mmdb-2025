@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kamen_rider_zeztz",
+  "title": "Kamen Rider ZEZTZ",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135420988",
+    "imdb": "tt37532884",
+    "tmdb": 295434
+  },
+  "last_updated": "2026-08-17"
+}
