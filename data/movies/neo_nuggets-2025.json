@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_neo_nuggets_2025",
+  "title": "Neo Nuggets",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133887532",
+    "imdb": "tt35668907",
+    "tmdb": 1445182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-16",
+  "runtime_minutes": 104
+}

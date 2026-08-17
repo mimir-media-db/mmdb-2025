@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nine_2025",
+  "title": "The Nine",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106640951",
+    "imdb": "tt12452380",
+    "tmdb": 1572992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-31"
+}

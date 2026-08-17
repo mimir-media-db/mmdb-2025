@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naked_gun_2025",
+  "title": "The Naked Gun",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125908027",
+    "imdb": "tt3402138",
+    "tmdb": 1035259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-31",
+  "runtime_minutes": 85
+}

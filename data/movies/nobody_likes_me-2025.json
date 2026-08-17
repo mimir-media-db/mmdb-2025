@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nobody_likes_me_2025",
+  "title": "Nobody Likes Me",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898277",
+    "imdb": "tt13599798",
+    "tmdb": 1033023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-16",
+  "runtime_minutes": 105
+}

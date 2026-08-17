@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_shade_in_the_forest_2025",
+  "title": "No shade in the forest",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575500",
+    "imdb": "tt36856885",
+    "tmdb": 1544054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-04",
+  "runtime_minutes": 75
+}

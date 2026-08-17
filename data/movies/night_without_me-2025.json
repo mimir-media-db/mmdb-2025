@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_without_me_2025",
+  "title": "The Night Without Me",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138341449",
+    "imdb": "tt30292289",
+    "tmdb": 1379659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 68
+}

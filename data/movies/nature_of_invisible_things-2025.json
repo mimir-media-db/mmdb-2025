@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nature_of_invisible_things_2025",
+  "title": "The Nature of Invisible Things",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131460340",
+    "imdb": "tt35051106",
+    "tmdb": 1403855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-14",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_nos_moveran_2025",
+  "title": "No nos moverán",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131706098",
+    "imdb": "tt31113406",
+    "tmdb": 1252505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-22",
+  "runtime_minutes": 96
+}

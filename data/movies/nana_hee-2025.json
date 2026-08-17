@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nana_hee_2025",
+  "title": "Nana Hee",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134301585",
+    "imdb": "tt36048406",
+    "tmdb": 1308789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-07"
+}

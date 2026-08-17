@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nahrboden_2025",
+  "title": "Nährboden",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140546370",
+    "imdb": "tt40504548"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 41
+}

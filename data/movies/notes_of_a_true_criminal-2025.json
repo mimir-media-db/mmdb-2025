@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notes_of_a_true_criminal_2025",
+  "title": "Notes of a True Criminal",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136207704",
+    "imdb": "tt37619675",
+    "tmdb": 1376872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-27",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nat_win_the_2025",
+  "title": "Nat Win The",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140196487",
+    "imdb": "tt43575043",
+    "tmdb": 1714843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-31"
+}

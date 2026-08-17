@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_comply_2025",
+  "title": "No Comply",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134468989",
+    "imdb": "tt22924356",
+    "tmdb": 1477828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-15",
+  "runtime_minutes": 52
+}

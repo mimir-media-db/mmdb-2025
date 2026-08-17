@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_now_you_see_me_now_you_dont_2025",
+  "title": "Now You See Me: Now You Don't",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65146722",
+    "imdb": "tt4712810",
+    "tmdb": 425274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-11",
+  "runtime_minutes": 113
+}
