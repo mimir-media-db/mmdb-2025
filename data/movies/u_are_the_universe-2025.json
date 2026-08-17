@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_u_are_the_universe_2025",
+  "title": "U Are the Universe",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130393156",
+    "imdb": "tt19783734",
+    "tmdb": 1013052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-20",
+  "runtime_minutes": 90
+}

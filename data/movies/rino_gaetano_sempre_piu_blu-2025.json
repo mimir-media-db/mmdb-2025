@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rino_gaetano_sempre_piu_blu_2025",
+  "title": "Rino Gaetano - Sempre più blu",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136858186",
+    "imdb": "tt38941965",
+    "tmdb": 1563011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-20",
+  "runtime_minutes": 90
+}

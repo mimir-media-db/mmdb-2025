@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mouths_of_sky",
+  "title": "Mouths of Sky",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136394316",
+    "imdb": "tt33461659",
+    "tmdb": 272051
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

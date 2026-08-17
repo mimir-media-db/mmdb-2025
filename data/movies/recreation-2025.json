@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_recreation_2025",
+  "title": "Re-creation",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135458349",
+    "imdb": "tt27765947",
+    "tmdb": 1246215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-08",
+  "runtime_minutes": 89
+}

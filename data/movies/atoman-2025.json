@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_atoman_2025",
+  "title": "Atoman",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136094141",
+    "imdb": "tt15004066",
+    "tmdb": 869048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-29"
+}

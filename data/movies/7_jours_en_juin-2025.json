@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_7_jours_en_juin_2025",
+  "title": "7 jours en juin",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138009975",
+    "imdb": "tt36943982",
+    "tmdb": 1493020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-19"
+}

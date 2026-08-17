@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_stick",
+  "title": "Stick",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130342169",
+    "imdb": "tt31710249",
+    "tmdb": 248830
+  },
+  "last_updated": "2026-08-17"
+}

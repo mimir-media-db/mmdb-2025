@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bright_lawyer_2025",
+  "title": "A Bright Lawyer",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132753537",
+    "imdb": "tt32864398",
+    "tmdb": 1251875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-06"
+}

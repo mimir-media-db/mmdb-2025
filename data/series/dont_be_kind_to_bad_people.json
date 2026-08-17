@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dont_be_kind_to_bad_people",
+  "title": "Don't be Kind to Bad People",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136556394",
+    "imdb": "tt37360339",
+    "tmdb": 304208
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 84
+}

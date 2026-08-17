@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_long_way_home",
+  "title": "Long Way Home",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133846192",
+    "imdb": "tt33096033",
+    "tmdb": 262594
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_old_dog_new_tricks",
+  "title": "Old Dog, New Tricks",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134588601",
+    "imdb": "tt30817086",
+    "tmdb": 243200
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_prime_target",
+  "title": "Prime Target",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124544741",
+    "imdb": "tt31186958",
+    "tmdb": 246381
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

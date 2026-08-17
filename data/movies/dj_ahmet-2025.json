@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dj_ahmet_2025",
+  "title": "DJ Ahmet",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131872923",
+    "imdb": "tt34964187",
+    "tmdb": 1400743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 99
+}

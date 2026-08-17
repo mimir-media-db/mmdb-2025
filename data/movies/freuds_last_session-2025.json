@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freuds_last_session_2025",
+  "title": "Freud's Last Session",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116032513",
+    "imdb": "tt20420628",
+    "tmdb": 1025491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-04",
+  "runtime_minutes": 108
+}

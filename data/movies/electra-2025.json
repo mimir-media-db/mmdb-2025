@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_electra_2025",
+  "title": "Electra",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133573214",
+    "imdb": "tt22375408",
+    "tmdb": 1029555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-02"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_skillhouse_2025",
+  "title": "Skillhouse",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135209236",
+    "imdb": "tt19637220",
+    "tmdb": 962354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24"
+}

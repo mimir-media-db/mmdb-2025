@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seeking_haven_for_mr_rambo_2025",
+  "title": "Seeking Haven for Mr. Rambo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131577445",
+    "imdb": "tt33030125",
+    "tmdb": 1170841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

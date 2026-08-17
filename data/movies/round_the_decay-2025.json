@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_round_the_decay_2025",
+  "title": "Round the Decay",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131937855",
+    "imdb": "tt28104012",
+    "tmdb": 1225202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31"
+}

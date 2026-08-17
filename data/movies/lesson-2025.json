@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lesson_2025",
+  "title": "The Lesson",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138721851",
+    "imdb": "tt29302662"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

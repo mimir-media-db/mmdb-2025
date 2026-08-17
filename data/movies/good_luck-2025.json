@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_luck_2025",
+  "title": "The Good Luck",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132063723",
+    "imdb": "tt33325820",
+    "tmdb": 1432635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-16"
+}

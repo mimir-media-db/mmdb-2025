@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_second_victims_2025",
+  "title": "Second Victims",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133761158",
+    "imdb": "tt32210485",
+    "tmdb": 1395177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-10",
+  "runtime_minutes": 92
+}

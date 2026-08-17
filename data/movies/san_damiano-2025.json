@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_san_damiano_2025",
+  "title": "San Damiano",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140177807",
+    "imdb": "tt33581367",
+    "tmdb": 1207216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-10",
+  "runtime_minutes": 86
+}

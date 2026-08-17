@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_jane_austen_rise_of_a_genius",
+  "title": "Jane Austen: Rise of a Genius",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136843203",
+    "imdb": "tt37037765",
+    "tmdb": 291659
+  },
+  "last_updated": "2026-08-17"
+}

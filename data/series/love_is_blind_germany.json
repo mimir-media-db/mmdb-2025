@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_love_is_blind_germany",
+  "title": "Love is Blind: Germany",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125206211",
+    "imdb": "tt27719131",
+    "tmdb": 253030
+  },
+  "last_updated": "2026-08-17"
+}

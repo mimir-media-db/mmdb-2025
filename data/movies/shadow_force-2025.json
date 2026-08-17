@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_force_2025",
+  "title": "Shadow Force",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119625137",
+    "imdb": "tt11092020",
+    "tmdb": 757725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-09"
+}

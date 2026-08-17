@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_lover_2025",
+  "title": "Dead Lover",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131920948",
+    "imdb": "tt27378311",
+    "tmdb": 1073973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24",
+  "runtime_minutes": 84
+}

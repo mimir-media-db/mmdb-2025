@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_incredible_snow_woman_2025",
+  "title": "The Incredible Snow Woman",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131839275",
+    "imdb": "tt34717620",
+    "tmdb": 1221711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-17",
+  "runtime_minutes": 101
+}

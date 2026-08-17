@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_fridge_2025",
+  "title": "Deep Fridge",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137301314",
+    "imdb": "tt29705996",
+    "tmdb": 1106243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-21",
+  "runtime_minutes": 104
+}

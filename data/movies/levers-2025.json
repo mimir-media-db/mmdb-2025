@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_levers_2025",
+  "title": "Levers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135901976",
+    "imdb": "tt37848736",
+    "tmdb": 1507507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-05"
+}

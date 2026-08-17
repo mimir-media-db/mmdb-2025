@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_a_comedian_2025",
+  "title": "Death of a Comedian",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139044008",
+    "imdb": "tt22014400",
+    "tmdb": 1007435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 94
+}

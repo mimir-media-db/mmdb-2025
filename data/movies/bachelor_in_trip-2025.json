@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bachelor_in_trip_2025",
+  "title": "Bachelor In trip",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137590175",
+    "imdb": "tt39277073"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-03"
+}

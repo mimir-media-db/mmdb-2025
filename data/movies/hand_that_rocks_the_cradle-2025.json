@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hand_that_rocks_the_cradle_2025",
+  "title": "The Hand That Rocks the Cradle",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133627078",
+    "imdb": "tt33502160",
+    "tmdb": 1362315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-22"
+}

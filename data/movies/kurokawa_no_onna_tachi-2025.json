@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kurokawa_no_onna_tachi_2025",
+  "title": "Kurokawa no onna tachi",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134579940",
+    "imdb": "tt36711186",
+    "tmdb": 1518269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-12",
+  "runtime_minutes": 99
+}

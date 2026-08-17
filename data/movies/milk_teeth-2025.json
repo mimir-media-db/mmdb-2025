@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_milk_teeth_2025",
+  "title": "Milk Teeth",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136088499",
+    "imdb": "tt28084384",
+    "tmdb": 1517125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-28"
+}

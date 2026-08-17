@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_veni_vidi_vici_2025",
+  "title": "Veni Vidi Vici",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123693993",
+    "imdb": "tt26006472",
+    "tmdb": 1078810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-09",
+  "runtime_minutes": 86
+}

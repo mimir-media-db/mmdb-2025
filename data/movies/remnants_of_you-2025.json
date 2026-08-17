@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_remnants_of_you_2025",
+  "title": "The Remnants of You",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116752130",
+    "imdb": "tt25813918",
+    "tmdb": 1084695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-16",
+  "runtime_minutes": 91
+}

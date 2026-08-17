@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunger_strike_breakfast_2025",
+  "title": "Hunger Strike Breakfast",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140738364",
+    "imdb": "tt15289514",
+    "tmdb": 1339586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 85
+}

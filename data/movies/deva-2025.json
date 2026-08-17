@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deva_2025",
+  "title": "Deva",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125295778",
+    "imdb": "tt27852049",
+    "tmdb": 1195430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31"
+}

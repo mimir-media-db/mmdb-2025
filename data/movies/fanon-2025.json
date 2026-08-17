@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fanon_2025",
+  "title": "Fanon",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133214418",
+    "imdb": "tt28545881",
+    "tmdb": 1000432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-02",
+  "runtime_minutes": 133
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_club_2025",
+  "title": "The Dance Club",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130474861",
+    "imdb": "tt33269715",
+    "tmdb": 1505914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-19"
+}

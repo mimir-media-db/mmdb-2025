@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brave_the_dark_2025",
+  "title": "Brave the Dark",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123094814",
+    "imdb": "tt10381102",
+    "tmdb": 659956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_skillsville",
+  "title": "Skillsville",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q132656408",
+    "imdb": "tt35512807",
+    "tmdb": 285886
+  },
+  "last_updated": "2026-08-17"
+}

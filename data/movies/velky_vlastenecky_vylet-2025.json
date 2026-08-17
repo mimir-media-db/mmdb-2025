@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_velky_vlastenecky_vylet_2025",
+  "title": "Velký vlastenecký výlet",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135298272",
+    "imdb": "tt37998031",
+    "tmdb": 1517176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_project_y_2025",
+  "title": "Project Y",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135437367",
+    "imdb": "tt37658798",
+    "tmdb": 1401542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-10",
+  "runtime_minutes": 110
+}

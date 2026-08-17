@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_underground",
+  "title": "Underground",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q123038189",
+    "imdb": "tt38043411",
+    "tmdb": 287929
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

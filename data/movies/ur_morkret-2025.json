@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ur_morkret_2025",
+  "title": "Ur mörkret",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124684313",
+    "imdb": "tt29416620",
+    "tmdb": 1202863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-29"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_house_is_on_fire_2025",
+  "title": "Our House is on Fire",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573799",
+    "imdb": "tt31718689",
+    "tmdb": 1342394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-29",
+  "runtime_minutes": 94
+}

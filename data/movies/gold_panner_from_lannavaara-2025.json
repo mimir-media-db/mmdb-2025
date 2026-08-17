@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gold_panner_from_lannavaara_2025",
+  "title": "The Gold Panner from Lannavaara",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136796405",
+    "imdb": "tt31701644",
+    "tmdb": 1525281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-07",
+  "runtime_minutes": 90
+}

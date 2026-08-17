@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_6_days_2025",
+  "title": "6 Days",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131947778",
+    "imdb": "tt34338540",
+    "tmdb": 1366300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-15"
+}

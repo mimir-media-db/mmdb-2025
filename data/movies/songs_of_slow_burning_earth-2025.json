@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_songs_of_slow_burning_earth_2025",
+  "title": "Songs of Slow Burning Earth",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133572782",
+    "imdb": "tt33029982",
+    "tmdb": 1052599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-23",
+  "runtime_minutes": 95
+}

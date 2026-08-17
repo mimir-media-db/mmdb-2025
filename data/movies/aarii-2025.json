@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aarii_2025",
+  "title": "Aarii",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132816513",
+    "imdb": "tt35929295",
+    "tmdb": 1372676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25"
+}

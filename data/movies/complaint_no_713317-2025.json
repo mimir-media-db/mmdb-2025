@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_complaint_no_713317_2025",
+  "title": "Complaint No. 713317",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137589701",
+    "imdb": "tt38933481",
+    "tmdb": 1561642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-15",
+  "runtime_minutes": 80
+}

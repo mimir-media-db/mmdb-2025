@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_mrs_bachelor_2025",
+  "title": "Mr & Mrs Bachelor",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134577882",
+    "imdb": "tt33029493",
+    "tmdb": 1318735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-23"
+}

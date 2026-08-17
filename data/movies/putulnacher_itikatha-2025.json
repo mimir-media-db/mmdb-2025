@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_putulnacher_itikatha_2025",
+  "title": "Putulnacher Itikatha",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135615738",
+    "imdb": "tt33098141",
+    "tmdb": 929078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-01"
+}

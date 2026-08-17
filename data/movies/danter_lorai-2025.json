@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_danter_lorai_2025",
+  "title": "Danter Lorai",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135923508",
+    "imdb": "tt37434403",
+    "tmdb": 1683838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-11"
+}

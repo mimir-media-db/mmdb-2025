@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invincibles_2025",
+  "title": "Invincibles",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130493576",
+    "imdb": "tt31411053",
+    "tmdb": 1318234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-20",
+  "runtime_minutes": 118
+}

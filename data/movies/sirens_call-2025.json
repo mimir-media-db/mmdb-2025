@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sirens_call_2025",
+  "title": "Sirens Call",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131935666",
+    "imdb": "tt18235498",
+    "tmdb": 1080003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 121
+}

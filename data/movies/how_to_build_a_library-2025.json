@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_build_a_library_2025",
+  "title": "How to Build a Library",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131971628",
+    "imdb": "tt21104356",
+    "tmdb": 1182952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 103
+}

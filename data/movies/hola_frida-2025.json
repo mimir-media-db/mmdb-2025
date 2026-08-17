@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hola_frida_2025",
+  "title": "Hola Frida",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132315614",
+    "imdb": "tt35683445",
+    "tmdb": 1245399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-12",
+  "runtime_minutes": 82
+}

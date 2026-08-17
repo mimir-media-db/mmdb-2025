@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vitoria_2025",
+  "title": "Vitória",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130642119",
+    "imdb": "tt26675379",
+    "tmdb": 1043808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-13",
+  "runtime_minutes": 112
+}

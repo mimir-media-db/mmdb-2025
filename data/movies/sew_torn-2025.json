@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sew_torn_2025",
+  "title": "Sew Torn",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124853345",
+    "imdb": "tt23157384",
+    "tmdb": 1046758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-09",
+  "runtime_minutes": 95
+}

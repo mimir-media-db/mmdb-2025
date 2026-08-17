@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_diary_of_a_ditched_girl",
+  "title": "Diary of a Ditched Girl",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130427653",
+    "imdb": "tt31828121",
+    "tmdb": 283390
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

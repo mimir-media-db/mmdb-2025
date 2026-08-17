@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_scandal_of_chunhwa",
+  "title": "The Scandal of Chunhwa",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q130372681",
+    "imdb": "tt33143998",
+    "tmdb": 224733
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

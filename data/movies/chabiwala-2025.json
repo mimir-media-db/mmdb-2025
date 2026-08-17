@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chabiwala_2025",
+  "title": "Chabiwala",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134723517",
+    "imdb": "tt6855924",
+    "tmdb": 719808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-06"
+}

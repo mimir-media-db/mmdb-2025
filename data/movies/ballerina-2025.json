@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ballerina_2025",
+  "title": "Ballerina",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84713105",
+    "imdb": "tt7181546",
+    "tmdb": 541671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-05",
+  "runtime_minutes": 125
+}

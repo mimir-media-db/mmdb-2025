@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_reckoning_2025",
+  "title": "Day of Reckoning",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133809680",
+    "imdb": "tt35317668",
+    "tmdb": 1414048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-24"
+}

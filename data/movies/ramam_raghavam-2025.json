@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ramam_raghavam_2025",
+  "title": "Ramam Raghavam",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131363519",
+    "imdb": "tt29606517",
+    "tmdb": 1436660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-21"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_pavlovs_dog_2025",
+  "title": "Pavlov’s Dog",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842293",
+    "tmdb": 1505315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-25"
+}

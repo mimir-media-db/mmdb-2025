@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_tower_2025",
+  "title": "The Ice Tower",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129370495",
+    "imdb": "tt28171985",
+    "tmdb": 1143440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-16",
+  "runtime_minutes": 118
+}

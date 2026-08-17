@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bobo_bibi_in_miami_2025",
+  "title": "Bobo & Bibi in Miami",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134503536",
+    "imdb": "tt36606040",
+    "tmdb": 1467974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-20",
+  "runtime_minutes": 9
+}

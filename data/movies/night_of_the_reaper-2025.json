@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_the_reaper_2025",
+  "title": "Night of the Reaper",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136388923",
+    "imdb": "tt34379050",
+    "tmdb": 1502943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-19"
+}

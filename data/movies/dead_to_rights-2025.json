@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_to_rights_2025",
+  "title": "Dead To Rights",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135110330",
+    "imdb": "tt36598036",
+    "tmdb": 1500536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-25",
+  "runtime_minutes": 137
+}

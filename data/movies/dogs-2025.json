@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dogs_2025",
+  "title": "The Dogs",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137039187",
+    "imdb": "tt7873304",
+    "tmdb": 1081208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-01",
+  "runtime_minutes": 97
+}

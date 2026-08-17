@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bitter_cinnamon_2025",
+  "title": "Bitter Cinnamon",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128983712",
+    "imdb": "tt33480886",
+    "tmdb": 1474929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-03"
+}

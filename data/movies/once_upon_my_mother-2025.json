@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_my_mother_2025",
+  "title": "Once Upon My Mother",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131674614",
+    "imdb": "tt29927144",
+    "tmdb": 1107215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-19",
+  "runtime_minutes": 102
+}

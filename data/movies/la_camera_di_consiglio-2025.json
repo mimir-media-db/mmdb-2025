@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_camera_di_consiglio_2025",
+  "title": "La camera di consiglio",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136860225",
+    "imdb": "tt35672052",
+    "tmdb": 1550706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 107
+}

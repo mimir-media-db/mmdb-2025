@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lapocalypse_a_deja_eu_lieu_2025",
+  "title": "L'Apocalypse a déjà eu lieu",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137360847",
+    "imdb": "tt38048065",
+    "tmdb": 1534529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

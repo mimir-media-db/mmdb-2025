@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_here_now_2025",
+  "title": "Here Now",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125566469",
+    "imdb": "tt29293152",
+    "tmdb": 1183761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-23"
+}

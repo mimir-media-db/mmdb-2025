@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_silence",
+  "title": "Silence",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136024563",
+    "imdb": "tt37538765",
+    "tmdb": 298651
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

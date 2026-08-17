@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_some_nights_i_feel_like_walking_2025",
+  "title": "Some Nights I Feel Like Walking",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98684530",
+    "imdb": "tt11307646",
+    "tmdb": 643442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-27"
+}

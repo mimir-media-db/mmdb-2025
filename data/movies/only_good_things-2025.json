@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_only_good_things_2025",
+  "title": "Only good things",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136644414",
+    "imdb": "tt36204337",
+    "tmdb": 1427595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-11",
+  "runtime_minutes": 104
+}

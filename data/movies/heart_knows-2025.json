@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_knows_2025",
+  "title": "The Heart Knows",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134087745",
+    "imdb": "tt33244550",
+    "tmdb": 1327766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-30",
+  "runtime_minutes": 89
+}

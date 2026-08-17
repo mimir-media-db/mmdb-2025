@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haut_les_mains_2025",
+  "title": "Haut les mains",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132132833",
+    "imdb": "tt33396597",
+    "tmdb": 1193450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-12"
+}

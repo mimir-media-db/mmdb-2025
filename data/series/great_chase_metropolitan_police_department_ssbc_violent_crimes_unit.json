@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_great_chase_metropolitan_police_department_ssbc_violent_crimes_unit",
+  "title": "The Great Chase ~Metropolitan Police Department SSBC Violent Crimes Unit~",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134985015",
+    "imdb": "tt37541595",
+    "tmdb": 293433
+  },
+  "last_updated": "2026-08-17"
+}

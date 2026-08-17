@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_subteran",
+  "title": "Subteran",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131315938",
+    "imdb": "tt29632046",
+    "tmdb": 277805
+  },
+  "last_updated": "2026-08-17"
+}

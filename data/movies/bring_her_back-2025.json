@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bring_her_back_2025",
+  "title": "Bring Her Back",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127602379",
+    "imdb": "tt32246771",
+    "tmdb": 1151031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-28",
+  "runtime_minutes": 104
+}

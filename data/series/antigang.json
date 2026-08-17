@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_antigang",
+  "title": "Antigang",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135334059",
+    "imdb": "tt38590149",
+    "tmdb": 298954
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 116
+}

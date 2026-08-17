@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bernard_mission_mars_2025",
+  "title": "Bernard: Mission Mars",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131696443",
+    "imdb": "tt32526396",
+    "tmdb": 1174698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-02"
+}

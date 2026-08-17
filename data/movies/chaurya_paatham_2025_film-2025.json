@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chaurya_paatham_2025_film_2025",
+  "title": "Chaurya Paatham (2025 film)",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134308970",
+    "imdb": "tt31311161",
+    "tmdb": 1472031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25"
+}

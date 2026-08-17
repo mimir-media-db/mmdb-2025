@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_unspeakable_sins",
+  "title": "Unspeakable Sins",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135315935",
+    "imdb": "tt37504309",
+    "tmdb": 290276
+  },
+  "last_updated": "2026-08-17"
+}

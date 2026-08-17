@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nails",
+  "title": "Nails",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136095615",
+    "imdb": "tt35437331",
+    "tmdb": 282198
+  },
+  "last_updated": "2026-08-17"
+}

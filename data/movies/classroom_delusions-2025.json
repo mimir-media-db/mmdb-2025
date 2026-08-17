@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_classroom_delusions_2025",
+  "title": "Classroom Delusions",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135284036",
+    "tmdb": 1276686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-07",
+  "runtime_minutes": 102
+}

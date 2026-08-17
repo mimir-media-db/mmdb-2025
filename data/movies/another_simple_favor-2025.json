@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_another_simple_favor_2025",
+  "title": "Another Simple Favor",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125371155",
+    "imdb": "tt20214908",
+    "tmdb": 974573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-07",
+  "runtime_minutes": 120
+}

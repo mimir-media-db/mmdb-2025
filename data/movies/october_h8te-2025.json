@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_october_h8te_2025",
+  "title": "October H8TE",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133090597",
+    "imdb": "tt31190632",
+    "tmdb": 1383461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-14",
+  "runtime_minutes": 100
+}

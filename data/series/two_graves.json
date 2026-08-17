@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_two_graves",
+  "title": "Two Graves",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135087515",
+    "imdb": "tt32146392",
+    "tmdb": 280888
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

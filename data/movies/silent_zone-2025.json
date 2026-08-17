@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_zone_2025",
+  "title": "Silent Zone",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133263619",
+    "imdb": "tt9023964",
+    "tmdb": 1419229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-02",
+  "runtime_minutes": 119
+}

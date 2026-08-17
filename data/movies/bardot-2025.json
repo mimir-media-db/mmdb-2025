@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bardot_2025",
+  "title": "Bardot",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136952667",
+    "imdb": "tt20258222",
+    "tmdb": 977168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-19"
+}

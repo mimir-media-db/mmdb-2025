@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_planet_single_greek_adventure_2025",
+  "title": "Planet Single: Greek Adventure",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135965006",
+    "imdb": "tt37727295",
+    "tmdb": 1468789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-27",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meadowlarks_2025",
+  "title": "Meadowlarks",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135436957",
+    "imdb": "tt35537918",
+    "tmdb": 1396088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-07"
+}

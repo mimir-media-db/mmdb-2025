@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_superman_2025",
+  "title": "Superman",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116547790",
+    "imdb": "tt5950044",
+    "tmdb": 1061474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-09",
+  "runtime_minutes": 129
+}

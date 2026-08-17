@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_viaje_de_pelicula_2025",
+  "title": "Un viaje de película",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136699636",
+    "imdb": "tt35985946",
+    "tmdb": 1441193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

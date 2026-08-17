@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_animals_2025",
+  "title": "Dangerous Animals",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133885811",
+    "imdb": "tt32299316",
+    "tmdb": 1285965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-17"
+}

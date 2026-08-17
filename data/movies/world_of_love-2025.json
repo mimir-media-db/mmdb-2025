@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_world_of_love_2025",
+  "title": "The World of Love",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135488622",
+    "imdb": "tt37661885",
+    "tmdb": 1317512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-07",
+  "runtime_minutes": 119
+}

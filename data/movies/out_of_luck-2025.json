@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_out_of_luck_2025",
+  "title": "Out of Luck",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135189107",
+    "imdb": "tt32359630",
+    "tmdb": 1432717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-03"
+}

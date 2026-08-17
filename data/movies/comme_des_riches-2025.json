@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_comme_des_riches_2025",
+  "title": "Comme des riches",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135400408",
+    "imdb": "tt35657266",
+    "tmdb": 1261605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-23"
+}

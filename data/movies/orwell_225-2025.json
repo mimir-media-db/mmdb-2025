@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_orwell_225_2025",
+  "title": "Orwell: 2+2=5",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133852598",
+    "imdb": "tt27052428",
+    "tmdb": 1098534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-17",
+  "runtime_minutes": 119
+}

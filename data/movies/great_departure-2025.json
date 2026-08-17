@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_departure_2025",
+  "title": "The Great Departure",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136697978",
+    "imdb": "tt34886835",
+    "tmdb": 1396085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-01"
+}

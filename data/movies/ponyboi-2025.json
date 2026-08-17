@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ponyboi_2025",
+  "title": "Ponyboi",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123693164",
+    "imdb": "tt23939106",
+    "tmdb": 1052155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-27",
+  "runtime_minutes": 103
+}

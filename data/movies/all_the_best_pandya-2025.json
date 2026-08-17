@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_best_pandya_2025",
+  "title": "All The Best Pandya",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132774514",
+    "imdb": "tt35675007",
+    "tmdb": 1449379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-14"
+}

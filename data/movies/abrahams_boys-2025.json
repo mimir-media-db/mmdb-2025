@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abrahams_boys_2025",
+  "title": "Abraham's Boys",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135221376",
+    "imdb": "tt14808764",
+    "tmdb": 1452176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-05",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kontroll_2025",
+  "title": "Kontroll",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1073297",
+    "imdb": "tt0373981",
+    "tmdb": 5204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-14",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_bold_beautiful_journey_2025",
+  "title": "A Big Bold Beautiful Journey",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124497778",
+    "imdb": "tt13650700",
+    "tmdb": 1241921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-18",
+  "runtime_minutes": 109
+}

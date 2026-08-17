@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jodi_emon_hoto_2025",
+  "title": "Jodi Emon Hoto",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134300901",
+    "imdb": "tt31409642",
+    "tmdb": 1386709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31"
+}

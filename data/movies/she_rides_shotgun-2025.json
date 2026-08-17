@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_rides_shotgun_2025",
+  "title": "She Rides Shotgun",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124464617",
+    "imdb": "tt27986457",
+    "tmdb": 1196573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-01",
+  "runtime_minutes": 120
+}

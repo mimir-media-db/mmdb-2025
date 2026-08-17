@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_you_can_2025",
+  "title": "The Best You Can",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133890071",
+    "imdb": "tt30150769",
+    "tmdb": 1238379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-07",
+  "runtime_minutes": 103
+}

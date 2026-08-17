@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paul_2025",
+  "title": "Paul",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131738366",
+    "imdb": "tt35051084",
+    "tmdb": 1404183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-15"
+}

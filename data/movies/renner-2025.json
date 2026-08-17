@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_renner_2025",
+  "title": "Renner",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130244395",
+    "imdb": "tt13153584",
+    "tmdb": 1125623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-07"
+}

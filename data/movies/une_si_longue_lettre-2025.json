@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_une_si_longue_lettre_2025",
+  "title": "Une si longue lettre",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136557098",
+    "imdb": "tt36178471",
+    "tmdb": 1510409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-04",
+  "runtime_minutes": 104
+}

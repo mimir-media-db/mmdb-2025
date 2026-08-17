@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_at_the_place_of_ghosts_2025",
+  "title": "At the Place of Ghosts",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135443263",
+    "imdb": "tt32352280",
+    "tmdb": 1339435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-06",
+  "runtime_minutes": 85
+}

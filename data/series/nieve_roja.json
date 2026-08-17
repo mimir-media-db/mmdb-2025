@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nieve_roja",
+  "title": "Nieve roja",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135667928",
+    "imdb": "tt34715837",
+    "tmdb": 298340
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

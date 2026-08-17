@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aisha_cant_fly_away_2025",
+  "title": "Aisha Can't Fly Away",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134456773",
+    "imdb": "tt27907966",
+    "tmdb": 1337148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-20",
+  "runtime_minutes": 123
+}

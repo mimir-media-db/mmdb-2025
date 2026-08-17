@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fox_hunt_2025",
+  "title": "Fox Hunt",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136691845",
+    "imdb": "tt10712788",
+    "tmdb": 729684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-04"
+}

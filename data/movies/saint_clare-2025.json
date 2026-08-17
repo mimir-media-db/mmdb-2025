@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saint_clare_2025",
+  "title": "Saint Clare",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123125161",
+    "imdb": "tt9024562",
+    "tmdb": 1026222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-18"
+}

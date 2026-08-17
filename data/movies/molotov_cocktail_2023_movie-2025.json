@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_molotov_cocktail_2023_movie_2025",
+  "title": "Molotov cocktail (2023 movie)",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129763135",
+    "imdb": "tt36132781",
+    "tmdb": 1442057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-05"
+}

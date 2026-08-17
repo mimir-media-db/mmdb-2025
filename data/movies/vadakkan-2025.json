@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vadakkan_2025",
+  "title": "Vadakkan",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135336634",
+    "imdb": "tt27868101",
+    "tmdb": 1225475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-07"
+}

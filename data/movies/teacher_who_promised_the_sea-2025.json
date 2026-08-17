@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teacher_who_promised_the_sea_2025",
+  "title": "The Teacher Who Promised the Sea",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114014656",
+    "imdb": "tt11887316",
+    "tmdb": 1024541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-06",
+  "runtime_minutes": 105
+}

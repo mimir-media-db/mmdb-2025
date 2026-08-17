@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_buried_hearts",
+  "title": "Buried Hearts",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q130902336",
+    "imdb": "tt33398245",
+    "tmdb": 271309
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_duplicity_2025",
+  "title": "Duplicity",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133465674",
+    "imdb": "tt28239363",
+    "tmdb": 1145725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-20",
+  "runtime_minutes": 109
+}

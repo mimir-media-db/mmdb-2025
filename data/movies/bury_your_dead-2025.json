@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bury_your_dead_2025",
+  "title": "Bury Your Dead",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130642114",
+    "imdb": "tt15738252",
+    "tmdb": 951305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

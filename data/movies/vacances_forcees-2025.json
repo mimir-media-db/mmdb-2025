@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vacances_forcees_2025",
+  "title": "Vacances forcées",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134692058",
+    "imdb": "tt33836626",
+    "tmdb": 1284505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-11",
+  "runtime_minutes": 100
+}

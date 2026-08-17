@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_retorno_2025",
+  "title": "El retorno",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139140809",
+    "imdb": "tt34992322",
+    "tmdb": 1425752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 135
+}

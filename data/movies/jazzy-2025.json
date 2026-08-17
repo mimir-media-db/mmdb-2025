@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jazzy_2025",
+  "title": "Jazzy",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125507012",
+    "imdb": "tt31371971",
+    "tmdb": 1244958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-07",
+  "runtime_minutes": 86
+}

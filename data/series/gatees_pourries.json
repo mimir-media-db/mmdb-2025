@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gatees_pourries",
+  "title": "Gâtées pourries",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137039413",
+    "imdb": "tt35684292",
+    "tmdb": 283862
+  },
+  "last_updated": "2026-08-17"
+}

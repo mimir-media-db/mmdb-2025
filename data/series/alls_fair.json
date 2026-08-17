@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alls_fair",
+  "title": "All's Fair",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131298819",
+    "imdb": "tt30291387",
+    "tmdb": 258742
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

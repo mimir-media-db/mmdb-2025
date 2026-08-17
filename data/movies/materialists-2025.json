@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_materialists_2025",
+  "title": "Materialists",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125726790",
+    "imdb": "tt30253473",
+    "tmdb": 1136867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-13",
+  "runtime_minutes": 116
+}

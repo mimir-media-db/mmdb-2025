@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nouveau_jour",
+  "title": "Nouveau Jour",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133895832",
+    "imdb": "tt37546209",
+    "tmdb": 289257
+  },
+  "last_updated": "2026-08-17"
+}

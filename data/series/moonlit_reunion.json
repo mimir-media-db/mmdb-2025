@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_moonlit_reunion",
+  "title": "Moonlit Reunion",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136228570",
+    "imdb": "tt30762457",
+    "tmdb": 242762
+  },
+  "last_updated": "2026-08-17"
+}

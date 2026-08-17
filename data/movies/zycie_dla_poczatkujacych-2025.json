@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zycie_dla_poczatkujacych_2025",
+  "title": "Życie dla początkujących",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136697391",
+    "imdb": "tt37598190",
+    "tmdb": 1290742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

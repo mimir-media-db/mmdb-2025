@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mrs_playmen",
+  "title": "Mrs Playmen",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136406007",
+    "imdb": "tt31078757",
+    "tmdb": 301001
+  },
+  "last_updated": "2026-08-17"
+}

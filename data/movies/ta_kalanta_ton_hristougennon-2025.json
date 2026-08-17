@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ta_kalanta_ton_hristougennon_2025",
+  "title": "Ta Kalanta ton Hristougennon",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136563283",
+    "imdb": "tt38504906",
+    "tmdb": 1567113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-04"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_avatar_fire_and_ash_2025",
+  "title": "Avatar: Fire and Ash",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29580929",
+    "imdb": "tt1757678",
+    "tmdb": 83533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-01",
+  "runtime_minutes": 197
+}

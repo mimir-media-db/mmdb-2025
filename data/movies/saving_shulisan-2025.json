@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saving_shulisan_2025",
+  "title": "Saving Shuli-San",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135317654",
+    "imdb": "tt37624414",
+    "tmdb": 1509933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-17"
+}

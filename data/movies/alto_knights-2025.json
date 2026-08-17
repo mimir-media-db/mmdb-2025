@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alto_knights_2025",
+  "title": "The Alto Knights",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115805392",
+    "imdb": "tt21815562",
+    "tmdb": 1013601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21",
+  "runtime_minutes": 123
+}

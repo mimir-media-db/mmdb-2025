@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bookish",
+  "title": "Bookish",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125924373",
+    "imdb": "tt32066226",
+    "tmdb": 251597
+  },
+  "last_updated": "2026-08-17"
+}

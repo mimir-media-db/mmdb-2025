@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_auf_umwegen_2025",
+  "title": "Auf Umwegen",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131724705"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-27",
+  "runtime_minutes": 134
+}

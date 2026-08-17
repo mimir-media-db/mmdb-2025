@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jane_austen_wrecked_my_life_2025",
+  "title": "Jane Austen Wrecked My Life",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130240842",
+    "imdb": "tt31112509",
+    "tmdb": 1082424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-22",
+  "runtime_minutes": 94
+}

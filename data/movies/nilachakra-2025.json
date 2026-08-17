@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nilachakra_2025",
+  "title": "Nilachakra",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134286212",
+    "imdb": "tt30798273",
+    "tmdb": 1284295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-06"
+}

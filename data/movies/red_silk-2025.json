@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_silk_2025",
+  "title": "Red Silk",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132130213",
+    "imdb": "tt29261344",
+    "tmdb": 1211726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-20"
+}

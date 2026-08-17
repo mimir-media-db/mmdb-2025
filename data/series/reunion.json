@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_reunion",
+  "title": "Reunion",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q126193106",
+    "imdb": "tt29768339",
+    "tmdb": 254628
+  },
+  "last_updated": "2026-08-17"
+}

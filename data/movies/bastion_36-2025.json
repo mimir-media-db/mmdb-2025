@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bastion_36_2025",
+  "title": "Bastion 36",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126142548",
+    "imdb": "tt31032711",
+    "tmdb": 1230208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 124
+}

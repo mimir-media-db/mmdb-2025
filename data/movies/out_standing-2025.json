@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_out_standing_2025",
+  "title": "Out Standing",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135454892",
+    "imdb": "tt30343084",
+    "tmdb": 1073572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-09",
+  "runtime_minutes": 106
+}

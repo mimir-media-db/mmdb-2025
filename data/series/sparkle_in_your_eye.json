@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sparkle_in_your_eye",
+  "title": "The Sparkle In Your Eye",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135918980",
+    "imdb": "tt37539940",
+    "tmdb": 291617
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

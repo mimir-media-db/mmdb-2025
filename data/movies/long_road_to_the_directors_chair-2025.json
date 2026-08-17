@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_long_road_to_the_directors_chair_2025",
+  "title": "The Long Road to the Director's Chair",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131747577",
+    "imdb": "tt35327633",
+    "tmdb": 1414743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-14"
+}

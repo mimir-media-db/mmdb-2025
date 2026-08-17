@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gulegule_2025",
+  "title": "Güle-Güle",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133567079",
+    "imdb": "tt35100357",
+    "tmdb": 1371447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-11",
+  "runtime_minutes": 118
+}

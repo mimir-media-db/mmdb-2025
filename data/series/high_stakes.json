@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_high_stakes",
+  "title": "High Stakes",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135168502",
+    "imdb": "tt37023925",
+    "tmdb": 299129
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

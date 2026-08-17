@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sankranthiki_vasthunam_2025",
+  "title": "Sankranthiki Vasthunam",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131548050",
+    "imdb": "tt31226981",
+    "tmdb": 1380920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-14",
+  "runtime_minutes": 144
+}

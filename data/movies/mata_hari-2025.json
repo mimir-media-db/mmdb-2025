@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mata_hari_2025",
+  "title": "Mata Hari",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136434796",
+    "imdb": "tt37675869",
+    "tmdb": 1517282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

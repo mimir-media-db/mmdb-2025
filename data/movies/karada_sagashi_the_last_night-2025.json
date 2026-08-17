@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karada_sagashi_the_last_night_2025",
+  "title": "Karada Sagashi THE LAST NIGHT",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135989735",
+    "imdb": "tt38219225",
+    "tmdb": 1451398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-05",
+  "runtime_minutes": 94
+}

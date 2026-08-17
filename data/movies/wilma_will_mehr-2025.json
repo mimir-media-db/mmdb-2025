@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wilma_will_mehr_2025",
+  "title": "Wilma will mehr",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133889669",
+    "imdb": "tt36987225",
+    "tmdb": 1465390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-08"
+}

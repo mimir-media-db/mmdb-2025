@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_growing_down_2025",
+  "title": "Growing Down",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133288099",
+    "imdb": "tt30142288",
+    "tmdb": 1054283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-20",
+  "runtime_minutes": 85
+}

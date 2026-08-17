@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grosse_pointe_garden_society",
+  "title": "Grosse Pointe Garden Society",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131752472",
+    "imdb": "tt26748764",
+    "tmdb": 259454
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

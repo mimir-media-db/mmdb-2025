@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_according_to_otto_2025",
+  "title": "According to Otto",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136651368",
+    "imdb": "tt9358422",
+    "tmdb": 1408195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 85
+}

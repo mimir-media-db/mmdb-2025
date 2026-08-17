@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guru_nanak_jahaz_2025",
+  "title": "Guru Nanak Jahaz",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134285376",
+    "imdb": "tt36722524",
+    "tmdb": 1469409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-01"
+}

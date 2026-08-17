@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hunter_with_a_scalpel",
+  "title": "Hunter with a Scalpel",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131463123",
+    "imdb": "tt36807941",
+    "tmdb": 281967
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

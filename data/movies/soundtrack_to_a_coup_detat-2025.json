@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soundtrack_to_a_coup_detat_2025",
+  "title": "Soundtrack to a Coup d'Etat",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124365100",
+    "imdb": "tt14452174",
+    "tmdb": 1214539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-01",
+  "runtime_minutes": 150
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nagota_2025",
+  "title": "Nagota",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131748286",
+    "imdb": "tt35327662",
+    "tmdb": 1414748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-20"
+}

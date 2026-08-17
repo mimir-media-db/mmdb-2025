@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stranger_eyes_2025",
+  "title": "Stranger Eyes",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127713636",
+    "imdb": "tt28419037",
+    "tmdb": 948184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-09",
+  "runtime_minutes": 125
+}

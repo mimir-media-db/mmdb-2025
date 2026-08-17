@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elf_and_the_christmas_wonder_2025",
+  "title": "The Elf and the Christmas Wonder",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135183652",
+    "imdb": "tt29003256",
+    "tmdb": 1286995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-14",
+  "runtime_minutes": 80
+}

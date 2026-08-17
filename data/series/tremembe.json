@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tremembe",
+  "title": "Tremembé",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132147525",
+    "imdb": "tt34467643",
+    "tmdb": 279013
+  },
+  "last_updated": "2026-08-17"
+}

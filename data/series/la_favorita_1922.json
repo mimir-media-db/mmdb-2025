@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_favorita_1922",
+  "title": "La Favorita 1922",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133256595",
+    "imdb": "tt31068005",
+    "tmdb": 244432
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

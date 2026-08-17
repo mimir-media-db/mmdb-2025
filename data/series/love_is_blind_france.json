@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_love_is_blind_france",
+  "title": "Love Is Blind: France",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136306472",
+    "imdb": "tt34683603",
+    "tmdb": 277544
+  },
+  "last_updated": "2026-08-17"
+}

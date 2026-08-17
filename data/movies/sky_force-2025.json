@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_force_2025",
+  "title": "Sky Force",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122909399",
+    "imdb": "tt27056066",
+    "tmdb": 1143407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24"
+}

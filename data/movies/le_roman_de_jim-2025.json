@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_roman_de_jim_2025",
+  "title": "Le Roman de Jim",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125469562",
+    "imdb": "tt27811096",
+    "tmdb": 1102938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-17",
+  "runtime_minutes": 101
+}

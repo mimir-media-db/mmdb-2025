@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lesbian_space_princess_2025",
+  "title": "Lesbian Space Princess",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130710042",
+    "imdb": "tt29781139",
+    "tmdb": 1333141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-11",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bubble_squeak_2025",
+  "title": "Bubble & Squeak",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131451701",
+    "imdb": "tt13650578",
+    "tmdb": 1341394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_follow_2025",
+  "title": "Follow",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130340043",
+    "imdb": "tt31030120",
+    "tmdb": 1236197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-18"
+}

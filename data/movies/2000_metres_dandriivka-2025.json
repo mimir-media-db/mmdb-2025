@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2000_metres_dandriivka_2025",
+  "title": "À 2000 mètres d'Andriivka",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131785610",
+    "imdb": "tt34964205",
+    "tmdb": 1400789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-23",
+  "runtime_minutes": 107
+}

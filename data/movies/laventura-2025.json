@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_laventura_2025",
+  "title": "L'Aventura",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135022325",
+    "imdb": "tt36594601",
+    "tmdb": 1317616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-14"
+}

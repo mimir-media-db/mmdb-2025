@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oca_2025",
+  "title": "Oca",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138661308",
+    "imdb": "tt37675049",
+    "tmdb": 1300610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

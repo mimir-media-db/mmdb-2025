@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_13_hours_2025",
+  "title": "The Day of 13 hours",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136559628",
+    "imdb": "tt38589629",
+    "tmdb": 1560685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-03",
+  "runtime_minutes": 5
+}

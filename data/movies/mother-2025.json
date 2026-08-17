@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_2025",
+  "title": "Mother",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135466587",
+    "imdb": "tt18246200",
+    "tmdb": 1292123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-26",
+  "runtime_minutes": 103
+}

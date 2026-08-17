@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smell_of_burnt_milk_2025",
+  "title": "Smell of Burnt Milk",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130391025",
+    "imdb": "tt32844121",
+    "tmdb": 1275086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-07",
+  "runtime_minutes": 78
+}

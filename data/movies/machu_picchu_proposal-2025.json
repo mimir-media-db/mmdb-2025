@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_machu_picchu_proposal_2025",
+  "title": "A Machu Picchu Proposal",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136655283",
+    "imdb": "tt36615154",
+    "tmdb": 1468471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 84
+}

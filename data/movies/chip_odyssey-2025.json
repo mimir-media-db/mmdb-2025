@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chip_odyssey_2025",
+  "title": "A Chip Odyssey",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135116681",
+    "imdb": "tt37150285",
+    "tmdb": 1464271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-13",
+  "runtime_minutes": 106
+}

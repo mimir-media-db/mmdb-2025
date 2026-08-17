@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escape_from_camp_conversion_2025",
+  "title": "Escape From Camp Conversion",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139679343",
+    "imdb": "tt38486748",
+    "tmdb": 1458071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 134
+}

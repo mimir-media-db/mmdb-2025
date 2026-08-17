@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_fathers_shadow_2025",
+  "title": "My Father's Shadow",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132197250",
+    "imdb": "tt35695538",
+    "tmdb": 1432605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-18"
+}

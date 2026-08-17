@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magazine_dreams_2025",
+  "title": "Magazine Dreams",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115631553",
+    "imdb": "tt13652142",
+    "tmdb": 784524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21"
+}

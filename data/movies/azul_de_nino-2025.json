@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_azul_de_nino_2025",
+  "title": "Azul de niño",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134620542",
+    "imdb": "tt30414915",
+    "tmdb": 1252745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_six_of_us",
+  "title": "The Six of Us",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136008872",
+    "imdb": "tt37803481",
+    "tmdb": 261233
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lokah_chapter_1_chandra_2025",
+  "title": "Lokah Chapter 1: Chandra",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134972728",
+    "imdb": "tt33372494",
+    "tmdb": 1290190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-28",
+  "runtime_minutes": 150
+}

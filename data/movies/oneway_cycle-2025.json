@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oneway_cycle_2025",
+  "title": "One-Way Cycle",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136690264",
+    "imdb": "tt35929855"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 10
+}

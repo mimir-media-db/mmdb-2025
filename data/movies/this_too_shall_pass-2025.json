@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_too_shall_pass_2025",
+  "title": "This Too Shall Pass",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133288717",
+    "imdb": "tt32368095",
+    "tmdb": 1307516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 96
+}

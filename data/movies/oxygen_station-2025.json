@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oxygen_station_2025",
+  "title": "Oxygen Station",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107357292",
+    "imdb": "tt13364844",
+    "tmdb": 1085185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-23",
+  "runtime_minutes": 100
+}

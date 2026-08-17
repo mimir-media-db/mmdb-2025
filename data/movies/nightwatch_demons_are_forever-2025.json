@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nightwatch_demons_are_forever_2025",
+  "title": "Nightwatch - Demons Are Forever",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121268686",
+    "imdb": "tt6318608",
+    "tmdb": 1029880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-13",
+  "runtime_minutes": 115
+}

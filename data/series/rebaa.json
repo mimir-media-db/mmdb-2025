@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rebaa",
+  "title": "REBAA",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q132858530",
+    "imdb": "tt36053205",
+    "tmdb": 291348
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 43
+}

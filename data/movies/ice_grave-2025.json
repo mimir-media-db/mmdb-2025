@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_grave_2025",
+  "title": "Ice Grave",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134431373",
+    "imdb": "tt36643815"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-10"
+}

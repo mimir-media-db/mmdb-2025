@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunting_ground_2025",
+  "title": "Hunting Ground",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133504648",
+    "imdb": "tt29031133",
+    "tmdb": 1191045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-23",
+  "runtime_minutes": 91
+}

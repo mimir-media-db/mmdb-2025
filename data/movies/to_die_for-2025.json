@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_die_for_2025",
+  "title": "To Die For",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130532642",
+    "imdb": "tt32350188",
+    "tmdb": 1458927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-03",
+  "runtime_minutes": 100
+}

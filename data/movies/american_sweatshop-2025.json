@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_american_sweatshop_2025",
+  "title": "American Sweatshop",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131859890",
+    "imdb": "tt32387554",
+    "tmdb": 1215020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-08"
+}

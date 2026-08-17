@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gerry_star",
+  "title": "Gerry Star",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131851966",
+    "imdb": "tt32150711",
+    "tmdb": 280184
+  },
+  "last_updated": "2026-08-17"
+}

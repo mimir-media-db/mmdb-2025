@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boys_go_to_jupiter_2025",
+  "title": "Boys Go to Jupiter",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135230931",
+    "imdb": "tt31021863",
+    "tmdb": 1235137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-08",
+  "runtime_minutes": 90
+}

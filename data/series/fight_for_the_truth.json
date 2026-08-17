@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fight_for_the_truth",
+  "title": "Fight for the Truth",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q129101556",
+    "imdb": "tt32263148",
+    "tmdb": 299095
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ashes_the_movie_2025",
+  "title": "Ashes, the Movie",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135918823",
+    "imdb": "tt37969706",
+    "tmdb": 1517288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

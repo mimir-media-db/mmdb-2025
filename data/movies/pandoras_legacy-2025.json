@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pandoras_legacy_2025",
+  "title": "Pandora's Legacy",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125919403",
+    "imdb": "tt19721190",
+    "tmdb": 1219798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-03",
+  "runtime_minutes": 89
+}

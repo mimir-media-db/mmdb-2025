@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_romi",
+  "title": "Romi",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136325554",
+    "imdb": "tt30219125",
+    "tmdb": 114826
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rats_a_witcher_tale_2025",
+  "title": "The Rats: A Witcher Tale",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120279954",
+    "imdb": "tt28283547",
+    "tmdb": 1571470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 82
+}

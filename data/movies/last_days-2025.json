@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_days_2025",
+  "title": "Last Days",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125962650",
+    "imdb": "tt27977862",
+    "tmdb": 1093402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-28"
+}

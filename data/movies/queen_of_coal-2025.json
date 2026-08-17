@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_coal_2025",
+  "title": "Queen of Coal",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134839397",
+    "imdb": "tt32832410",
+    "tmdb": 1321656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-12",
+  "runtime_minutes": 93
+}

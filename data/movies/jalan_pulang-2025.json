@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jalan_pulang_2025",
+  "title": "Jalan Pulang",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135321346",
+    "imdb": "tt36257627",
+    "tmdb": 1422294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-19"
+}

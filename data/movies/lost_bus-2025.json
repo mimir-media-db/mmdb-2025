@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_bus_2025",
+  "title": "The Lost Bus",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125153299",
+    "imdb": "tt21103218",
+    "tmdb": 1236470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-05"
+}

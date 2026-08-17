@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_encampments_2025",
+  "title": "The Encampments",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133397124",
+    "imdb": "tt35423402",
+    "tmdb": 1418174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-25",
+  "runtime_minutes": 85
+}

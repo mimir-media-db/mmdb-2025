@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_touch_me_2025",
+  "title": "Touch Me",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131985708",
+    "imdb": "tt34967068",
+    "tmdb": 1400763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-28",
+  "runtime_minutes": 100
+}

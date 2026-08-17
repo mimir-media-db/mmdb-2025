@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malcolm_hawkins_2025",
+  "title": "Malcolm Hawkins",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137298414",
+    "imdb": "tt32116749",
+    "tmdb": 1519199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-01"
+}

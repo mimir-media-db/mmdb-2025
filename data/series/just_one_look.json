@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_just_one_look",
+  "title": "Just One Look",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q132851528",
+    "imdb": "tt30876484",
+    "tmdb": 283484
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

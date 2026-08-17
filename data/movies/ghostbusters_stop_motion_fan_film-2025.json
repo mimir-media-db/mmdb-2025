@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghostbusters_stop_motion_fan_film_2025",
+  "title": "Ghostbusters Stop Motion Fan Film",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134612002",
+    "imdb": "tt11792688"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 24
+}

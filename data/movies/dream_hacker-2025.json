@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dream_hacker_2025",
+  "title": "Dream Hacker",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139245378",
+    "imdb": "tt14812244",
+    "tmdb": 1201733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

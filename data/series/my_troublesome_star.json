@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_troublesome_star",
+  "title": "My Troublesome Star",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q134892131",
+    "imdb": "tt37675508",
+    "tmdb": 281966
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dream_life_of_mr_kim",
+  "title": "The Dream Life of Mr. Kim",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136243480",
+    "imdb": "tt38570528",
+    "tmdb": 275592
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

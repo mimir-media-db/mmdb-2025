@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_emmanuelle_2025",
+  "title": "Emmanuelle",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112054990",
+    "imdb": "tt20247888",
+    "tmdb": 976576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-06"
+}

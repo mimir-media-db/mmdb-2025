@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mukhoshe_manushe_khela_2025",
+  "title": "Mukhoshe Manushe Khela",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132752585",
+    "imdb": "tt35747888",
+    "tmdb": 1438019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-28"
+}

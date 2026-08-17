@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_call_2025",
+  "title": "The Call",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133262099",
+    "tmdb": 1446010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-10",
+  "runtime_minutes": 40
+}

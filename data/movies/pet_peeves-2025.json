@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pet_peeves_2025",
+  "title": "Pet Peeves",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136432684",
+    "imdb": "tt28750449",
+    "tmdb": 1187298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-14",
+  "runtime_minutes": 92
+}

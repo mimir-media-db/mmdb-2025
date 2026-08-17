@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peter_pans_neverland_nightmare_2025",
+  "title": "Peter Pan's Neverland Nightmare",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118644464",
+    "imdb": "tt21955520",
+    "tmdb": 1020414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_land_that_time_forgot_2025",
+  "title": "The Land That Time Forgot",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135163421",
+    "imdb": "tt33183915",
+    "tmdb": 1423756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 89
+}

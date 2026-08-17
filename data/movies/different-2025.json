@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_different_2025",
+  "title": "Different",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134608854",
+    "imdb": "tt34487780",
+    "tmdb": 1001030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-11",
+  "runtime_minutes": 100
+}

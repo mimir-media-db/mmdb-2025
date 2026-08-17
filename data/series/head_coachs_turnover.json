@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_head_coachs_turnover",
+  "title": "A Head Coach's Turnover",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q133928415",
+    "imdb": "tt37028412",
+    "tmdb": 292208
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

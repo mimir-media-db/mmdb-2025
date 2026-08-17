@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jigel_film_2025",
+  "title": "Jigel (film)",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132881977",
+    "imdb": "tt35946578",
+    "tmdb": 1496241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-07"
+}

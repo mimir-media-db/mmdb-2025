@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_segunda_chance_2025",
+  "title": "Segunda Chance",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135684326",
+    "imdb": "tt37767404",
+    "tmdb": 1518722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 105
+}

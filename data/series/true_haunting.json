@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_true_haunting",
+  "title": "True Haunting",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136451146",
+    "imdb": "tt38362312",
+    "tmdb": 300999
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_illusion_2025",
+  "title": "The Illusion",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130299262",
+    "imdb": "tt32448428",
+    "tmdb": 1288328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 131
+}

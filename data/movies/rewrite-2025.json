@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rewrite_2025",
+  "title": "Rewrite",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134955097",
+    "imdb": "tt36579051",
+    "tmdb": 1397790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-13",
+  "runtime_minutes": 127
+}

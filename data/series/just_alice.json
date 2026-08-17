@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_just_alice",
+  "title": "Just Alice",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136565936",
+    "imdb": "tt37762739",
+    "tmdb": 302723
+  },
+  "last_updated": "2026-08-17"
+}

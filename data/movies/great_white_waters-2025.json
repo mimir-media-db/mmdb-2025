@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_white_waters_2025",
+  "title": "Great White Waters",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135403898",
+    "imdb": "tt37025253",
+    "tmdb": 1504635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-04"
+}

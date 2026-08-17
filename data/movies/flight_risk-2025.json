@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flight_risk_2025",
+  "title": "Flight Risk",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123353613",
+    "imdb": "tt10078772",
+    "tmdb": 1126166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24",
+  "runtime_minutes": 91
+}

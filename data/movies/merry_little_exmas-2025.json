@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_merry_little_exmas_2025",
+  "title": "A Merry Little Ex-Mas",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132646702",
+    "imdb": "tt34992378",
+    "tmdb": 1401318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-12"
+}

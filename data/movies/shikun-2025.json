@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shikun_2025",
+  "title": "Shikun",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124297544",
+    "imdb": "tt15386456",
+    "tmdb": 1230163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-09",
+  "runtime_minutes": 84
+}

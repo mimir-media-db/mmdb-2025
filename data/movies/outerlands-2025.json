@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outerlands_2025",
+  "title": "Outerlands",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132529713",
+    "imdb": "tt35319790",
+    "tmdb": 1422013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 100
+}

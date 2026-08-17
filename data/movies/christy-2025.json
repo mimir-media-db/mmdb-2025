@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christy_2025",
+  "title": "Christy",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132146980",
+    "imdb": "tt32263650",
+    "tmdb": 1290242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-14"
+}

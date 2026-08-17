@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joto_kando_kolkatatei_2025",
+  "title": "Joto Kando Kolkatatei",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136439217",
+    "imdb": "tt37740754",
+    "tmdb": 1046732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-26",
+  "runtime_minutes": 126
+}

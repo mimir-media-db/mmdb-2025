@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_marzahn_mon_amour",
+  "title": "Marzahn Mon Amour",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133554572",
+    "imdb": "tt32793374",
+    "tmdb": 284878
+  },
+  "last_updated": "2026-08-17"
+}

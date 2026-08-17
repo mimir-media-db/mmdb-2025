@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eddem_el_machrouk",
+  "title": "Eddem El Machrouk",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134514990",
+    "imdb": "tt37844599",
+    "tmdb": 284985
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 30
+}

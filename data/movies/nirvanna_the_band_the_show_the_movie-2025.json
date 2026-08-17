@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nirvanna_the_band_the_show_the_movie_2025",
+  "title": "Nirvanna the Band the Show the Movie",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126086666",
+    "imdb": "tt35522483",
+    "tmdb": 1154538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-09",
+  "runtime_minutes": 95
+}

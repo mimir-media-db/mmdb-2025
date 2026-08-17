@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brother_and_7_siblings_2025",
+  "title": "A Brother and 7 Siblings",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131418075",
+    "imdb": "tt32881480",
+    "tmdb": 1310741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-23",
+  "runtime_minutes": 131
+}

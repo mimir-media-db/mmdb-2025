@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_son_of_a_thousand_men_2025",
+  "title": "The Son of a Thousand Men",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136650449",
+    "imdb": "tt33402908",
+    "tmdb": 1299209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-19",
+  "runtime_minutes": 126
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_porichoy_gupta_2025",
+  "title": "Porichoy Gupta",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130213533",
+    "imdb": "tt33295138",
+    "tmdb": 972406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-25"
+}

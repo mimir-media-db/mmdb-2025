@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_off_the_grid_2025",
+  "title": "Off the Grid",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131198881",
+    "imdb": "tt27424511",
+    "tmdb": 1371151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-27"
+}

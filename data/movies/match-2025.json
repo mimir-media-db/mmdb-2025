@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_match_2025",
+  "title": "The Match",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110393291",
+    "imdb": "tt13498824",
+    "tmdb": 760497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-26",
+  "runtime_minutes": 115
+}

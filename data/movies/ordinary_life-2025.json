@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ordinary_life_2025",
+  "title": "Ordinary Life",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132131400",
+    "imdb": "tt35405817",
+    "tmdb": 1416915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-15",
+  "runtime_minutes": 10
+}

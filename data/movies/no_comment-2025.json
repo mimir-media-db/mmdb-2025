@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_comment_2025",
+  "title": "No comment",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136099079",
+    "imdb": "tt36268673",
+    "tmdb": 1452723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-22",
+  "runtime_minutes": 89
+}

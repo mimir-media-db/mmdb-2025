@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_fast_normale_leben_2025",
+  "title": "Das fast normale Leben",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134486104",
+    "imdb": "tt36617473",
+    "tmdb": 1482065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 135
+}

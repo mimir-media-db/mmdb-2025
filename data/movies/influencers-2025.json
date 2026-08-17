@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_influencers_2025",
+  "title": "Influencers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135226835",
+    "imdb": "tt36833584",
+    "tmdb": 1476740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-26",
+  "runtime_minutes": 110
+}

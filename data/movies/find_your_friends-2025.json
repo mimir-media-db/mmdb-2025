@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_find_your_friends_2025",
+  "title": "Find Your Friends",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133852596",
+    "imdb": "tt32275326",
+    "tmdb": 1283636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-18"
+}

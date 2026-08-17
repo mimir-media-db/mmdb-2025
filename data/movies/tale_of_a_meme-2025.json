@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_of_a_meme_2025",
+  "title": "Tale of a Meme",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137582834",
+    "imdb": "tt36817270"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-16"
+}

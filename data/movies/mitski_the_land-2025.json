@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mitski_the_land_2025",
+  "title": "Mitski: The Land",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136560694",
+    "imdb": "tt38207459",
+    "tmdb": 1543360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-22"
+}

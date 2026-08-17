@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_laundry_2025",
+  "title": "Laundry",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137791681",
+    "imdb": "tt34734557",
+    "tmdb": 1466164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

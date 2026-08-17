@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snare_of_evil_2025",
+  "title": "Snare of Evil",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130739637",
+    "imdb": "tt33513777",
+    "tmdb": 1503469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-02",
+  "runtime_minutes": 86
+}

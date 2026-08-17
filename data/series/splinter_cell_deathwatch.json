@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_splinter_cell_deathwatch",
+  "title": "Splinter Cell: Deathwatch",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131303106",
+    "imdb": "tt12809802",
+    "tmdb": 127366
+  },
+  "last_updated": "2026-08-17"
+}

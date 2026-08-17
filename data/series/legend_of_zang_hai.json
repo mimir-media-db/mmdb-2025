@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_zang_hai",
+  "title": "The Legend of Zang Hai",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124291006",
+    "imdb": "tt32514856",
+    "tmdb": 252640
+  },
+  "last_updated": "2026-08-17"
+}

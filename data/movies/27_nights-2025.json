@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_27_nights_2025",
+  "title": "27 Nights",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136050770",
+    "imdb": "tt38095263",
+    "tmdb": 1327769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-19",
+  "runtime_minutes": 107
+}

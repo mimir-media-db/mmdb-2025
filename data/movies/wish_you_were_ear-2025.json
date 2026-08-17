@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wish_you_were_ear_2025",
+  "title": "Wish You Were Ear",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132174047",
+    "imdb": "tt35305469",
+    "tmdb": 1415860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 11
+}

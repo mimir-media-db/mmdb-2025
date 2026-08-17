@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rains_over_babel_2025",
+  "title": "Rains Over Babel",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131978276",
+    "imdb": "tt32808757",
+    "tmdb": 1388977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

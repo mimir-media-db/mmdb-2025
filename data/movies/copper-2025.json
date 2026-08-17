@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_copper_2025",
+  "title": "Copper",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135902008",
+    "imdb": "tt37579637",
+    "tmdb": 1493009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-09"
+}

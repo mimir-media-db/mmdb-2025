@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suryapet_junction_2025",
+  "title": "Suryapet Junction",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116468013",
+    "imdb": "tt26095500",
+    "tmdb": 1074619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25"
+}

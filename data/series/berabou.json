@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_berabou",
+  "title": "Berabou",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118196407",
+    "imdb": "tt38784676",
+    "tmdb": 260293
+  },
+  "last_updated": "2026-08-17"
+}

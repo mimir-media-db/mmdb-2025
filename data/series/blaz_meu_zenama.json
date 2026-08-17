@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_blaz_meu_zenama",
+  "title": "Blaž među ženama",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136510005",
+    "imdb": "tt36305770",
+    "tmdb": 301859
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_saw_a_king_2025",
+  "title": "I saw a king",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133805273",
+    "imdb": "tt36553493",
+    "tmdb": 1374949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-30",
+  "runtime_minutes": 100
+}

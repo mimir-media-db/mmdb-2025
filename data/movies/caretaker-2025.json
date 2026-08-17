@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caretaker_2025",
+  "title": "The Caretaker",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136486956",
+    "imdb": "tt32502645",
+    "tmdb": 1495638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

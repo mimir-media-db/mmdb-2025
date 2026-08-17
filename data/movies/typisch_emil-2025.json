@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_typisch_emil_2025",
+  "title": "Typisch Emil",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134368035",
+    "imdb": "tt33930077",
+    "tmdb": 1314403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-19",
+  "runtime_minutes": 120
+}

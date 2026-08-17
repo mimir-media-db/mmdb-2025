@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_letters_from_the_past",
+  "title": "Letters from the Past",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135297611",
+    "imdb": "tt33269635",
+    "tmdb": 278006
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_before_the_bright_day_2025",
+  "title": "Before the Bright Day",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136545791",
+    "imdb": "tt37813052",
+    "tmdb": 1259443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-01"
+}

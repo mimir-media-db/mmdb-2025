@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_tactics_2025",
+  "title": "Love Tactics",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110937156",
+    "imdb": "tt14486678",
+    "tmdb": 927855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-11",
+  "runtime_minutes": 98
+}

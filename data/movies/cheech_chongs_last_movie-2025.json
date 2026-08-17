@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cheech_chongs_last_movie_2025",
+  "title": "Cheech & Chong's Last Movie",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124849742",
+    "imdb": "tt30833959",
+    "tmdb": 1234402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-20"
+}

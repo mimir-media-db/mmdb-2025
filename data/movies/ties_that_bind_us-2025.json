@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ties_that_bind_us_2025",
+  "title": "The Ties That Bind Us",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130318145",
+    "imdb": "tt33030403",
+    "tmdb": 1096642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-07",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_larca_2025",
+  "title": "L'arca",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135925141",
+    "imdb": "tt32566433",
+    "tmdb": 1518162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 120
+}

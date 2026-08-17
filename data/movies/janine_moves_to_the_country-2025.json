@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_janine_moves_to_the_country_2025",
+  "title": "Janine Moves to the Country",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135795644",
+    "imdb": "tt35440096",
+    "tmdb": 1418576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 74
+}

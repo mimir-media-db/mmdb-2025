@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_game_you_never_play_alone",
+  "title": "The Game: You Never Play Alone",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136432885",
+    "imdb": "tt38126232",
+    "tmdb": 300741
+  },
+  "last_updated": "2026-08-17"
+}

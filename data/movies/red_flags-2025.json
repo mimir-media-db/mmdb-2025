@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_flags_2025",
+  "title": "Red Flags",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133825499",
+    "imdb": "tt34573452",
+    "tmdb": 1439127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-09"
+}

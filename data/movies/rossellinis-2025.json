@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rossellinis_2025",
+  "title": "The Rossellinis",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130304380",
+    "imdb": "tt12749696",
+    "tmdb": 726407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-30",
+  "runtime_minutes": 100
+}

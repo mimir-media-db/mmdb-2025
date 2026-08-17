@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fuhrer_and_seducer_2025",
+  "title": "Führer and Seducer",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124270023",
+    "imdb": "tt30467885",
+    "tmdb": 1219576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-24",
+  "runtime_minutes": 136
+}

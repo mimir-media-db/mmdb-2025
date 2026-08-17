@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_found_footage_the_making_of_the_patterson_project_2025",
+  "title": "Found Footage: The Making of the Patterson Project",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136808290",
+    "imdb": "tt27200503",
+    "tmdb": 1260922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-24",
+  "runtime_minutes": 89
+}

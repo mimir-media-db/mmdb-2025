@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wake_up_dead_man_2025",
+  "title": "Wake Up Dead Man",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115931717",
+    "imdb": "tt14364480",
+    "tmdb": 812583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-06",
+  "runtime_minutes": 144
+}

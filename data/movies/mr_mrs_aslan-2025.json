@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_mrs_aslan_2025",
+  "title": "Mr. & Mrs. Aslan",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135617842",
+    "imdb": "tt37249795",
+    "tmdb": 1509402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-15"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deri_hoye_geche_2025",
+  "title": "Deri Hoye Geche",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137536476",
+    "imdb": "tt37762824",
+    "tmdb": 1534887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-28"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mon_grand_frere_et_moi_2025",
+  "title": "Mon grand frère et moi",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139602992",
+    "imdb": "tt38504671"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-28",
+  "runtime_minutes": 127
+}

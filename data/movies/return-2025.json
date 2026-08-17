@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_return_2025",
+  "title": "The Return",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119053379",
+    "imdb": "tt19861162",
+    "tmdb": 975511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-30"
+}

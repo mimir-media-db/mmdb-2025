@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vital_signs_2025",
+  "title": "Vital Signs",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134126517",
+    "imdb": "tt27121086",
+    "tmdb": 1063861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_yooz_2025",
+  "title": "Yooz",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136350600",
+    "imdb": "tt38694612"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

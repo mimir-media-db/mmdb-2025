@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_music_of_being_2025",
+  "title": "Music of Being",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573998",
+    "imdb": "tt36985387"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-20",
+  "runtime_minutes": 70
+}

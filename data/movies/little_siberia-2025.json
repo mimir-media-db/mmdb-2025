@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_siberia_2025",
+  "title": "Little Siberia",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132716905",
+    "imdb": "tt31828346",
+    "tmdb": 1362608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_immortal_at_last_2025",
+  "title": "Immortal At Last",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134513403",
+    "imdb": "tt36645503",
+    "tmdb": 1467330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 81
+}

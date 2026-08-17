@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dexter_new_blood",
+  "title": "Dexter: New Blood",
+  "start_year": 2025,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q107132222",
+    "imdb": "tt14164730",
+    "tmdb": 131927
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

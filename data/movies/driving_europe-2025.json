@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_driving_europe_2025",
+  "title": "Driving Europe",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139742609"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

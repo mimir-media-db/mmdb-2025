@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_coldwater",
+  "title": "Coldwater",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q127514077",
+    "imdb": "tt32778097",
+    "tmdb": 258190
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

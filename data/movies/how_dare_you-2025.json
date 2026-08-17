@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_dare_you_2025",
+  "title": "How Dare You?",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136374243",
+    "imdb": "tt36057265",
+    "tmdb": 1476988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-05",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emma_and_the_deaths_head_2025",
+  "title": "Emma and the Death's Head",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113362689",
+    "imdb": "tt18777212",
+    "tmdb": 1297002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-06",
+  "runtime_minutes": 129
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_wish_you_had_told_me_2025",
+  "title": "I Wish You Had Told Me",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137860064",
+    "imdb": "tt38884553",
+    "tmdb": 1576166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_meshi_zahav",
+  "title": "Meshi Zahav",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q134381469",
+    "imdb": "tt35146967"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

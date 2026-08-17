@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_diamond_heist",
+  "title": "The Diamond Heist",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133809371",
+    "imdb": "tt31806040",
+    "tmdb": 286840
+  },
+  "last_updated": "2026-08-17"
+}

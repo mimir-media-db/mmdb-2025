@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soccer_behind_the_iron_curtain_2025",
+  "title": "Soccer behind the Iron Curtain",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123573790",
+    "imdb": "tt21882664",
+    "tmdb": 1210586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-27",
+  "runtime_minutes": 95
+}

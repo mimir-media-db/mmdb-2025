@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_runarounds",
+  "title": "The Runarounds",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130367222",
+    "imdb": "tt30274061",
+    "tmdb": 248833
+  },
+  "last_updated": "2026-08-17"
+}

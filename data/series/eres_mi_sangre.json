@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_eres_mi_sangre",
+  "title": "Eres Mi Sangre",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133781543",
+    "imdb": "tt36283938",
+    "tmdb": 287618
+  },
+  "last_updated": "2026-08-17"
+}

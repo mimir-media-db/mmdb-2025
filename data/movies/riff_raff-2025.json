@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_riff_raff_2025",
+  "title": "Riff Raff",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123511612",
+    "imdb": "tt27775403",
+    "tmdb": 1127767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-28",
+  "runtime_minutes": 103
+}

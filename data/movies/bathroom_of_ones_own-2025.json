@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bathroom_of_ones_own_2025",
+  "title": "A Bathroom of One's Own",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126285655",
+    "imdb": "tt32488662",
+    "tmdb": 1305042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shafted",
+  "title": "Shafted",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131912863",
+    "imdb": "tt31078755",
+    "tmdb": 241816
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

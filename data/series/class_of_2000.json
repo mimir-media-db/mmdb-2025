@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_class_of_2000",
+  "title": "The Class of 2000",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q134699270",
+    "imdb": "tt36955463",
+    "tmdb": 291406
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

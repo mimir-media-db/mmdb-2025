@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rajaputhiran_2025",
+  "title": "Rajaputhiran",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134583229",
+    "imdb": "tt36852966",
+    "tmdb": 1481551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-30"
+}

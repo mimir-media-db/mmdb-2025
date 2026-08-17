@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_me",
+  "title": "Love me",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q135293697",
+    "imdb": "tt35451747",
+    "tmdb": 275989
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

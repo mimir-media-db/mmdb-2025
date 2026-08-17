@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_project_mkhexe_2025",
+  "title": "Project MKHEXE",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134173771",
+    "imdb": "tt36615506",
+    "tmdb": 1468706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-29"
+}

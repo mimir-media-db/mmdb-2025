@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_failure_2025",
+  "title": "Failure!",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121991068",
+    "imdb": "tt19880934",
+    "tmdb": 996866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-28"
+}

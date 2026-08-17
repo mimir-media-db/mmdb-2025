@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_small_achievable_goals",
+  "title": "Small Achievable Goals",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q126415654",
+    "imdb": "tt33996291",
+    "tmdb": 276241
+  },
+  "last_updated": "2026-08-17"
+}

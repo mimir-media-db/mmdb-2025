@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kramp_2025",
+  "title": "K-Ramp",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135333699",
+    "imdb": "tt35665459",
+    "tmdb": 1428278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-18"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ronalds_little_factory_2025",
+  "title": "Ronald's Little Factory",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137842233",
+    "imdb": "tt13408558",
+    "tmdb": 1184478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-11"
+}

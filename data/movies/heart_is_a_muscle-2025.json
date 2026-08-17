@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_is_a_muscle_2025",
+  "title": "The Heart Is a Muscle",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132888532",
+    "imdb": "tt34713196",
+    "tmdb": 1418520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

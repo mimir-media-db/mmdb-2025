@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lenvers_du_sport_tirs_en_suspension_2025",
+  "title": "L'Envers du sport : Tirs en suspension",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135294163",
+    "imdb": "tt36557691",
+    "tmdb": 1465021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-06"
+}

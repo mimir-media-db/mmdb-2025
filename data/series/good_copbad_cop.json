@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_copbad_cop",
+  "title": "Good Cop/Bad Cop",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133573437",
+    "imdb": "tt31691565",
+    "tmdb": 248752
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

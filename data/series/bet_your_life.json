@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bet_your_life",
+  "title": "Bet Your Life",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132851687",
+    "imdb": "tt34691842",
+    "tmdb": 283483
+  },
+  "last_updated": "2026-08-17"
+}

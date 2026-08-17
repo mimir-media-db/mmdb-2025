@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_oxford_year_2025",
+  "title": "My Oxford Year",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130383564",
+    "imdb": "tt4978342",
+    "tmdb": 1307078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alter_ego_2025",
+  "title": "Alter Ego",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136694837",
+    "imdb": "tt38682793",
+    "tmdb": 1559645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_mary_sue_2025",
+  "title": "Killing Mary Sue",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131956909",
+    "imdb": "tt33504750",
+    "tmdb": 1362849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_trouble_girls_2025",
+  "title": "Little Trouble Girls",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132174492",
+    "imdb": "tt28834646",
+    "tmdb": 1019871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_shall_be_well_2025",
+  "title": "All Shall Be Well",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123823141",
+    "imdb": "tt30439035",
+    "tmdb": 1157680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-01",
+  "runtime_minutes": 93
+}

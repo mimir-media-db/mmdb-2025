@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thing_with_feathers_2025",
+  "title": "The Thing with Feathers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125613308",
+    "imdb": "tt27773954",
+    "tmdb": 1127628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-25"
+}

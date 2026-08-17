@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_al_daaria",
+  "title": "Al Daaria",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136688353"
+  },
+  "last_updated": "2026-08-17"
+}

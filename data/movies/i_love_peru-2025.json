@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_peru_2025",
+  "title": "I Love Peru",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134620179",
+    "imdb": "tt36965993",
+    "tmdb": 1477279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-09",
+  "runtime_minutes": 68
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moons_walking_2025",
+  "title": "Moon's Walking",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134268198",
+    "imdb": "tt35513806",
+    "tmdb": 1338621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-22"
+}

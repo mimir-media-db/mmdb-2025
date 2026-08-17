@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mrmikamis_classroom",
+  "title": "Mr.Mikami's Classroom",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131406502",
+    "imdb": "tt35477667",
+    "tmdb": 279044
+  },
+  "last_updated": "2026-08-17"
+}

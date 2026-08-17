@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_d_is_for_distance_2025",
+  "title": "D Is for Distance",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134577447",
+    "imdb": "tt35184497",
+    "tmdb": 1405371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-07",
+  "runtime_minutes": 90
+}

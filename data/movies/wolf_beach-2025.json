@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_beach_2025",
+  "title": "Wolf Beach",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138002254",
+    "imdb": "tt34431927",
+    "tmdb": 1383519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 97
+}

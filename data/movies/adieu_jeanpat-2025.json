@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adieu_jeanpat_2025",
+  "title": "Adieu Jean-Pat",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135965439",
+    "imdb": "tt35405442",
+    "tmdb": 1266813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-27"
+}

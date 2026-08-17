@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uyariy_2025",
+  "title": "Uyariy",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135932211",
+    "imdb": "tt39378123",
+    "tmdb": 1517682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 90
+}

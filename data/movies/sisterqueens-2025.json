@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sisterqueens_2025",
+  "title": "Sisterqueens",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132348186",
+    "imdb": "tt32844219",
+    "tmdb": 1308178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-06",
+  "runtime_minutes": 97
+}

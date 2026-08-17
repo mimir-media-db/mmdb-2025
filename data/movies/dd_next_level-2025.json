@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dd_next_level_2025",
+  "title": "DD Next Level",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132839147",
+    "imdb": "tt32864330",
+    "tmdb": 1421019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-16",
+  "runtime_minutes": 133
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sorella_di_clausura_2025",
+  "title": "Sorella Di Clausura",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135454895",
+    "imdb": "tt29315945",
+    "tmdb": 1510305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-13"
+}

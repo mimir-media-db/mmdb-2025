@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_python_the_documentary_2025",
+  "title": "Python: The Documentary",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135992950",
+    "tmdb": 1537729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-28"
+}

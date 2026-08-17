@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quien_es_quien_2025",
+  "title": "¿Quién es quién?",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123860752",
+    "imdb": "tt29138004",
+    "tmdb": 1187294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-15"
+}

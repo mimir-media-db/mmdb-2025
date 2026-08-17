@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_delocalises_2025",
+  "title": "Délocalisés",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132888405",
+    "imdb": "tt33500771",
+    "tmdb": 1294174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-12"
+}

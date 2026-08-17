@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_mahjong_2025",
+  "title": "Queen of Mahjong",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131405454",
+    "tmdb": 1394721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-28"
+}

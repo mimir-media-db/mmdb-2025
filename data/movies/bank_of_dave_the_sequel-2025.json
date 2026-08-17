@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bank_of_dave_the_sequel_2025",
+  "title": "Bank Of Dave: The Sequel",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132177371",
+    "imdb": "tt27713772",
+    "tmdb": 1250629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

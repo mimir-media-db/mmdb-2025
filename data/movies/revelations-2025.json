@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revelations_2025",
+  "title": "Revelations",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131858968",
+    "imdb": "tt32648798",
+    "tmdb": 1210938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_syke_kipinoita_yossa_2025",
+  "title": "Syke: Kipinöitä yössä",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136795864",
+    "imdb": "tt38948290",
+    "tmdb": 1536671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-14"
+}

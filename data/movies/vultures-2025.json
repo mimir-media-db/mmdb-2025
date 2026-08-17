@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vultures_2025",
+  "title": "Vultures",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135021997",
+    "imdb": "tt34388968",
+    "tmdb": 1002158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-02"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_legado",
+  "title": "Legado",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134025679",
+    "imdb": "tt31656537",
+    "tmdb": 248716
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

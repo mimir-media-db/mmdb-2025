@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_28_years_later_2025",
+  "title": "28 Years Later",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125392328",
+    "imdb": "tt10548174",
+    "tmdb": 1100988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-20",
+  "runtime_minutes": 115
+}

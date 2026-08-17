@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_straw_2025",
+  "title": "Straw",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134300783",
+    "imdb": "tt32550101",
+    "tmdb": 1426776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-06",
+  "runtime_minutes": 105
+}

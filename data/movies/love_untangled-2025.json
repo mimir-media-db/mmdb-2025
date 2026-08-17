@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_untangled_2025",
+  "title": "Love Untangled",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131858995",
+    "imdb": "tt33549683",
+    "tmdb": 1355666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-29",
+  "runtime_minutes": 119
+}

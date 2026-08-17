@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grenfell_uncovered_2025",
+  "title": "Grenfell: Uncovered",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135293890",
+    "imdb": "tt37024060",
+    "tmdb": 1452541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 100
+}

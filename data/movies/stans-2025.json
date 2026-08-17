@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stans_2025",
+  "title": "Stans",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135523438",
+    "imdb": "tt31313835",
+    "tmdb": 1244999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-02"
+}

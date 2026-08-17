@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_singular_2025",
+  "title": "Singular",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136650074",
+    "imdb": "tt32410269",
+    "tmdb": 1294457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-12",
+  "runtime_minutes": 104
+}

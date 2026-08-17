@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_felix_klara",
+  "title": "Felix & Klara",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136911454",
+    "imdb": "tt34389151",
+    "tmdb": 302395
+  },
+  "last_updated": "2026-08-17"
+}

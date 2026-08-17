@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lurker_2025",
+  "title": "Lurker",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131428108",
+    "imdb": "tt13651462",
+    "tmdb": 1264573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-26",
+  "runtime_minutes": 100
+}

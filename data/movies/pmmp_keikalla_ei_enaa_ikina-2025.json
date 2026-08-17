@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pmmp_keikalla_ei_enaa_ikina_2025",
+  "title": "PMMP keikalla: Ei enää ikinä",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136115748",
+    "imdb": "tt38235843",
+    "tmdb": 1525995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-06"
+}

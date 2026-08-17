@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_close_ur_kopitiam_2025",
+  "title": "Close Ur Kopitiam",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134710755",
+    "imdb": "tt35220086",
+    "tmdb": 1417221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-29"
+}

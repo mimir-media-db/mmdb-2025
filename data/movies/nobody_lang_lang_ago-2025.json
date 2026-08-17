@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nobody_lang_lang_ago_2025",
+  "title": "Nobody : Lang Lang Ago",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135479882",
+    "imdb": "tt36733027",
+    "tmdb": 1304434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-02"
+}

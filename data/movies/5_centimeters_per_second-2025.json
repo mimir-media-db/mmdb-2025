@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_5_centimeters_per_second_2025",
+  "title": "5 Centimeters per Second",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135905847",
+    "imdb": "tt33477484",
+    "tmdb": 1359916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-10"
+}

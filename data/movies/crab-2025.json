@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crab_2025",
+  "title": "The Crab",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131782544",
+    "imdb": "tt31315227",
+    "tmdb": 1420012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-15"
+}

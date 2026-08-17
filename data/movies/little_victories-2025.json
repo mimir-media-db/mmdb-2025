@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_victories_2025",
+  "title": "Little Victories",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138856460",
+    "imdb": "tt34705107",
+    "tmdb": 1249660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

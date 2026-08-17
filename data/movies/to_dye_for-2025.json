@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_to_dye_for_2025",
+  "title": "To Dye For",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q141108139",
+    "imdb": "tt23830448"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

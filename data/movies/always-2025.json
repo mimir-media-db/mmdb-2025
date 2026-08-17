@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_always_2025",
+  "title": "Always",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133827827",
+    "imdb": "tt35932417",
+    "tmdb": 1405448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-24",
+  "runtime_minutes": 88
+}

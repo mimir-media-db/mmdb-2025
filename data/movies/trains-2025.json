@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trains_2025",
+  "title": "Trains",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133842341",
+    "imdb": "tt34673862",
+    "tmdb": 1374313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-26",
+  "runtime_minutes": 81
+}

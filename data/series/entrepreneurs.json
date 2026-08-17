@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_entrepreneurs",
+  "title": "Entrepreneurs",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136288529",
+    "imdb": "tt34779099",
+    "tmdb": 278274
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

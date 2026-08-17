@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ellas_en_la_ciudad_2025",
+  "title": "Ellas en la ciudad",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134551635",
+    "imdb": "tt34678681",
+    "tmdb": 1386048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-22",
+  "runtime_minutes": 70
+}

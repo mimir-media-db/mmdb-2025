@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_survivors",
+  "title": "The Survivors",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q132353925",
+    "imdb": "tt28703560",
+    "tmdb": 284605
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

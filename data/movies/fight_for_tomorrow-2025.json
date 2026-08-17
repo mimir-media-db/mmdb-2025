@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fight_for_tomorrow_2025",
+  "title": "Fight For Tomorrow",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135025112",
+    "imdb": "tt31645726",
+    "tmdb": 1053194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-21"
+}

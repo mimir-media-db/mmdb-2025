@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ahmed_ahmed_2025",
+  "title": "Ahmed & Ahmed",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135108465",
+    "imdb": "tt36461419",
+    "tmdb": 1316404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-02"
+}

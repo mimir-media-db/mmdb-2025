@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sustal_ceylan",
+  "title": "Sustalı Ceylan",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q135475133",
+    "imdb": "tt35314710",
+    "tmdb": 282141
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

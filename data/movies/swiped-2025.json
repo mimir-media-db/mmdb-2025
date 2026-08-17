@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swiped_2025",
+  "title": "Swiped",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125966692",
+    "imdb": "tt31909270",
+    "tmdb": 1265344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-09",
+  "runtime_minutes": 110
+}

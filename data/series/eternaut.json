@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eternaut",
+  "title": "The Eternaut",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114769724",
+    "imdb": "tt27740241",
+    "tmdb": 226362
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

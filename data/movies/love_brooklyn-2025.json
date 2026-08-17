@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_brooklyn_2025",
+  "title": "Love, Brooklyn",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131428647",
+    "imdb": "tt34880924",
+    "tmdb": 1398910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-27",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seafarers_2025",
+  "title": "Seafarers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134577544",
+    "imdb": "tt36131218",
+    "tmdb": 1421693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-06"
+}

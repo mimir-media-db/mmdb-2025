@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_atropia_2025",
+  "title": "Atropia",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124450737",
+    "imdb": "tt31122579",
+    "tmdb": 1239288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zodiac_killer_project_2025",
+  "title": "Zodiac Killer Project",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131985790",
+    "imdb": "tt34965959",
+    "tmdb": 1400744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-27",
+  "runtime_minutes": 92
+}

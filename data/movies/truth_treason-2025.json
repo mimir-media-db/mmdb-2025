@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_truth_treason_2025",
+  "title": "Truth & Treason",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133824712",
+    "imdb": "tt21825416",
+    "tmdb": 1443940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 121
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_death_by_lightning",
+  "title": "Death by Lightning",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q130685923",
+    "imdb": "tt31121364",
+    "tmdb": 245219
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

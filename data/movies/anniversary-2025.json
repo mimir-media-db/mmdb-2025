@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anniversary_2025",
+  "title": "Anniversary",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120758667",
+    "imdb": "tt12583926",
+    "tmdb": 1126336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-06"
+}

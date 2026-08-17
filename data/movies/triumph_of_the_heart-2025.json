@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_triumph_of_the_heart_2025",
+  "title": "Triumph of the Heart",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136484008",
+    "imdb": "tt29630418",
+    "tmdb": 1314235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-12",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baisanos_2025",
+  "title": "Baisanos",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136651221",
+    "imdb": "tt37504019",
+    "tmdb": 1508247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 13
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_taxi_2025",
+  "title": "Tokyo Taxi",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136556963",
+    "imdb": "tt35521394",
+    "tmdb": 1422404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-21"
+}

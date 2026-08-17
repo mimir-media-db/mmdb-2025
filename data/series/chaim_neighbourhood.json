@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chaim_neighbourhood",
+  "title": "Chaim Neighbourhood",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133307829",
+    "imdb": "tt36604831"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

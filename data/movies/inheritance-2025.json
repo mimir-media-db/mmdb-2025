@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inheritance_2025",
+  "title": "Inheritance",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131348310",
+    "imdb": "tt31050620",
+    "tmdb": 1297860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24",
+  "runtime_minutes": 101
+}

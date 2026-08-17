@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1982_2025",
+  "title": "1982",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135932603",
+    "imdb": "tt37676300",
+    "tmdb": 1517461
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

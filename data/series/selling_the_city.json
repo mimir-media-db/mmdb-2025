@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_selling_the_city",
+  "title": "Selling the City",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131919769",
+    "imdb": "tt32501221",
+    "tmdb": 255728
+  },
+  "last_updated": "2026-08-17"
+}

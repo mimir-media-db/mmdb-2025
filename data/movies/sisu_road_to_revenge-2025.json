@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sisu_road_to_revenge_2025",
+  "title": "Sisu: Road to Revenge",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125020375",
+    "imdb": "tt31844586",
+    "tmdb": 1223601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-21",
+  "runtime_minutes": 89
+}

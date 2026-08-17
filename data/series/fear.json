@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fear",
+  "title": "Fear",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q124995294",
+    "imdb": "tt31711346",
+    "tmdb": 249127
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

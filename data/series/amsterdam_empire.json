@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_amsterdam_empire",
+  "title": "Amsterdam Empire",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136087116",
+    "imdb": "tt31835154",
+    "tmdb": 249586
+  },
+  "last_updated": "2026-08-17"
+}

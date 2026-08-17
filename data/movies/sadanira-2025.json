@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sadanira_2025",
+  "title": "Sadanira",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135092610",
+    "imdb": "tt37428576",
+    "tmdb": 1502962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-20"
+}

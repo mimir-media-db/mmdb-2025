@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freedom_of_uselessness_2025",
+  "title": "The Freedom of Uselessness",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137782690",
+    "imdb": "tt38066726",
+    "tmdb": 1616283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-26",
+  "runtime_minutes": 144000
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_showtime_7_2025",
+  "title": "SHOWTIME 7",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134269127",
+    "imdb": "tt34974825",
+    "tmdb": 1368326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-07",
+  "runtime_minutes": 98
+}

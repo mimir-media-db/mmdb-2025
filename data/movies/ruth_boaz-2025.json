@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ruth_boaz_2025",
+  "title": "Ruth & Boaz",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135924160",
+    "imdb": "tt32306048",
+    "tmdb": 1371189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-26"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pintu_pintu_surga_2025",
+  "title": "Pintu Pintu Surga",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132851034",
+    "imdb": "tt35713900",
+    "tmdb": 1409640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-13",
+  "runtime_minutes": 104
+}

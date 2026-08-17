@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_last_anniversary",
+  "title": "The Last Anniversary",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q108597922",
+    "imdb": "tt30150289",
+    "tmdb": 241275
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

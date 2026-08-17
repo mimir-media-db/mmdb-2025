@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oshi_no_ko_2025",
+  "title": "Oshi no Ko",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125864296",
+    "imdb": "tt31031808",
+    "tmdb": 1235431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-17"
+}

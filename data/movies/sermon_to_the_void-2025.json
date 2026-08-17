@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sermon_to_the_void_2025",
+  "title": "Sermon to the Void",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136121274",
+    "imdb": "tt37660548",
+    "tmdb": 1517166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-05",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_amazon_review_killer",
+  "title": "The Amazon Review Killer",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132337405",
+    "imdb": "tt33342317",
+    "tmdb": 279598
+  },
+  "last_updated": "2026-08-17"
+}

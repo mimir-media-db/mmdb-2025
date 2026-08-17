@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fantastique_2025",
+  "title": "Fantastique",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136563788",
+    "imdb": "tt36415630",
+    "tmdb": 1510419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-11"
+}

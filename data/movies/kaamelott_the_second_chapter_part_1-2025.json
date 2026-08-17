@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaamelott_the_second_chapter_part_1_2025",
+  "title": "Kaamelott: The Second Chapter part 1",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133798538",
+    "imdb": "tt34624872",
+    "tmdb": 1076897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-22",
+  "runtime_minutes": 139
+}

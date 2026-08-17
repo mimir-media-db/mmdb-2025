@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agent_zero_2025",
+  "title": "Agent Zero",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135163969",
+    "imdb": "tt35526133",
+    "tmdb": 1383247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-06"
+}

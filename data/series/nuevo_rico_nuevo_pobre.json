@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nuevo_rico_nuevo_pobre",
+  "title": "Nuevo rico, nuevo pobre",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131869677",
+    "imdb": "tt32375039",
+    "tmdb": 283917
+  },
+  "last_updated": "2026-08-17"
+}

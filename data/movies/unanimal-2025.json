@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unanimal_2025",
+  "title": "Unanimal",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133444959",
+    "imdb": "tt35567447",
+    "tmdb": 1337445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-02"
+}

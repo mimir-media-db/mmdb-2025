@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marius_et_les_gardiens_de_la_cite_phoceenne_2025",
+  "title": "Marius et les gardiens de la cité phocéenne",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135111739",
+    "imdb": "tt31158398",
+    "tmdb": 1284484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-09",
+  "runtime_minutes": 85
+}

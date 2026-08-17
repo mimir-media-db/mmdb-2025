@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_innate",
+  "title": "Innate",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137170733"
+  },
+  "last_updated": "2026-08-17"
+}

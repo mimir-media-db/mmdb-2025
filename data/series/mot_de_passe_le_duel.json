@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_mot_de_passe_le_duel",
+  "title": "Mot de passe : le duel",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131860035"
+  },
+  "last_updated": "2026-08-17"
+}

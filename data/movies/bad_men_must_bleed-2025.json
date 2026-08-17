@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_men_must_bleed_2025",
+  "title": "Bad Men Must Bleed",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136108816",
+    "imdb": "tt13594688",
+    "tmdb": 1214361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-07"
+}

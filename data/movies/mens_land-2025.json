@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mens_land_2025",
+  "title": "The Men's Land",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135951798",
+    "imdb": "tt36151472",
+    "tmdb": 1462353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-09"
+}

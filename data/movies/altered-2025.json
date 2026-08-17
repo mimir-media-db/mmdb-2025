@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_altered_2025",
+  "title": "Altered",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131456643",
+    "imdb": "tt32123395",
+    "tmdb": 1309012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-18"
+}

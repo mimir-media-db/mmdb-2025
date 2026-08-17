@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pulung_gantung_pati_ngendat_2025",
+  "title": "Pulung Gantung: Pati Ngendat",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136563404",
+    "imdb": "tt35111036",
+    "tmdb": 1402416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-06",
+  "runtime_minutes": 91
+}

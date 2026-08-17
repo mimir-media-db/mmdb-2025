@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_demon_city_2025",
+  "title": "Demon City",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132083406",
+    "imdb": "tt35111035",
+    "tmdb": 1405338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-27"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_weekend",
+  "title": "The Weekend",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123738778",
+    "imdb": "tt36375686",
+    "tmdb": 29135
+  },
+  "last_updated": "2026-08-17"
+}

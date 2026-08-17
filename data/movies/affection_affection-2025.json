@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_affection_affection_2025",
+  "title": "Affection Affection",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136428307",
+    "imdb": "tt37538578",
+    "tmdb": 1510321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-13",
+  "runtime_minutes": 101
+}

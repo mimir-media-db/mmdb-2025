@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saipan_2025",
+  "title": "Saipan",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128787400",
+    "imdb": "tt33093531",
+    "tmdb": 1322692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-04"
+}

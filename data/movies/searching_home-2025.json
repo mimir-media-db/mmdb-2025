@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_searching_home_2025",
+  "title": "Searching Home",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139919728",
+    "imdb": "tt39075299",
+    "tmdb": 1744588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-02"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_riv4lries",
+  "title": "RIV4LRIES",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136093420",
+    "imdb": "tt37786409",
+    "tmdb": 299483
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

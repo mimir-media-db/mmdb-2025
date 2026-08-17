@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_veils_2025",
+  "title": "Seven Veils",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120752067",
+    "imdb": "tt26671415",
+    "tmdb": 1083782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-07",
+  "runtime_minutes": 107
+}

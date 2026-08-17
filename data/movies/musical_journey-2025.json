@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_musical_journey_2025",
+  "title": "A Musical Journey",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137216385",
+    "imdb": "tt39196966",
+    "tmdb": 1745796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-07"
+}

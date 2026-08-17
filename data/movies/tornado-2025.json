@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tornado_2025",
+  "title": "Tornado",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124811245",
+    "imdb": "tt27721490",
+    "tmdb": 1126915
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-26",
+  "runtime_minutes": 91
+}

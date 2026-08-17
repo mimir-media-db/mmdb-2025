@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_akademie_2025",
+  "title": "Die Akademie",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140447642",
+    "imdb": "tt28636480",
+    "tmdb": 1303232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-20",
+  "runtime_minutes": 104
+}

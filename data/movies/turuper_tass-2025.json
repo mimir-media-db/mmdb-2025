@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turuper_tass_2025",
+  "title": "Turuper Tass",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131687595",
+    "imdb": "tt35270475",
+    "tmdb": 1396241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-03"
+}

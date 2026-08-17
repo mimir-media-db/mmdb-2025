@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_laws_of_man_2025",
+  "title": "Laws of Man",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131870359",
+    "imdb": "tt18469390",
+    "tmdb": 1168401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_electric_state_2025",
+  "title": "The Electric State",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114492769",
+    "imdb": "tt7766378",
+    "tmdb": 777443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-14",
+  "runtime_minutes": 128
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_train_dreams_2025",
+  "title": "Train Dreams",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126086662",
+    "imdb": "tt29768334",
+    "tmdb": 1241983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 102
+}

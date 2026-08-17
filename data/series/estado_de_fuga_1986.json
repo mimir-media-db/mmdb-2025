@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_estado_de_fuga_1986",
+  "title": "Estado de fuga 1986",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137289514",
+    "imdb": "tt37762533",
+    "tmdb": 297492
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

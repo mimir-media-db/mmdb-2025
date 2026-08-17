@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_resident_playbook",
+  "title": "Resident Playbook",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q122854712",
+    "imdb": "tt31171500",
+    "tmdb": 235355
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

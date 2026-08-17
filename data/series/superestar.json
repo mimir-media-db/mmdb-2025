@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_superestar",
+  "title": "Superestar",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124257304",
+    "imdb": "tt30839571",
+    "tmdb": 243456
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

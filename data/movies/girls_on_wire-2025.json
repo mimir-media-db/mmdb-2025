@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_on_wire_2025",
+  "title": "Girls on Wire",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131896276",
+    "imdb": "tt32120173",
+    "tmdb": 1275332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-17"
+}

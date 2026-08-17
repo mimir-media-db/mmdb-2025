@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_train_2025",
+  "title": "Ghost Train",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134620646",
+    "imdb": "tt33083649",
+    "tmdb": 1241624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-03"
+}

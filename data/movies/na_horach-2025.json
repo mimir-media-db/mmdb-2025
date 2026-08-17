@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_na_horach_2025",
+  "title": "Na horách",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133194800",
+    "imdb": "tt34581148",
+    "tmdb": 1556011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-27",
+  "runtime_minutes": 117
+}

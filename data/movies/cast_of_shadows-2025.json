@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cast_of_shadows_2025",
+  "title": "Cast of Shadows",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134577434",
+    "imdb": "tt35618555",
+    "tmdb": 1408093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31"
+}

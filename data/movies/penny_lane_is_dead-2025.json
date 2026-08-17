@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_penny_lane_is_dead_2025",
+  "title": "Penny Lane Is Dead",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136468755",
+    "imdb": "tt35670732",
+    "tmdb": 1428766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-18"
+}

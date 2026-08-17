@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_two_pianos_2025",
+  "title": "Two Pianos",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130607743",
+    "imdb": "tt33518607",
+    "tmdb": 1331349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-10"
+}

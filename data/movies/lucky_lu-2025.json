@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lucky_lu_2025",
+  "title": "Lucky Lu",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133876042",
+    "imdb": "tt34000545",
+    "tmdb": 1453422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-19"
+}

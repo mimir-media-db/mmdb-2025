@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aro_berria_2025",
+  "title": "Aro berria",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136370920",
+    "imdb": "tt28623997",
+    "tmdb": 1025388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 102
+}

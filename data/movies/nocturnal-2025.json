@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nocturnal_2025",
+  "title": "Nocturnal",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131545925",
+    "imdb": "tt34574758",
+    "tmdb": 766369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-05"
+}

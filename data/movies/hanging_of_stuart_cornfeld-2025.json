@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hanging_of_stuart_cornfeld_2025",
+  "title": "The Hanging of Stuart Cornfeld",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136994955",
+    "imdb": "tt38572767",
+    "tmdb": 1555011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 89
+}

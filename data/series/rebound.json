@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rebound",
+  "title": "Rebound",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134290097",
+    "imdb": "tt34339061",
+    "tmdb": 292231
+  },
+  "last_updated": "2026-08-17"
+}

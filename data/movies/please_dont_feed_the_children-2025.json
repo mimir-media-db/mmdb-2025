@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_please_dont_feed_the_children_2025",
+  "title": "Please Don't Feed the Children",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121572304",
+    "imdb": "tt27208407",
+    "tmdb": 1103437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 94
+}

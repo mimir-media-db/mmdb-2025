@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_man_vs_baby",
+  "title": "Man vs. Baby",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q135440765",
+    "imdb": "tt35047134",
+    "tmdb": 279601
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

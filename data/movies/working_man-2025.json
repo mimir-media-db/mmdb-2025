@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_working_man_2025",
+  "title": "A Working Man",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125495342",
+    "imdb": "tt9150192",
+    "tmdb": 1197306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-26",
+  "runtime_minutes": 116
+}

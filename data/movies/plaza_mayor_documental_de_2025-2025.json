@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_plaza_mayor_documental_de_2025_2025",
+  "title": "Plaza Mayor (documental de 2025)",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136772084",
+    "imdb": "tt38821640",
+    "tmdb": 1574559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

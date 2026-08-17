@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fish_on_the_hook_2025",
+  "title": "Fish on the Hook",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137325298",
+    "imdb": "tt37563771",
+    "tmdb": 1601588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

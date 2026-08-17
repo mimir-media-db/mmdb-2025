@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sham_2025",
+  "title": "Sham",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136274823",
+    "imdb": "tt34459901",
+    "tmdb": 1423983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-27"
+}

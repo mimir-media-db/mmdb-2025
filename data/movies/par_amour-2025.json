@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_par_amour_2025",
+  "title": "Par amour",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131682136",
+    "imdb": "tt31307675",
+    "tmdb": 1156104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-15"
+}

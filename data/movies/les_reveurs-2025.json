@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_reveurs_2025",
+  "title": "Les Rêveurs",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136697805",
+    "imdb": "tt35489550",
+    "tmdb": 1221724
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-12",
+  "runtime_minutes": 106
+}

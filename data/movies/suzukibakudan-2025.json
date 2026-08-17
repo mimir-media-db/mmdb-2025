@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suzukibakudan_2025",
+  "title": "Suzuki=Bakudan",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136229641",
+    "imdb": "tt38525288",
+    "tmdb": 1464533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-31"
+}

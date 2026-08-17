@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_conclave_2025",
+  "title": "Conclave",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116701124",
+    "imdb": "tt20215234",
+    "tmdb": 974576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-02",
+  "runtime_minutes": 121
+}

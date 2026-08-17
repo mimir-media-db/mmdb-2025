@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_a_land_unknown_2025",
+  "title": "To a Land Unknown",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125536940",
+    "imdb": "tt22023622",
+    "tmdb": 1214052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-17",
+  "runtime_minutes": 105
+}

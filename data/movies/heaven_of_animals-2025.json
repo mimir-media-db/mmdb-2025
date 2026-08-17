@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heaven_of_animals_2025",
+  "title": "The Heaven of Animals",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132858715",
+    "imdb": "tt29416055",
+    "tmdb": 1202627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 81
+}

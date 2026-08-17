@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_study_group",
+  "title": "Study Group",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131429579",
+    "imdb": "tt35304338",
+    "tmdb": 233347
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

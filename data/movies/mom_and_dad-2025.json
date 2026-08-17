@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mom_and_dad_2025",
+  "title": "Mom and Dad",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136099327",
+    "imdb": "tt37844459",
+    "tmdb": 1465125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-27"
+}

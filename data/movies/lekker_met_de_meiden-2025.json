@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lekker_met_de_meiden_2025",
+  "title": "Lekker met de meiden",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133884576",
+    "imdb": "tt36490688",
+    "tmdb": 1461795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-05",
+  "runtime_minutes": 90
+}

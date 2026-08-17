@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stolen_girl_2025",
+  "title": "Stolen Girl",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136386270",
+    "imdb": "tt4682810",
+    "tmdb": 1280450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-25",
+  "runtime_minutes": 110
+}

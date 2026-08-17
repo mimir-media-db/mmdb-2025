@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_that_summer_in_paris_2025",
+  "title": "That Summer in Paris",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132063739",
+    "imdb": "tt35489613",
+    "tmdb": 1294706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-26",
+  "runtime_minutes": 77
+}

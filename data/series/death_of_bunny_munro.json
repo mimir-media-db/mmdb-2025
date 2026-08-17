@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_death_of_bunny_munro",
+  "title": "The Death of Bunny Munro",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q126126222",
+    "imdb": "tt0808224",
+    "tmdb": 279116
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

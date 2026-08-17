@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_north_of_north",
+  "title": "North of North",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130240305",
+    "imdb": "tt27370649",
+    "tmdb": 249023
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

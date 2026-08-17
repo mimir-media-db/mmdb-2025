@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soloz_game_of_life_2025",
+  "title": "Soloz: Game of Life",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131901797",
+    "imdb": "tt32591435",
+    "tmdb": 1405364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

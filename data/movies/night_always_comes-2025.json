@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_always_comes_2025",
+  "title": "Night Always Comes",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126077186",
+    "imdb": "tt31567422",
+    "tmdb": 1254624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-15"
+}

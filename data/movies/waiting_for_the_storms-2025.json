@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waiting_for_the_storms_2025",
+  "title": "Waiting for the Storms",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124311829",
+    "imdb": "tt23559518",
+    "tmdb": 988396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-18"
+}

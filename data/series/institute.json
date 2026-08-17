@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_institute",
+  "title": "The Institute",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131424584",
+    "imdb": "tt10946316",
+    "tmdb": 253372
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

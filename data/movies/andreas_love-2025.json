@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_andreas_love_2025",
+  "title": "Andrea's Love",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122194100",
+    "imdb": "tt21880610",
+    "tmdb": 1053995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-06",
+  "runtime_minutes": 101
+}

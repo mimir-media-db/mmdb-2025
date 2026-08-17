@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_high_rollers_2025",
+  "title": "High Rollers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133141256",
+    "imdb": "tt27829510",
+    "tmdb": 1149167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-14"
+}

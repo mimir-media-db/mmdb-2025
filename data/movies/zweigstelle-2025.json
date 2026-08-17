@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zweigstelle_2025",
+  "title": "Zweigstelle",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134542517",
+    "imdb": "tt37022667",
+    "tmdb": 1488223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-02"
+}

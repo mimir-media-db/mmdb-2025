@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aztec_batman_clash_of_empires_2025",
+  "title": "Aztec Batman: Clash of Empires",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130267916",
+    "imdb": "tt21110654",
+    "tmdb": 987400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-18",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_grey_house_2025",
+  "title": "Mission Grey House",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131404012",
+    "imdb": "tt34901083",
+    "tmdb": 1419486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-17"
+}

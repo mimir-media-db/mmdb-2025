@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaalamega_karigindhi_2025",
+  "title": "Kaalamega Karigindhi",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133842835",
+    "imdb": "tt18246324",
+    "tmdb": 1477943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21",
+  "runtime_minutes": 110
+}

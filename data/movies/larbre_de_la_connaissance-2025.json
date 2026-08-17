@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_larbre_de_la_connaissance_2025",
+  "title": "L'Arbre de la connaissance",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136756129",
+    "imdb": "tt34387037",
+    "tmdb": 1523438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-18"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ik_zal_zien_2025",
+  "title": "Ik zal zien",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133843108",
+    "imdb": "tt27773872",
+    "tmdb": 1407019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-02"
+}

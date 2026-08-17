@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nice_indian_boy_2025",
+  "title": "A Nice Indian Boy",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124255913",
+    "imdb": "tt16431330",
+    "tmdb": 1128614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-04",
+  "runtime_minutes": 96
+}

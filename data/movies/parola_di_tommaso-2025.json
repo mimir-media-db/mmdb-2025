@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parola_di_tommaso_2025",
+  "title": "Parola di Tommaso",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137825676",
+    "imdb": "tt38941988"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 122
+}

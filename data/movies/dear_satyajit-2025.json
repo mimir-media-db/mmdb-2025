@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_satyajit_2025",
+  "title": "Dear Satyajit",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117941834",
+    "imdb": "tt19817644",
+    "tmdb": 920805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-01",
+  "runtime_minutes": 75
+}

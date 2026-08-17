@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_of_the_derby_2025",
+  "title": "The Magic of the Derby",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130739691",
+    "imdb": "tt32862857",
+    "tmdb": 1405305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-17",
+  "runtime_minutes": 107
+}

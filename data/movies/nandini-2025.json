@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nandini_2025",
+  "title": "Nandini",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128375457",
+    "imdb": "tt33060133"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-12"
+}

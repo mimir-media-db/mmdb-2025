@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_accidentally_wrote_a_book_2025",
+  "title": "I Accidentally Wrote a Book",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131580776",
+    "imdb": "tt27811640",
+    "tmdb": 1142501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-16",
+  "runtime_minutes": 101
+}

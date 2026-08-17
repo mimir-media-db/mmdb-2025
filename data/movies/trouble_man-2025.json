@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trouble_man_2025",
+  "title": "Trouble Man",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135222904",
+    "imdb": "tt30459064",
+    "tmdb": 1218628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-12"
+}

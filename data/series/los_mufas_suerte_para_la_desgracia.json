@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_los_mufas_suerte_para_la_desgracia",
+  "title": "Los mufas, suerte para la desgracia",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136008859",
+    "imdb": "tt27763549",
+    "tmdb": 299370
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

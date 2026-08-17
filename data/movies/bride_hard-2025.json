@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bride_hard_2025",
+  "title": "Bride Hard",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124289803",
+    "imdb": "tt21317634",
+    "tmdb": 1124619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-20",
+  "runtime_minutes": 105
+}

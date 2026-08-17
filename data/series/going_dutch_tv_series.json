@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_going_dutch_tv_series",
+  "title": "Going Dutch (TV series)",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q131560680",
+    "imdb": "tt32359602",
+    "tmdb": 254318
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

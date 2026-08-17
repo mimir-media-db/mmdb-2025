@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aki_2025",
+  "title": "Aki",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135967762",
+    "imdb": "tt37815607",
+    "tmdb": 1526212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-09"
+}

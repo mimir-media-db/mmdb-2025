@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_daddy_my_superhero_2025",
+  "title": "My Daddy My Superhero",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127514804",
+    "imdb": "tt32642108",
+    "tmdb": 1655989
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 85
+}

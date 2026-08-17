@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_riot_women",
+  "title": "Riot Women",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126934903",
+    "imdb": "tt32315888",
+    "tmdb": 271938
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

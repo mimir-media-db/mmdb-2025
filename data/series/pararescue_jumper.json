@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pararescue_jumper",
+  "title": "Pararescue Jumper",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q134985024",
+    "imdb": "tt36594575",
+    "tmdb": 285009
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

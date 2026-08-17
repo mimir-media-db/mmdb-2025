@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_die_tonight_2025",
+  "title": "We Die Tonight",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135892281",
+    "imdb": "tt34549572",
+    "tmdb": 1386343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-24"
+}

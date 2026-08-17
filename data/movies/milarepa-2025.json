@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_milarepa_2025",
+  "title": "Milarepa",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131309017",
+    "imdb": "tt15086202",
+    "tmdb": 960166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-19",
+  "runtime_minutes": 100
+}

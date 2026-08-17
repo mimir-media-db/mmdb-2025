@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_ashes_2025",
+  "title": "In Ashes",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135642762",
+    "imdb": "tt28156313",
+    "tmdb": 1402250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-20",
+  "runtime_minutes": 82
+}

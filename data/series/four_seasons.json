@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_four_seasons",
+  "title": "The Four Seasons",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131384557",
+    "imdb": "tt30826447",
+    "tmdb": 243316
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

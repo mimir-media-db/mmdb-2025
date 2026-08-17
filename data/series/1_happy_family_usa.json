@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_1_happy_family_usa",
+  "title": "#1 Happy Family USA",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132820652",
+    "imdb": "tt18566094",
+    "tmdb": 218510
+  },
+  "last_updated": "2026-08-17"
+}

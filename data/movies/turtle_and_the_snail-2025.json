@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_turtle_and_the_snail_2025",
+  "title": "The Turtle and The Snail",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109549644",
+    "tmdb": 1496085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-08",
+  "runtime_minutes": 97
+}

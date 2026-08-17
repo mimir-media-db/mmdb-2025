@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_heroes_in_white",
+  "title": "Heroes in White",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135968300",
+    "imdb": "tt38577601",
+    "tmdb": 298444
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

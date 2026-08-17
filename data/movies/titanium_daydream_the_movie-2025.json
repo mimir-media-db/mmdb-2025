@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_titanium_daydream_the_movie_2025",
+  "title": "Titanium Daydream: The Movie",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139567219",
+    "tmdb": 1597644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-11",
+  "runtime_minutes": 70
+}

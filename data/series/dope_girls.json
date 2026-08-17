@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dope_girls",
+  "title": "Dope Girls",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q123527678",
+    "imdb": "tt27191732",
+    "tmdb": 239615
+  },
+  "last_updated": "2026-08-17"
+}

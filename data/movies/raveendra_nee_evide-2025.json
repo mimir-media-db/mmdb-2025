@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raveendra_nee_evide_2025",
+  "title": "Raveendra Nee Evide?",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135418374",
+    "imdb": "tt29633769",
+    "tmdb": 998678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-18"
+}

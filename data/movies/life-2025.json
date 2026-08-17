@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_2025",
+  "title": "Life",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573760",
+    "imdb": "tt35436337",
+    "tmdb": 1747512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-17",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salamander_2025",
+  "title": "The Salamander",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136653482",
+    "imdb": "tt3562014",
+    "tmdb": 669362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 119
+}

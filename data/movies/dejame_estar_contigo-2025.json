@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dejame_estar_contigo_2025",
+  "title": "Déjame estar contigo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132675852",
+    "imdb": "tt33636020",
+    "tmdb": 1294947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-30",
+  "runtime_minutes": 80
+}

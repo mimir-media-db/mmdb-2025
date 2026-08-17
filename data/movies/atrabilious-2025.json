@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atrabilious_2025",
+  "title": "Atrabilious",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119819384",
+    "imdb": "tt17604312",
+    "tmdb": 953928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-18",
+  "runtime_minutes": 100
+}

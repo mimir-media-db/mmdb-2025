@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passport_movie_2025_2025",
+  "title": "The Passport (movie 2025)",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135468109",
+    "imdb": "tt35380119",
+    "tmdb": 1486331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-28",
+  "runtime_minutes": 103
+}

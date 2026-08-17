@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_red_caps",
+  "title": "Red Caps",
+  "start_year": 2025,
+  "end_year": 2027,
+  "external_ids": {
+    "wikidata": "Q124020582"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

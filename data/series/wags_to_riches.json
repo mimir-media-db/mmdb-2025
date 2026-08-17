@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wags_to_riches",
+  "title": "W.A.G.s to Riches",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131694195",
+    "imdb": "tt34991330",
+    "tmdb": 279991
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

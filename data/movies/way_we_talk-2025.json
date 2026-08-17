@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_way_we_talk_2025",
+  "title": "The Way We Talk",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131311712",
+    "imdb": "tt31660693",
+    "tmdb": 1239041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-18"
+}

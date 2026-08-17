@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_reykjavik_112",
+  "title": "Reykjavík 112",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136657455",
+    "imdb": "tt36046614",
+    "tmdb": 293118
+  },
+  "last_updated": "2026-08-17"
+}

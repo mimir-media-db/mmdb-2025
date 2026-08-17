@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_six_jours_2025",
+  "title": "Six Jours",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131560840",
+    "imdb": "tt29610108",
+    "tmdb": 1025527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

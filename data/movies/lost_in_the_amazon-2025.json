@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_the_amazon_2025",
+  "title": "Lost in the Amazon",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131757341",
+    "imdb": "tt32332930",
+    "tmdb": 1537366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 96
+}

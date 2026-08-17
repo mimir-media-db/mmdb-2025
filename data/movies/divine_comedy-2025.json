@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_divine_comedy_2025",
+  "title": "Divine Comedy",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136259901",
+    "imdb": "tt37660493",
+    "tmdb": 1517062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-02",
+  "runtime_minutes": 90
+}

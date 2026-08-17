@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_outlander_blood_of_my_blood",
+  "title": "Outlander: Blood of My Blood",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125305426",
+    "imdb": "tt18332852",
+    "tmdb": 207484
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

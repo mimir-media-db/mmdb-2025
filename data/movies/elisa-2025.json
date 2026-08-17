@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elisa_2025",
+  "title": "Elisa",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135526717",
+    "imdb": "tt37660578",
+    "tmdb": 1438959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-04",
+  "runtime_minutes": 105
+}

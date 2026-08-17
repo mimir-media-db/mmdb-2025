@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nota_de_voz_2025",
+  "title": "Nota de voz",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139700580",
+    "imdb": "tt38916461",
+    "tmdb": 1587010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

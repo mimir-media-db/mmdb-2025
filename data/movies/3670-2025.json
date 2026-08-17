@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3670_2025",
+  "title": "3670",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136487304",
+    "imdb": "tt36733209",
+    "tmdb": 1425485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-03",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_match_fixing_2025",
+  "title": "Match Fixing",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131428405",
+    "imdb": "tt34038181",
+    "tmdb": 1377946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wailing_2025",
+  "title": "The Wailing",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117253366",
+    "imdb": "tt26750774",
+    "tmdb": 1299372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-06",
+  "runtime_minutes": 107
+}

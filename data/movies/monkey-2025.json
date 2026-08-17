@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monkey_2025",
+  "title": "The Monkey",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124841936",
+    "imdb": "tt27714946",
+    "tmdb": 1124620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-19",
+  "runtime_minutes": 98
+}

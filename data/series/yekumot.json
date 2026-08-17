@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_yekumot",
+  "title": "Yekumot",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137123992",
+    "imdb": "tt39053069",
+    "tmdb": 308118
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

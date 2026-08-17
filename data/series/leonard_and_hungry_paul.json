@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_leonard_and_hungry_paul",
+  "title": "Leonard and Hungry Paul",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135892973",
+    "imdb": "tt35219844",
+    "tmdb": 292069
+  },
+  "last_updated": "2026-08-17"
+}

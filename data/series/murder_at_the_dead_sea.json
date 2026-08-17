@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_at_the_dead_sea",
+  "title": "Murder at the Dead Sea",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130350142",
+    "imdb": "tt39089455",
+    "tmdb": 309575
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

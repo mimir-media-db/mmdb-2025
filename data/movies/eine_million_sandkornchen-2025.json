@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eine_million_sandkornchen_2025",
+  "title": "Eine Million Sandkörnchen",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135189566",
+    "imdb": "tt33086507",
+    "tmdb": 1369295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-14"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_flags_the_sun_2025",
+  "title": "Under the Flags, the Sun",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131584266",
+    "imdb": "tt32279108",
+    "tmdb": 1404184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

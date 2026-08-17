@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tooned_out",
+  "title": "Tooned Out",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q81328180",
+    "imdb": "tt11198240"
+  },
+  "last_updated": "2026-08-17"
+}

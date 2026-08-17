@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_creeps_2025",
+  "title": "The Creeps",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113550154",
+    "imdb": "tt14096946",
+    "tmdb": 798580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-11",
+  "runtime_minutes": 96
+}

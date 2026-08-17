@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cicadas_2025",
+  "title": "Cicadas",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131764704",
+    "imdb": "tt35453594",
+    "tmdb": 1339234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

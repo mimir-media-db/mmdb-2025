@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chavin_de_huantar_the_rescue_of_the_century_2025",
+  "title": "Chavín De Huántar: The Rescue of the Century",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135507265",
+    "imdb": "tt36986126",
+    "tmdb": 1365302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_mans_boots_2025",
+  "title": "Dead Man's Boots",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133249438",
+    "imdb": "tt29031223",
+    "tmdb": 1000881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-19",
+  "runtime_minutes": 92
+}

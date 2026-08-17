@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_velyka_mandrivka_enerhii_2025",
+  "title": "Velyka mandrivka enerhii",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575957",
+    "imdb": "tt39060616"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-29"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cockroach_2025",
+  "title": "Cockroach",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135298310"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-20",
+  "runtime_minutes": 66
+}

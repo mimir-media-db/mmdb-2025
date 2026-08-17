@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guess_whos_calling_2025",
+  "title": "Guess Who's Calling!",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134580188",
+    "imdb": "tt29291318",
+    "tmdb": 1158616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-04",
+  "runtime_minutes": 102
+}

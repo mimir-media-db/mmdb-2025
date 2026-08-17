@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_facing_war_2025",
+  "title": "Facing War",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133500320",
+    "imdb": "tt35671816",
+    "tmdb": 1400093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-19",
+  "runtime_minutes": 103
+}

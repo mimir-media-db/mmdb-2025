@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hint_of_love_2025",
+  "title": "A Hint of Love",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133874599",
+    "imdb": "tt36204193",
+    "tmdb": 1315979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-30"
+}

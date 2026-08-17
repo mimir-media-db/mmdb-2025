@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agak_laen_menyala_pantiku_2025",
+  "title": "Agak Laen: Menyala Pantiku!",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137127209",
+    "imdb": "tt32351597",
+    "tmdb": 1287571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-27",
+  "runtime_minutes": 119
+}

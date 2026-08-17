@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_like_father_like_son_2025",
+  "title": "Like Father Like Son",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133747349",
+    "imdb": "tt33319714",
+    "tmdb": 1400514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31"
+}

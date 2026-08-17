@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hokusais_daughter_2025",
+  "title": "Hokusai's Daughter",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136592880",
+    "imdb": "tt37675771",
+    "tmdb": 1469857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-17"
+}

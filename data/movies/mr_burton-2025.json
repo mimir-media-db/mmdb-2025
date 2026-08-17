@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_burton_2025",
+  "title": "Mr Burton",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127602137",
+    "imdb": "tt5171016",
+    "tmdb": 1242454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-04"
+}

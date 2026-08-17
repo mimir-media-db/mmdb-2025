@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_no_next_life",
+  "title": "No Next Life",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136130853",
+    "imdb": "tt38839105",
+    "tmdb": 294731
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

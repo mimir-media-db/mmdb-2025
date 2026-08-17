@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sandokan",
+  "title": "Sandokan",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130611778",
+    "imdb": "tt13924304",
+    "tmdb": 271855
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

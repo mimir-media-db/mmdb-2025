@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_millers_in_marriage_2025",
+  "title": "Millers in Marriage",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128942948",
+    "imdb": "tt32499895",
+    "tmdb": 1319968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-21",
+  "runtime_minutes": 117
+}

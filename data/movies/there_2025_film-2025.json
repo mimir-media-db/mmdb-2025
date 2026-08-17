@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_there_2025_film_2025",
+  "title": "There (2025 film)",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135997115",
+    "imdb": "tt33365041",
+    "tmdb": 1407932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-15",
+  "runtime_minutes": 104
+}

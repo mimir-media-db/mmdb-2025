@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thing_to_be_done_2025",
+  "title": "The Thing to Be Done",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136692310",
+    "imdb": "tt38752578",
+    "tmdb": 1559711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 88
+}

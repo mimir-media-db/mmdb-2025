@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_three_of_a_kind_2025",
+  "title": "Three of a Kind",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135963162"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_list_2025",
+  "title": "The Life List",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130383565",
+    "imdb": "tt2172954",
+    "tmdb": 1254786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-28",
+  "runtime_minutes": 123
+}

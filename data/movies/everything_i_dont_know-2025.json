@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_i_dont_know_2025",
+  "title": "Everything I Don't Know",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133934136",
+    "imdb": "tt33513266",
+    "tmdb": 1369105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-19",
+  "runtime_minutes": 113
+}

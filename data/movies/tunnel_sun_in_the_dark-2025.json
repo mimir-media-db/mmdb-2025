@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tunnel_sun_in_the_dark_2025",
+  "title": "Tunnel: Sun in the Dark",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124694260",
+    "imdb": "tt34268350",
+    "tmdb": 1376879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-04",
+  "runtime_minutes": 128
+}

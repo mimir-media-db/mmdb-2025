@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bajo_un_volcan_2025",
+  "title": "Bajo un volcán",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134964266",
+    "imdb": "tt32367852",
+    "tmdb": 1310879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 92
+}

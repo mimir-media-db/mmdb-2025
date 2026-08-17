@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freaky_tales_2025",
+  "title": "Freaky Tales",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115804877",
+    "imdb": "tt21942598",
+    "tmdb": 979660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-04",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_virgin_of_quarry_lake_2025",
+  "title": "The Virgin of Quarry Lake",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131428552",
+    "imdb": "tt15460036",
+    "tmdb": 862739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-27",
+  "runtime_minutes": 90
+}

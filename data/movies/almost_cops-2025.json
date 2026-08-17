@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_cops_2025",
+  "title": "Almost Cops",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135001832",
+    "imdb": "tt27675583",
+    "tmdb": 1374534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-11"
+}

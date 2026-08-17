@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_other_way_around_2025",
+  "title": "The Other Way Around",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125517151",
+    "imdb": "tt32128317",
+    "tmdb": 1214118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-13",
+  "runtime_minutes": 114
+}

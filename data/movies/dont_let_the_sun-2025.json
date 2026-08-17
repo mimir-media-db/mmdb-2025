@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_let_the_sun_2025",
+  "title": "Don't Let the Sun",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135435331",
+    "imdb": "tt14908624",
+    "tmdb": 1437612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-09",
+  "runtime_minutes": 100
+}

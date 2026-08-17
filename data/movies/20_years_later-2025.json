@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_20_years_later_2025",
+  "title": "20 Years Later",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573741",
+    "imdb": "tt36749491"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-13",
+  "runtime_minutes": 75
+}

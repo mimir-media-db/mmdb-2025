@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hermit_2025",
+  "title": "The Hermit",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138276334",
+    "imdb": "tt19408240",
+    "tmdb": 1026532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-13"
+}

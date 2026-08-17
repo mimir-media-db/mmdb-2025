@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_of_the_living_2025",
+  "title": "Dance of the Living",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137211885",
+    "imdb": "tt31948486",
+    "tmdb": 1513010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-19"
+}

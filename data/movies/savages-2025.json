@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_savages_2025",
+  "title": "Savages",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125919093",
+    "imdb": "tt10695672",
+    "tmdb": 589018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-06",
+  "runtime_minutes": 80
+}

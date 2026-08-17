@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_me_2025",
+  "title": "Love Me",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123690366",
+    "imdb": "tt21375602",
+    "tmdb": 881415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31",
+  "runtime_minutes": 92
+}

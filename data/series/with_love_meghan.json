@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_with_love_meghan",
+  "title": "With Love, Meghan",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131730479",
+    "imdb": "tt35257773",
+    "tmdb": 280976
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

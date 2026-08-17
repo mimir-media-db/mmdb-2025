@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dreamland_2025",
+  "title": "Dreamland",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131918387",
+    "imdb": "tt33255559",
+    "tmdb": 1193690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-15",
+  "runtime_minutes": 80
+}

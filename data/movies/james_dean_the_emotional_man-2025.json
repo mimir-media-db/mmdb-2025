@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_james_dean_the_emotional_man_2025",
+  "title": "James Dean – The Emotional Man",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140248010",
+    "imdb": "tt39232874"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 61
+}

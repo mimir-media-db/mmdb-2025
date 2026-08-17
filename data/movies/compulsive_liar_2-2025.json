@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_compulsive_liar_2_2025",
+  "title": "Compulsive Liar 2",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134740915",
+    "imdb": "tt32509666",
+    "tmdb": 1280336
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-09",
+  "runtime_minutes": 103
+}

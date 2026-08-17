@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lovesick_2025",
+  "title": "Lovesick",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134646503",
+    "imdb": "tt35933611",
+    "tmdb": 1321139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-02",
+  "runtime_minutes": 111
+}

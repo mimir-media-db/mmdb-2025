@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_deserted_2025",
+  "title": "Almost Deserted",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136139119",
+    "imdb": "tt6835370",
+    "tmdb": 1540605
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-27"
+}

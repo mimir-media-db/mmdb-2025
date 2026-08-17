@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_road_vengeance_2025",
+  "title": "Ice Road: Vengeance",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124323597",
+    "imdb": "tt27621210",
+    "tmdb": 1119878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-27",
+  "runtime_minutes": 112
+}

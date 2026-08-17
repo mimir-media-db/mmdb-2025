@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_father_2025",
+  "title": "Our Father",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136147381",
+    "imdb": "tt35375401",
+    "tmdb": 1462780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-09",
+  "runtime_minutes": 90
+}

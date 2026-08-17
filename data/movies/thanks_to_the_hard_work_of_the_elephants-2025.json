@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thanks_to_the_hard_work_of_the_elephants_2025",
+  "title": "Thanks to the Hard Work of the Elephants",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136433272",
+    "imdb": "tt29492354",
+    "tmdb": 1196788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-04"
+}

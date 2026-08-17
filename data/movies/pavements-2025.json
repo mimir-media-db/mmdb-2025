@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pavements_2025",
+  "title": "Pavements",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115866950",
+    "imdb": "tt30253514",
+    "tmdb": 1063307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-02"
+}

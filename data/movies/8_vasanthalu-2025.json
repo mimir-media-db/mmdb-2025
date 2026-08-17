@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_8_vasanthalu_2025",
+  "title": "8 Vasanthalu",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135293772",
+    "imdb": "tt31316162",
+    "tmdb": 1370032
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-20"
+}

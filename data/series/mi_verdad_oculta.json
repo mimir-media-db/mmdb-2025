@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mi_verdad_oculta",
+  "title": "Mi verdad oculta",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q135932916",
+    "imdb": "tt38207646",
+    "tmdb": 305111
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 82
+}

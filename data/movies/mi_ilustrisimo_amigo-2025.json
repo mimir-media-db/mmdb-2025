@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mi_ilustrisimo_amigo_2025",
+  "title": "Mi ilustrísimo amigo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136102734",
+    "imdb": "tt35888742",
+    "tmdb": 1458589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 80
+}

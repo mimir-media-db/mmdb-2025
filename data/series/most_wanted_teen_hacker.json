@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_most_wanted_teen_hacker",
+  "title": "Most Wanted: Teen Hacker",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136005516",
+    "imdb": "tt37202552",
+    "tmdb": 293298
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_i_kill_you",
+  "title": "I Kill You",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135980261",
+    "imdb": "tt37657245"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

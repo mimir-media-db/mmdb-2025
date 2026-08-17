@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhaggyolokkhi_2025",
+  "title": "Bhaggyolokkhi",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131583149",
+    "imdb": "tt34985421",
+    "tmdb": 1395007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-10"
+}

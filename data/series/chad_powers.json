@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chad_powers",
+  "title": "Chad Powers",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130241313",
+    "imdb": "tt31449991",
+    "tmdb": 247168
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stugo",
+  "title": "StuGo",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131542201",
+    "imdb": "tt28076195",
+    "tmdb": 228672
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

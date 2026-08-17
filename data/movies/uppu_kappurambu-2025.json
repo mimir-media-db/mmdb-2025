@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uppu_kappurambu_2025",
+  "title": "Uppu Kappurambu",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135321377",
+    "imdb": "tt31850758",
+    "tmdb": 1262548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-04",
+  "runtime_minutes": 136
+}

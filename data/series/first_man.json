@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_first_man",
+  "title": "First Man",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136642313",
+    "imdb": "tt39073388",
+    "tmdb": 303076
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 140
+}

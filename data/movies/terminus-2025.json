@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terminus_2025",
+  "title": "Terminus",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133503712",
+    "imdb": "tt35306640",
+    "tmdb": 1453488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-28",
+  "runtime_minutes": 11
+}

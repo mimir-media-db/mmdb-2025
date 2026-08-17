@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_surviving_black_hawk_down",
+  "title": "Surviving Black Hawk Down",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132157220",
+    "imdb": "tt35435624",
+    "tmdb": 282201
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

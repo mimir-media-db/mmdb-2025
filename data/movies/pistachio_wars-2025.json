@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pistachio_wars_2025",
+  "title": "Pistachio Wars",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137919962",
+    "imdb": "tt32696907",
+    "tmdb": 1118621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-07"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fisica_o_quimica_la_nueva_generacion",
+  "title": "Física o química: La nueva generación",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131629781",
+    "imdb": "tt32485172",
+    "tmdb": 242871
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

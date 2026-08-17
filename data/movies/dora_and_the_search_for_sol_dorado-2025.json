@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dora_and_the_search_for_sol_dorado_2025",
+  "title": "Dora and the Search for Sol Dorado",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131197530",
+    "imdb": "tt32621553",
+    "tmdb": 1287536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-02",
+  "runtime_minutes": 96
+}

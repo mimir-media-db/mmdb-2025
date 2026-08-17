@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_no1_sentai_gozyuger",
+  "title": "No.1 Sentai Gozyuger",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132349381",
+    "imdb": "tt34382036",
+    "tmdb": 275648
+  },
+  "last_updated": "2026-08-17"
+}

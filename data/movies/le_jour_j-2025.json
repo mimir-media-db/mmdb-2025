@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_jour_j_2025",
+  "title": "Le Jour J",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133273670",
+    "imdb": "tt33069817",
+    "tmdb": 1318037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-15"
+}

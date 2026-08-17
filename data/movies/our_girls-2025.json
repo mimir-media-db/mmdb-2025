@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_our_girls_2025",
+  "title": "Our Girls",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136410885",
+    "imdb": "tt36474012",
+    "tmdb": 1457705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-26"
+}

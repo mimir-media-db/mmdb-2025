@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_vacation_2025",
+  "title": "Blind Vacation",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573714",
+    "imdb": "tt35772353",
+    "tmdb": 1438208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-13",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parthenope_2025",
+  "title": "Parthenope",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122169131",
+    "imdb": "tt23853982",
+    "tmdb": 1109255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-08",
+  "runtime_minutes": 136
+}

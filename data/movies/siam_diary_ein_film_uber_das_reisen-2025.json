@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_siam_diary_ein_film_uber_das_reisen_2025",
+  "title": "Siam Diary - Ein Film über das Reisen",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133444301"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-10",
+  "runtime_minutes": 95
+}

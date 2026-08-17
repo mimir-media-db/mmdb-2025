@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_wallet_2025",
+  "title": "Cold Wallet",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124845026",
+    "imdb": "tt27307826",
+    "tmdb": 1150370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-28",
+  "runtime_minutes": 93
+}

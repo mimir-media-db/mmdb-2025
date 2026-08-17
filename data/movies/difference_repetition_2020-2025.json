@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_difference_repetition_2020_2025",
+  "title": "Difference & Repetition, 2020",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134998885",
+    "imdb": "tt33493389",
+    "tmdb": 1476216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

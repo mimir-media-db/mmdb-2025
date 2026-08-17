@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kontrabida_academy_2025",
+  "title": "Kontrabida Academy",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136437155",
+    "imdb": "tt35652650",
+    "tmdb": 1428213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-11"
+}

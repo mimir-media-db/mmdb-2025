@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mares_nest_2025",
+  "title": "Mare's Nest",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135272584",
+    "imdb": "tt37537649",
+    "tmdb": 1510310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-09"
+}

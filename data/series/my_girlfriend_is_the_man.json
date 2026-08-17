@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_girlfriend_is_the_man",
+  "title": "My Girlfriend is the Man!",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q135208941",
+    "imdb": "tt37436184",
+    "tmdb": 258357
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_breed_apart_2025",
+  "title": "A Breed Apart",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133845943",
+    "imdb": "tt32323148",
+    "tmdb": 1303055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-16"
+}

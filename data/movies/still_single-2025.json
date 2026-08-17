@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_still_single_2025",
+  "title": "Still Single",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136139161",
+    "imdb": "tt37816112",
+    "tmdb": 1526220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-05"
+}

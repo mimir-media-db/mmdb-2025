@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_piano_accident_2025",
+  "title": "The Piano Accident",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134609549",
+    "imdb": "tt35431236",
+    "tmdb": 1313144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-02"
+}

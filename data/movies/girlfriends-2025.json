@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girlfriends_2025",
+  "title": "Girlfriends",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135912405",
+    "imdb": "tt35683790",
+    "tmdb": 1388338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-18"
+}

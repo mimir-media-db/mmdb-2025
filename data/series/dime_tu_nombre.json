@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dime_tu_nombre",
+  "title": "Dime tu nombre",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136682143",
+    "imdb": "tt31536241",
+    "tmdb": 248488
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

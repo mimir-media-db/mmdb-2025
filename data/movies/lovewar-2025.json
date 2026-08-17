@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lovewar_2025",
+  "title": "Love+War",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136334520",
+    "imdb": "tt37815958",
+    "tmdb": 1526215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-07",
+  "runtime_minutes": 95
+}

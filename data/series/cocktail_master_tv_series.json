@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cocktail_master_tv_series",
+  "title": "Cocktail Master (TV series)",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133455045",
+    "imdb": "tt36268628",
+    "tmdb": 287109
+  },
+  "last_updated": "2026-08-17"
+}

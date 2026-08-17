@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_duse_2025",
+  "title": "Duse",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127692200",
+    "imdb": "tt31415482",
+    "tmdb": 1291202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-03"
+}

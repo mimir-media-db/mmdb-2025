@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snoopy_presents_a_summer_musical_2025",
+  "title": "Snoopy Presents: A Summer Musical",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134997724",
+    "imdb": "tt36988583",
+    "tmdb": 1484453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 40
+}

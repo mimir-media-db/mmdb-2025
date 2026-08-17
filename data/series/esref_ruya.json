@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_esref_ruya",
+  "title": "Eşref Rüya",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q132801843",
+    "imdb": "tt35069642",
+    "tmdb": 283123
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 47
+}

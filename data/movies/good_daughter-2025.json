@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_daughter_2025",
+  "title": "The Good Daughter",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127870622",
+    "imdb": "tt32676647",
+    "tmdb": 1563543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

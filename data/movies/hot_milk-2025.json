@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_milk_2025",
+  "title": "Hot Milk",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126734403",
+    "imdb": "tt17538632",
+    "tmdb": 933490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-14"
+}

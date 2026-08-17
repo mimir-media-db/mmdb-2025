@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amor_erizo_2025",
+  "title": "Amor erizo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131757388",
+    "imdb": "tt36986449",
+    "tmdb": 1308353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 80
+}

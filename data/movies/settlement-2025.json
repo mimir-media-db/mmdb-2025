@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_settlement_2025",
+  "title": "The Settlement",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131990733",
+    "imdb": "tt35341698",
+    "tmdb": 1421142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

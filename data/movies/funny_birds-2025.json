@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_funny_birds_2025",
+  "title": "Funny Birds",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121273737",
+    "imdb": "tt20414046",
+    "tmdb": 796592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-13"
+}

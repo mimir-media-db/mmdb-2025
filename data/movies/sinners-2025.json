@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sinners_2025",
+  "title": "Sinners",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125473145",
+    "imdb": "tt31193180",
+    "tmdb": 1233413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-16",
+  "runtime_minutes": 137
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_man_2025",
+  "title": "Bad Man",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125256466",
+    "imdb": "tt30057173",
+    "tmdb": 1267116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-24"
+}

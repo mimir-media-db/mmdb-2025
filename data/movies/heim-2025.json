@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heim_2025",
+  "title": "Heim",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135222079",
+    "imdb": "tt35115962",
+    "tmdb": 1342315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-13",
+  "runtime_minutes": 95
+}

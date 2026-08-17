@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_drive_me_crazy_2025",
+  "title": "You drive me crazy",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136805944",
+    "imdb": "tt33086385",
+    "tmdb": 1489187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 99
+}

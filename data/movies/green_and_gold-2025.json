@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_green_and_gold_2025",
+  "title": "Green and Gold",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132125859",
+    "imdb": "tt15143042",
+    "tmdb": 1361952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31"
+}

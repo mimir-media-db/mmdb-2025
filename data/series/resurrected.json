@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_resurrected",
+  "title": "The Resurrected",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q135703819",
+    "imdb": "tt32150413",
+    "tmdb": 252135
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

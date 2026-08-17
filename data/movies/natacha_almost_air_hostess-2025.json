@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_natacha_almost_air_hostess_2025",
+  "title": "Natacha (Almost) Air Hostess",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125960257",
+    "imdb": "tt32370862",
+    "tmdb": 1266781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-02",
+  "runtime_minutes": 90
+}

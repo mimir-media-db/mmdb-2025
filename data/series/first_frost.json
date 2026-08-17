@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_first_frost",
+  "title": "The First Frost",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q130270854",
+    "imdb": "tt31887832",
+    "tmdb": 250060
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 32
+}

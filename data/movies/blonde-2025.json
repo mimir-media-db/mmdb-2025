@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blonde_2025",
+  "title": "Blonde",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136450425",
+    "imdb": "tt38587950",
+    "tmdb": 1541169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-21"
+}

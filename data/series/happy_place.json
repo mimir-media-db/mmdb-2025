@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_happy_place",
+  "title": "Happy Place",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136658035",
+    "imdb": "tt38961906",
+    "tmdb": 304909
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}

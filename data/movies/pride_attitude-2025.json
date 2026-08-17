@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pride_attitude_2025",
+  "title": "Pride & Attitude",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132234910",
+    "imdb": "tt35590754",
+    "tmdb": 1424572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 113
+}

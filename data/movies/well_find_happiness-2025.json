@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_well_find_happiness_2025",
+  "title": "We'll Find Happiness",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134839396",
+    "imdb": "tt31851883",
+    "tmdb": 1322787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-17",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_mad_unicorn",
+  "title": "Mad Unicorn",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135399708",
+    "imdb": "tt35675668",
+    "tmdb": 283776
+  },
+  "last_updated": "2026-08-17"
+}

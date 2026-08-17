@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_noi_del_rione_sanita",
+  "title": "Noi del Rione Sanità",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136557114",
+    "imdb": "tt36294688",
+    "tmdb": 303779
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

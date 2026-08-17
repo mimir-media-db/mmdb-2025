@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_panda_you_rolling_in",
+  "title": "Panda & You, Rolling in!",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136652695",
+    "tmdb": 304048
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

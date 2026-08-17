@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_seconds_away_2025",
+  "title": "Seconds Away",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140192900",
+    "imdb": "tt38621161"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

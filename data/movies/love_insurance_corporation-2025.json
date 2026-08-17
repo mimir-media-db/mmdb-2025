@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_insurance_corporation_2025",
+  "title": "Love Insurance Corporation",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124343111",
+    "imdb": "tt30460421",
+    "tmdb": 1209511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-17"
+}

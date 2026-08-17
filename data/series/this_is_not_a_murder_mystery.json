@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_this_is_not_a_murder_mystery",
+  "title": "This Is Not a Murder Mystery",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131360778",
+    "imdb": "tt16528504",
+    "tmdb": 224942
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

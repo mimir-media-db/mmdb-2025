@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trial_by_fire_2025",
+  "title": "Trial by Fire",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135551569",
+    "imdb": "tt37051267",
+    "tmdb": 1303356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-13"
+}

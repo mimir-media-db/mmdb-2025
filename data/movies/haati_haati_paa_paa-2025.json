@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haati_haati_paa_paa_2025",
+  "title": "Haati Haati Paa Paa",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137435398",
+    "imdb": "tt38651421",
+    "tmdb": 1390095
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-28"
+}

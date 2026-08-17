@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_camaleon_el_pasado_no_cambia",
+  "title": "Camaleón: el pasado no cambia",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133581464",
+    "imdb": "tt27763255",
+    "tmdb": 221812
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

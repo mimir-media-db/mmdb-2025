@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_delights_of_the_garden_2025",
+  "title": "The Delights of the Garden",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136087548",
+    "imdb": "tt33513246",
+    "tmdb": 1361854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 94
+}

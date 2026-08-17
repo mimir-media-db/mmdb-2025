@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_40_days_2025",
+  "title": "40 Days",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140757542",
+    "imdb": "tt34958380",
+    "tmdb": 1557636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-03"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_asura",
+  "title": "Asura",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131160574",
+    "imdb": "tt34570673",
+    "tmdb": 239137
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

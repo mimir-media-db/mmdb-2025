@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_after_2025",
+  "title": "Day After...",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116608797",
+    "imdb": "tt13288246",
+    "tmdb": 850061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-11"
+}

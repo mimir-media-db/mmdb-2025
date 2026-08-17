@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_blankton",
+  "title": "Blankton",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132770721",
+    "imdb": "tt35484028"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 1
+}

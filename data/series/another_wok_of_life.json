@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_another_wok_of_life",
+  "title": "Another Wok of Life",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q134563401",
+    "imdb": "tt35774340",
+    "tmdb": 282363
+  },
+  "last_updated": "2026-08-17"
+}

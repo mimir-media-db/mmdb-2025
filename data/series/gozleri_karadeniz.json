@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gozleri_karadeniz",
+  "title": "Gözleri Karadeniz",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136095225",
+    "imdb": "tt37724629",
+    "tmdb": 297058
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

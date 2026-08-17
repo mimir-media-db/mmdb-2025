@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhool_chuk_maaf_2025",
+  "title": "Bhool Chuk Maaf",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133849153",
+    "imdb": "tt32058735",
+    "tmdb": 1301632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-23"
+}

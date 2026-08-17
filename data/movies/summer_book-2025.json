@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_book_2025",
+  "title": "The Summer Book",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117712753",
+    "imdb": "tt26940053",
+    "tmdb": 1073112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_man_2025",
+  "title": "Wolf Man",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111464581",
+    "imdb": "tt4216984",
+    "tmdb": 710295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-15",
+  "runtime_minutes": 103
+}

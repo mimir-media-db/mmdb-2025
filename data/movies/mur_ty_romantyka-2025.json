@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mur_ty_romantyka_2025",
+  "title": "Mur. Ty [romantyka]",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575557",
+    "imdb": "tt36507005"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-10",
+  "runtime_minutes": 104
+}

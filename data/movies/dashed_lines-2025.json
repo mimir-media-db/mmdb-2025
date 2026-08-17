@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dashed_lines_2025",
+  "title": "The Dashed Lines",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136676785",
+    "imdb": "tt15453322",
+    "tmdb": 1400272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-14",
+  "runtime_minutes": 91
+}

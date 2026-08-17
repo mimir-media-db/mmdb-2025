@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_comics_unleashed",
+  "title": "Comics Unleashed",
+  "start_year": 2025,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q5151816",
+    "imdb": "tt0890935",
+    "tmdb": 5516
+  },
+  "last_updated": "2026-08-17"
+}

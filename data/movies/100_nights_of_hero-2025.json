@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_100_nights_of_hero_2025",
+  "title": "100 Nights of Hero",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131290709",
+    "imdb": "tt33350512",
+    "tmdb": 1354518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-06",
+  "runtime_minutes": 91
+}

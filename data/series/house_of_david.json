@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_david",
+  "title": "House of David",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130485111",
+    "imdb": "tt30955673",
+    "tmdb": 243881
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

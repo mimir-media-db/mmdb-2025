@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_return_home_2025",
+  "title": "Return Home",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134689776",
+    "imdb": "tt18249684",
+    "tmdb": 1525935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-23"
+}

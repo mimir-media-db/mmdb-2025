@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_crystal_wall",
+  "title": "Crystal Wall",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133886760",
+    "imdb": "tt35829382",
+    "tmdb": 283444
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}

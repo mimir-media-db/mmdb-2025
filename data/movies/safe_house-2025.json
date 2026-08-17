@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_safe_house_2025",
+  "title": "Safe House",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131713799",
+    "imdb": "tt32317227",
+    "tmdb": 1383089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24"
+}

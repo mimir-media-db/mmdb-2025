@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_requiem_for_selina",
+  "title": "Requiem for Selina",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131839017",
+    "imdb": "tt35404666",
+    "tmdb": 283983
+  },
+  "last_updated": "2026-08-17"
+}

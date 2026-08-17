@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_f1_2025",
+  "title": "F1",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114246242",
+    "imdb": "tt16311594",
+    "tmdb": 911430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 155
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_khroniki_russkoy_revolyutsii",
+  "title": "Khroniki russkoy revolyutsii",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q121323169",
+    "imdb": "tt28610285",
+    "tmdb": 233105
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 17
+}

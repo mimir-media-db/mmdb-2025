@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stealing_pulp_fiction_2025",
+  "title": "Stealing Pulp Fiction",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130484589",
+    "imdb": "tt26940959",
+    "tmdb": 1320083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-27"
+}

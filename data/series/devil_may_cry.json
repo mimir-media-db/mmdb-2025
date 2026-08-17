@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_devil_may_cry",
+  "title": "Devil May Cry",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122898407",
+    "imdb": "tt15716776",
+    "tmdb": 235930
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

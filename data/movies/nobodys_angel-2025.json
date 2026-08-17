@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nobodys_angel_2025",
+  "title": "Nobody's Angel",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133543683",
+    "imdb": "tt36153530",
+    "tmdb": 1442316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-03",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_full_tilt_boogie_daddyo_2025",
+  "title": "Full Tilt Boogie, Daddy-O",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124284156",
+    "imdb": "tt21825970",
+    "tmdb": 1711937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-09",
+  "runtime_minutes": 101
+}

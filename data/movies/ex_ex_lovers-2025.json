@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ex_ex_lovers_2025",
+  "title": "Ex Ex Lovers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131745444",
+    "imdb": "tt35616807",
+    "tmdb": 1387175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-12"
+}

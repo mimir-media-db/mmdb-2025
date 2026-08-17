@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dead_girls",
+  "title": "The Dead Girls",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135639411",
+    "imdb": "tt31219594",
+    "tmdb": 246485
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jimpa_2025",
+  "title": "Jimpa",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125913481",
+    "imdb": "tt23745668",
+    "tmdb": 1286491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-23"
+}

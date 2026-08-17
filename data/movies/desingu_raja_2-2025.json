@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desingu_raja_2_2025",
+  "title": "Desingu Raja 2",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134742280",
+    "imdb": "tt32765932",
+    "tmdb": 1510433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-11"
+}

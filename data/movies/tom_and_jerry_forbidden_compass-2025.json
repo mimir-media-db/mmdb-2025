@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tom_and_jerry_forbidden_compass_2025",
+  "title": "Tom and Jerry: Forbidden Compass",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135432802",
+    "imdb": "tt37185884",
+    "tmdb": 1497970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-20",
+  "runtime_minutes": 104
+}

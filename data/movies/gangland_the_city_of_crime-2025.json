@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gangland_the_city_of_crime_2025",
+  "title": "Gangland: The City of Crime",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134173815",
+    "imdb": "tt36591053",
+    "tmdb": 1469422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25"
+}

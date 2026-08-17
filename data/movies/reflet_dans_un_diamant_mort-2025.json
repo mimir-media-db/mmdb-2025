@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reflet_dans_un_diamant_mort_2025",
+  "title": "Reflet dans un diamant mort",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131840218",
+    "imdb": "tt32263401",
+    "tmdb": 1013446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-16",
+  "runtime_minutes": 87
+}

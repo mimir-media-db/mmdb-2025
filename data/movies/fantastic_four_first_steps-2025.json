@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fantastic_four_first_steps_2025",
+  "title": "The Fantastic Four: First Steps",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105105219",
+    "imdb": "tt10676052",
+    "tmdb": 617126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-24",
+  "runtime_minutes": 114
+}

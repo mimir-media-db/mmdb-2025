@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_13_days_13_nights_2025",
+  "title": "13 Days, 13 Nights",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132176818",
+    "imdb": "tt28291010",
+    "tmdb": 1254135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 112
+}

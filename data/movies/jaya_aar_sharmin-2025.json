@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jaya_aar_sharmin_2025",
+  "title": "Jaya Aar Sharmin",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134434749",
+    "imdb": "tt15610424",
+    "tmdb": 1022305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-16"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_murder_2025",
+  "title": "Hidden Murder",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136428311",
+    "imdb": "tt32379198",
+    "tmdb": 1292315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-01",
+  "runtime_minutes": 111
+}

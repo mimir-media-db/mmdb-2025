@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cacador_de_marajas",
+  "title": "Caçador de Marajás",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136827938",
+    "imdb": "tt38748047",
+    "tmdb": 303191
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

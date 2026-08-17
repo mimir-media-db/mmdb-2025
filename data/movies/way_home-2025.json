@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_home_2025",
+  "title": "Way Home",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125490455",
+    "imdb": "tt30886032",
+    "tmdb": 1317159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-21",
+  "runtime_minutes": 97
+}

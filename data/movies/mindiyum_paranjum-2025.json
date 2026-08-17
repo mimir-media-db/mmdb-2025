@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mindiyum_paranjum_2025",
+  "title": "Mindiyum Paranjum",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131824273",
+    "imdb": "tt21379570",
+    "tmdb": 911244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-25"
+}

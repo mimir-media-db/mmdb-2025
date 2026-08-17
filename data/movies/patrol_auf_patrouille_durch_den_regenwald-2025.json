@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_patrol_auf_patrouille_durch_den_regenwald_2025",
+  "title": "Patrol – Auf Patrouille durch den Regenwald",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131763334",
+    "imdb": "tt6341958",
+    "tmdb": 1158290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-06",
+  "runtime_minutes": 83
+}

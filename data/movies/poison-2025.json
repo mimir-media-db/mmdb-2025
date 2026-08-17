@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poison_2025",
+  "title": "Poison",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127377901",
+    "imdb": "tt3594464",
+    "tmdb": 983521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-30",
+  "runtime_minutes": 86
+}

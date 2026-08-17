@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_live_and_survive_2025",
+  "title": "To Live and Survive",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138818800",
+    "imdb": "tt35853756",
+    "tmdb": 1587876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 92
+}

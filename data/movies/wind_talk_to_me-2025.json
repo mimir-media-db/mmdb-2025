@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wind_talk_to_me_2025",
+  "title": "Wind, Talk To Me",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132172304",
+    "imdb": "tt30327772",
+    "tmdb": 1247811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 100
+}

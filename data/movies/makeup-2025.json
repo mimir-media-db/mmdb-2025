@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_makeup_2025",
+  "title": "Makeup",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97257176",
+    "imdb": "tt14852454",
+    "tmdb": 1409844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-10"
+}

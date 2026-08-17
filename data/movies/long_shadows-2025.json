@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_long_shadows_2025",
+  "title": "Long Shadows",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135975526",
+    "imdb": "tt21631810",
+    "tmdb": 1127992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-07"
+}

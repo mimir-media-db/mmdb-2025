@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_die_treibende_kraft_2025",
+  "title": "Die Treibende Kraft",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135189594"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-28",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bahurup_2025",
+  "title": "Bahurup",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135685361",
+    "imdb": "tt36019884",
+    "tmdb": 1340128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-29"
+}

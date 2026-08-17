@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_riding_time_2025",
+  "title": "Riding Time",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138333196",
+    "imdb": "tt39212734"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-01"
+}

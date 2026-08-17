@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adios_al_amigo_2025",
+  "title": "Adiós al amigo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136359004",
+    "imdb": "tt27856708",
+    "tmdb": 1182189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-07",
+  "runtime_minutes": 118
+}

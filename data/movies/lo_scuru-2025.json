@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lo_scuru_2025",
+  "title": "Lo Scuru",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138817444",
+    "imdb": "tt32919874",
+    "tmdb": 1276140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

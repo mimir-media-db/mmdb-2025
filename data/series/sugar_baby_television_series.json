@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sugar_baby_television_series",
+  "title": "Sugar Baby (television series)",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136700614",
+    "imdb": "tt38754708",
+    "tmdb": 306917
+  },
+  "last_updated": "2026-08-17"
+}

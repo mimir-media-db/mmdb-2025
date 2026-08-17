@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wicked_game",
+  "title": "The Wicked Game",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136532599",
+    "imdb": "tt34088510",
+    "tmdb": 274559
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

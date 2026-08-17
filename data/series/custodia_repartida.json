@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_custodia_repartida",
+  "title": "Custodia repartida",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131521146",
+    "imdb": "tt17219616",
+    "tmdb": 258982
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

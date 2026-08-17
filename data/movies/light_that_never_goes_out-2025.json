@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_light_that_never_goes_out_2025",
+  "title": "A Light That Never Goes Out",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134607110",
+    "imdb": "tt28865633",
+    "tmdb": 1304527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-12"
+}

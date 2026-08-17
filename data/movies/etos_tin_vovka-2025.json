@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_etos_tin_vovka_2025",
+  "title": "Etos. Tin vovka",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576021",
+    "imdb": "tt41186211",
+    "tmdb": 1659442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-06",
+  "runtime_minutes": 66
+}

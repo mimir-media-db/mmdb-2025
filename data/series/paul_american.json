@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_paul_american",
+  "title": "Paul American",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132153634",
+    "imdb": "tt35635261",
+    "tmdb": 283393
+  },
+  "last_updated": "2026-08-17"
+}

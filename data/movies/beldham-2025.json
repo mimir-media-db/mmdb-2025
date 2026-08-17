@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beldham_2025",
+  "title": "The Beldham",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131289297",
+    "imdb": "tt20254992",
+    "tmdb": 1090983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-20"
+}

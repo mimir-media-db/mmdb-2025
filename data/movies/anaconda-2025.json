@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anaconda_2025",
+  "title": "Anaconda",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131549006",
+    "imdb": "tt33244668",
+    "tmdb": 1234731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-25"
+}

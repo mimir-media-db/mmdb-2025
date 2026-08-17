@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_other_land_2025",
+  "title": "No Other Land",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124440294",
+    "imdb": "tt30953759",
+    "tmdb": 1232493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-07",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ballad_of_a_small_player_2025",
+  "title": "Ballad of a Small Player",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125415454",
+    "imdb": "tt32063098",
+    "tmdb": 1272166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-29",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_miss_austen",
+  "title": "Miss Austen",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124040137",
+    "imdb": "tt21096438",
+    "tmdb": 241114
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

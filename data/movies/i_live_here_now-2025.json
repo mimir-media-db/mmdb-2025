@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_live_here_now_2025",
+  "title": "I Live Here Now",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134540617",
+    "imdb": "tt31131384",
+    "tmdb": 1274134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-24"
+}

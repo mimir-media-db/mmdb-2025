@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sally_2025",
+  "title": "Sally",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131978271",
+    "imdb": "tt31193771",
+    "tmdb": 1242382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_olympo",
+  "title": "Olympo",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q134283872",
+    "imdb": "tt33029688",
+    "tmdb": 259669
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

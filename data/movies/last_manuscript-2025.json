@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_manuscript_2025",
+  "title": "The Last Manuscript",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17019308",
+    "imdb": "tt0092143",
+    "tmdb": 198452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-12"
+}

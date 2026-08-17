@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_up_next_silvio_santos_2025",
+  "title": "Up Next: Silvio Santos",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131296790",
+    "imdb": "tt34767956",
+    "tmdb": 1386865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-20"
+}

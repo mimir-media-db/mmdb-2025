@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marshmallow_2025",
+  "title": "Marshmallow",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132802213",
+    "imdb": "tt15220066",
+    "tmdb": 1134048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-29"
+}

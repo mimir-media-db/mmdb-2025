@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_agenten_pappas_liv_og_lgner",
+  "title": "Agenten - Pappas liv og løgner",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131926741",
+    "imdb": "tt35463965"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

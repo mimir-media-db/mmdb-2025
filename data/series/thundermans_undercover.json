@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_thundermans_undercover",
+  "title": "The Thundermans: Undercover",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131473252",
+    "imdb": "tt33060942",
+    "tmdb": 254653
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

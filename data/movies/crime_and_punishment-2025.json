@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crime_and_punishment_2025",
+  "title": "Crime and Punishment",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136698650",
+    "imdb": "tt31914209",
+    "tmdb": 1376848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-09"
+}

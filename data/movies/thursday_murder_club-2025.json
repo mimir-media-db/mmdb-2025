@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thursday_murder_club_2025",
+  "title": "The Thursday Murder Club",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125622191",
+    "imdb": "tt12001534",
+    "tmdb": 744653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-28",
+  "runtime_minutes": 118
+}

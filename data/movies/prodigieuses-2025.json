@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prodigieuses_2025",
+  "title": "Prodigieuses",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130381618",
+    "imdb": "tt31948263",
+    "tmdb": 1063881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-04",
+  "runtime_minutes": 107
+}

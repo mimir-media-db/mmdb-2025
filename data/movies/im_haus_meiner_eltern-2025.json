@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_im_haus_meiner_eltern_2025",
+  "title": "Im Haus meiner Eltern",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131839812",
+    "imdb": "tt35051012",
+    "tmdb": 1403851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-05"
+}

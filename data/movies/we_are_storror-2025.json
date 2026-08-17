@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_storror_2025",
+  "title": "We Are Storror",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133250200",
+    "imdb": "tt35522465",
+    "tmdb": 1422037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-08"
+}

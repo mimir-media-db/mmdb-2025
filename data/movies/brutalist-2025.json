@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brutalist_2025",
+  "title": "The Brutalist",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101112656",
+    "imdb": "tt8999762",
+    "tmdb": 549509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-23",
+  "runtime_minutes": 215
+}

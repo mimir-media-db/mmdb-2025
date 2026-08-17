@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghumpori_2025",
+  "title": "Ghumpori",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132471144",
+    "imdb": "tt35769701",
+    "tmdb": 1400304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-20"
+}

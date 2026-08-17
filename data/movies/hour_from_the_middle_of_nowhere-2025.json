@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hour_from_the_middle_of_nowhere_2025",
+  "title": "An Hour From The Middle Of Nowhere",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134028160",
+    "imdb": "tt34287674"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-15",
+  "runtime_minutes": 83
+}

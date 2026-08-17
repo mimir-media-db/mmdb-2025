@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warning_life_goes_on_2025",
+  "title": "Warning! Life Goes On",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575586",
+    "imdb": "tt32792860",
+    "tmdb": 1310476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-01",
+  "runtime_minutes": 64
+}

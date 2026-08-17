@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_better_life",
+  "title": "A Better Life",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q134444352",
+    "imdb": "tt31887577",
+    "tmdb": 261586
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 36
+}

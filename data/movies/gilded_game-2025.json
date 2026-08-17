@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gilded_game_2025",
+  "title": "A Gilded Game",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134003674",
+    "imdb": "tt23461006",
+    "tmdb": 1200063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

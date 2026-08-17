@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_afternoons_of_solitude_2025",
+  "title": "Afternoons of Solitude",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130354631",
+    "imdb": "tt26245982",
+    "tmdb": 975324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-01",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_public_disorder",
+  "title": "Public Disorder",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131785156",
+    "imdb": "tt30096238",
+    "tmdb": 278877
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

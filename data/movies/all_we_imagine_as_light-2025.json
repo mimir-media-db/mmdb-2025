@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_we_imagine_as_light_2025",
+  "title": "All We Imagine as Light",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125422662",
+    "imdb": "tt32086077",
+    "tmdb": 927547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-03",
+  "runtime_minutes": 118
+}

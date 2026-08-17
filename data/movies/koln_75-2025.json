@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koln_75_2025",
+  "title": "Köln 75",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131523056",
+    "imdb": "tt20414360",
+    "tmdb": 1171153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-16"
+}

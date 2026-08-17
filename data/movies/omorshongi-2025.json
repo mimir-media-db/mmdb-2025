@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_omorshongi_2025",
+  "title": "Omorshongi",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132456715",
+    "imdb": "tt35052587",
+    "tmdb": 1172953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31",
+  "runtime_minutes": 154
+}
