@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_anpan",
+  "title": "Anpan",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q124408746",
+    "imdb": "tt38517422",
+    "tmdb": 262339
+  },
+  "last_updated": "2026-08-17"
+}

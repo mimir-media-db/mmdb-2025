@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_apple_cider_vinegar",
+  "title": "Apple Cider Vinegar",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131283460",
+    "imdb": "tt30428143",
+    "tmdb": 241501
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

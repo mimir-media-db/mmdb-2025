@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_amy_bradley_is_missing",
+  "title": "Amy Bradley Is Missing",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135180228",
+    "imdb": "tt37439438",
+    "tmdb": 294726
+  },
+  "last_updated": "2026-08-17"
+}

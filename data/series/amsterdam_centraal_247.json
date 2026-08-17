@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amsterdam_centraal_247",
+  "title": "Amsterdam Centraal 24/7",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134468594",
+    "imdb": "tt36873634",
+    "tmdb": 285622
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

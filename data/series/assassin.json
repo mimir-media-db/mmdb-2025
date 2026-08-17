@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_assassin",
+  "title": "The Assassin",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q129677371",
+    "imdb": "tt33246591",
+    "tmdb": 262352
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

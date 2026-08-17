@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_asset",
+  "title": "The Asset",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136389040",
+    "imdb": "tt33293130",
+    "tmdb": 262920
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amanecer_tv_series",
+  "title": "Amanecer (TV series)",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q133824429",
+    "imdb": "tt36515265",
+    "tmdb": 276390
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 80
+}

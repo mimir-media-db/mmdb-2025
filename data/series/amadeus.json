@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amadeus",
+  "title": "Amadeus",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125894924",
+    "imdb": "tt32061880",
+    "tmdb": 246864
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

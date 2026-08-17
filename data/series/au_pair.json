@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_au_pair",
+  "title": "The Au Pair",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131725121",
+    "imdb": "tt34345896",
+    "tmdb": 257942
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

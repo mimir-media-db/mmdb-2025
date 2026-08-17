@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_anatomy_of_a_moment",
+  "title": "The Anatomy of a Moment",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133865363",
+    "imdb": "tt35052656",
+    "tmdb": 282606
+  },
+  "last_updated": "2026-08-17"
+}

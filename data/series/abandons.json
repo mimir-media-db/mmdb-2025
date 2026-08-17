@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_abandons",
+  "title": "The Abandons",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123160943",
+    "imdb": "tt16280546",
+    "tmdb": 223300
+  },
+  "last_updated": "2026-08-17"
+}
