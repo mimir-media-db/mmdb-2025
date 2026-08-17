@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lets_play_ball",
+  "title": "Let's Play Ball",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136454872",
+    "imdb": "tt38282436",
+    "tmdb": 290704
+  },
+  "last_updated": "2026-08-17"
+}

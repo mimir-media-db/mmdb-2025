@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_la_vallee_fracturee",
+  "title": "La Vallée fracturée",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131440919",
+    "imdb": "tt35822688",
+    "tmdb": 274319
+  },
+  "last_updated": "2026-08-17"
+}

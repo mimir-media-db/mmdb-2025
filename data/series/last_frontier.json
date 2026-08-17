@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_last_frontier",
+  "title": "The Last Frontier",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124527959",
+    "imdb": "tt26862142",
+    "tmdb": 221079
+  },
+  "last_updated": "2026-08-17"
+}

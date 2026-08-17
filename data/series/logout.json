@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_logout",
+  "title": "Log-out",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131449957",
+    "imdb": "tt36173963",
+    "tmdb": 272468
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

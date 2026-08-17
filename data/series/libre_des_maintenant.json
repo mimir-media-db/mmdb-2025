@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_libre_des_maintenant",
+  "title": "Libre dès maintenant",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137926536",
+    "imdb": "tt36436507",
+    "tmdb": 288134
+  },
+  "last_updated": "2026-08-17"
+}

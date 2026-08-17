@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_librarians_the_next_chapter",
+  "title": "The Librarians: The Next Chapter",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q124739062",
+    "imdb": "tt27799594",
+    "tmdb": 226749
+  },
+  "last_updated": "2026-08-17"
+}

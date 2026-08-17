@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_design",
+  "title": "Love Design",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136746249",
+    "imdb": "tt35977295",
+    "tmdb": 287376
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_vida_breve",
+  "title": "La vida breve",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132483259",
+    "imdb": "tt31106325",
+    "tmdb": 243790
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

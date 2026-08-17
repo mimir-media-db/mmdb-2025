@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_loveexe",
+  "title": "LOVE.exe",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136721603",
+    "imdb": "tt38839138",
+    "tmdb": 303748
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

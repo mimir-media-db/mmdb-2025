@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lockerbie_a_search_for_truth",
+  "title": "Lockerbie: A Search for Truth",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124639491",
+    "imdb": "tt31029686",
+    "tmdb": 244321
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

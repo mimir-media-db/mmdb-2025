@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_los_macanimals",
+  "title": "Los MacAnimals",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q111832772",
+    "imdb": "tt17011766",
+    "tmdb": 201203
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

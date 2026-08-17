@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_litchi_road",
+  "title": "The Litchi Road",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134620178",
+    "imdb": "tt28151918",
+    "tmdb": 203367
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 35
+}

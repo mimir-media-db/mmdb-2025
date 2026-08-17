@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lol_last_one_laughing_uk",
+  "title": "LOL: Last One Laughing UK",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133444505",
+    "imdb": "tt35050741",
+    "tmdb": 262819
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

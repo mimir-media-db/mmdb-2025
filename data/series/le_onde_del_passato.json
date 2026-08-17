@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_le_onde_del_passato",
+  "title": "Le onde del passato",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q132560949",
+    "imdb": "tt32345919",
+    "tmdb": 284972
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

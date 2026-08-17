@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_loves_ambition",
+  "title": "Love's Ambition",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136400669",
+    "imdb": "tt32582480",
+    "tmdb": 256920
+  },
+  "last_updated": "2026-08-17"
+}

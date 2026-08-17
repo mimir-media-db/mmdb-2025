@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_learning_to_love",
+  "title": "Learning to Love",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q135263977",
+    "imdb": "tt37543242",
+    "tmdb": 292126
+  },
+  "last_updated": "2026-08-17"
+}

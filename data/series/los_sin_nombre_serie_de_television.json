@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_los_sin_nombre_serie_de_television",
+  "title": "Los sin nombre (serie de televisión)",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134567169",
+    "imdb": "tt33797175",
+    "tmdb": 273916
+  },
+  "last_updated": "2026-08-17"
+}
