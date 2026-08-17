@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_inheritance_detective",
+  "title": "Inheritance Detective",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132055269",
+    "imdb": "tt35486504",
+    "tmdb": 279868
+  },
+  "last_updated": "2026-08-17"
+}

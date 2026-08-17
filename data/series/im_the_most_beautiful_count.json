@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_im_the_most_beautiful_count",
+  "title": "I'm the Most Beautiful Count",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q135319331",
+    "imdb": "tt32227052",
+    "tmdb": 252741
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

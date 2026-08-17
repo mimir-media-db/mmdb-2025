@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_i_am_a_running_mate",
+  "title": "I Am a Running Mate",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q122609930",
+    "imdb": "tt29667961",
+    "tmdb": 230775
+  },
+  "last_updated": "2026-08-17"
+}

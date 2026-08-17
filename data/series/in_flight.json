@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_in_flight",
+  "title": "In Flight",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q133877768",
+    "imdb": "tt22299034",
+    "tmdb": 276563
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

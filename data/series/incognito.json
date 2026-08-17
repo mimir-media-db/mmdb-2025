@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_incognito",
+  "title": "Incognito",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131443154",
+    "imdb": "tt34852944",
+    "tmdb": 278428
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 88
+}

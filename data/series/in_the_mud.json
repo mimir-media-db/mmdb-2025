@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_in_the_mud",
+  "title": "In the Mud",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134840218",
+    "imdb": "tt32874331",
+    "tmdb": 258462
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}
