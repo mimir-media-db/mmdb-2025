@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_con_mum_2025",
+  "title": "Con Mum",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133282834",
+    "imdb": "tt35955855",
+    "tmdb": 1442440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-25"
+}

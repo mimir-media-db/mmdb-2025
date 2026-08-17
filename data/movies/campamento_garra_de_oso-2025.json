@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_campamento_garra_de_oso_2025",
+  "title": "Campamento Garra de Oso",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136719161",
+    "imdb": "tt32616813",
+    "tmdb": 1304625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-29"
+}

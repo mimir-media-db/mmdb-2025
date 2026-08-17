@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caught_by_the_tides_2025",
+  "title": "Caught by the Tides",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125422899",
+    "imdb": "tt27958252",
+    "tmdb": 1136837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-09",
+  "runtime_minutes": 111
+}

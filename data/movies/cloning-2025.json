@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cloning_2025",
+  "title": "Cloning",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133894341",
+    "imdb": "tt36436270",
+    "tmdb": 1455667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-09"
+}

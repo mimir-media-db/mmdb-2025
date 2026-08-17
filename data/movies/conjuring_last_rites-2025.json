@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_conjuring_last_rites_2025",
+  "title": "The Conjuring: Last Rites",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114802043",
+    "imdb": "tt22898462",
+    "tmdb": 1038392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-04",
+  "runtime_minutes": 135
+}

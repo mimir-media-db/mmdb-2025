@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cabaret_total_2025",
+  "title": "Cabaret Total",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132673797",
+    "imdb": "tt33183831",
+    "tmdb": 1336812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-13",
+  "runtime_minutes": 90
+}

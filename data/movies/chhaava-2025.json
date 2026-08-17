@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chhaava_2025",
+  "title": "Chhaava",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127012906",
+    "imdb": "tt27922706",
+    "tmdb": 1196943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-14"
+}

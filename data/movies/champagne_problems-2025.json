@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_champagne_problems_2025",
+  "title": "Champagne Problems",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131956860",
+    "imdb": "tt33053440",
+    "tmdb": 1323475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-19"
+}

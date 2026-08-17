@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chhi_re_nani_2025",
+  "title": "Chhi Re Nani",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140379971",
+    "imdb": "tt37232358",
+    "tmdb": 1596041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-01"
+}

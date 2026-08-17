@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cavern_crimes_2025",
+  "title": "The Cavern Crimes",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132672652",
+    "imdb": "tt33098637",
+    "tmdb": 1310871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-04",
+  "runtime_minutes": 105
+}

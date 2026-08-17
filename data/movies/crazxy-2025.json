@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crazxy_2025",
+  "title": "Crazxy",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132355940",
+    "imdb": "tt30798612",
+    "tmdb": 1370264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-28"
+}

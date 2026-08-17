@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colours_of_time_2025",
+  "title": "Colours of Time",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134142841",
+    "imdb": "tt31411349",
+    "tmdb": 1235304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-22",
+  "runtime_minutes": 124
+}

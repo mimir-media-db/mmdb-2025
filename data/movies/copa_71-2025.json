@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_copa_71_2025",
+  "title": "Copa 71",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123334897",
+    "imdb": "tt18163414",
+    "tmdb": 951022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-26",
+  "runtime_minutes": 90
+}

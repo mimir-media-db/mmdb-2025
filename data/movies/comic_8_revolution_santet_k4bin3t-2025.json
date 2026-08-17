@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comic_8_revolution_santet_k4bin3t_2025",
+  "title": "Comic 8 Revolution: Santet K4bin3t",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137584474",
+    "imdb": "tt38623880",
+    "tmdb": 1501124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-24",
+  "runtime_minutes": 111
+}

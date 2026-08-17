@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_class_reunion_2025",
+  "title": "Class Reunion",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135114584",
+    "imdb": "tt21068440",
+    "tmdb": 1302848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-05",
+  "runtime_minutes": 94
+}

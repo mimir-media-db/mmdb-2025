@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_calendar_killer_2025",
+  "title": "The Calendar Killer",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131763883",
+    "imdb": "tt30292390",
+    "tmdb": 1388694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-16",
+  "runtime_minutes": 97
+}

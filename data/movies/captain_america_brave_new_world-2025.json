@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captain_america_brave_new_world_2025",
+  "title": "Captain America: Brave New World",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112322116",
+    "imdb": "tt14513804",
+    "tmdb": 822119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-12",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cornucopia_2025",
+  "title": "Cornucopia",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131872926",
+    "imdb": "tt35534649",
+    "tmdb": 1201149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-07",
+  "runtime_minutes": 98
+}

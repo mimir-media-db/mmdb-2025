@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cadet_2025",
+  "title": "Cadet",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131928465",
+    "imdb": "tt33986745",
+    "tmdb": 1361938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-02"
+}

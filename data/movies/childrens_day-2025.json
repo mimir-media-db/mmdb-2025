@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_childrens_day_2025",
+  "title": "Children's Day",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132146934",
+    "imdb": "tt35405716",
+    "tmdb": 1416906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-15",
+  "runtime_minutes": 20
+}

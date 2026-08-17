@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cooked_2025",
+  "title": "Cooked",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132175492",
+    "imdb": "tt33305511",
+    "tmdb": 1392117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-12",
+  "runtime_minutes": 112
+}

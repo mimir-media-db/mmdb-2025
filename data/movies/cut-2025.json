@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cut_2025",
+  "title": "The Cut",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128774983",
+    "imdb": "tt26697087",
+    "tmdb": 1215798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cuba_alaska_2025",
+  "title": "Cuba & Alaska",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135916330",
+    "imdb": "tt35571275",
+    "tmdb": 1165298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-19",
+  "runtime_minutes": 93
+}

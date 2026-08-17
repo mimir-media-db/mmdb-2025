@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cloture_2025",
+  "title": "Cloture",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136957292",
+    "imdb": "tt35602789",
+    "tmdb": 1425052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-26"
+}
