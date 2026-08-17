@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stage_2025",
+  "title": "The Stage",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135384010",
+    "imdb": "tt35112097",
+    "tmdb": 1406607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-12"
+}

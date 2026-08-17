@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stiller_2025",
+  "title": "Stiller",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134540113",
+    "imdb": "tt29932579",
+    "tmdb": 1245685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 99
+}

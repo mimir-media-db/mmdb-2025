@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sumision_quimica_el_caso_gisele_pelicot_2025",
+  "title": "Sumisión química: el caso Gisèle Pelicot",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137940801",
+    "imdb": "tt34799791",
+    "tmdb": 1421259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 94
+}

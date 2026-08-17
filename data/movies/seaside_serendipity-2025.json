@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seaside_serendipity_2025",
+  "title": "Seaside Serendipity",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131905078",
+    "imdb": "tt35449385",
+    "tmdb": 1381159
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

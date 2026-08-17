@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saba_2025",
+  "title": "Saba",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137576326",
+    "imdb": "tt31464877",
+    "tmdb": 1248196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-26"
+}

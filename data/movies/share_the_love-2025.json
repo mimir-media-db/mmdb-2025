@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_share_the_love_2025",
+  "title": "Share the Love",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139620177",
+    "imdb": "tt27867961",
+    "tmdb": 1367418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-20",
+  "runtime_minutes": 121
+}

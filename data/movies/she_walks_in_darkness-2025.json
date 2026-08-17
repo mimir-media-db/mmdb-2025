@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_walks_in_darkness_2025",
+  "title": "She Walks in Darkness",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132083442",
+    "imdb": "tt32129665",
+    "tmdb": 1275151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-01",
+  "runtime_minutes": 108
+}

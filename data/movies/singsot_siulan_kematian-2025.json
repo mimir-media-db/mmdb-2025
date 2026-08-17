@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_singsot_siulan_kematian_2025",
+  "title": "Singsot: Siulan Kematian",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135434899",
+    "imdb": "tt35703227",
+    "tmdb": 1429784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-15"
+}

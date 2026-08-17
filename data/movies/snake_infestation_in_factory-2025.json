@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snake_infestation_in_factory_2025",
+  "title": "Snake Infestation in Factory",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138661084",
+    "imdb": "tt38390980",
+    "tmdb": 1548212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-19"
+}

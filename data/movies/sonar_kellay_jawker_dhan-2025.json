@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sonar_kellay_jawker_dhan_2025",
+  "title": "Sonar Kellay Jawker Dhan",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134544799",
+    "imdb": "tt36733805",
+    "tmdb": 1236589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-30",
+  "runtime_minutes": 134
+}

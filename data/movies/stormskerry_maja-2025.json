@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stormskerry_maja_2025",
+  "title": "Stormskerry Maja",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114245238",
+    "imdb": "tt22257924",
+    "tmdb": 1028769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 163
+}

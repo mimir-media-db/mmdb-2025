@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sandbag_dam_2025",
+  "title": "Sandbag Dam",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131578062",
+    "imdb": "tt35051064",
+    "tmdb": 1404172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-13",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spacetime_2025",
+  "title": "Space/Time",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600736",
+    "imdb": "tt5050634",
+    "tmdb": 434853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

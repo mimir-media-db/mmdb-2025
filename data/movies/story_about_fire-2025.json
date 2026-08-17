@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_story_about_fire_2025",
+  "title": "A Story About Fire",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131914413",
+    "imdb": "tt35444105",
+    "tmdb": 1418531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

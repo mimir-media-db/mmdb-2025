@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seed_of_the_sacred_fig_2025",
+  "title": "The Seed of the Sacred Fig",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125563776",
+    "imdb": "tt32178949",
+    "tmdb": 1278263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-30",
+  "runtime_minutes": 168
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sirat_2025",
+  "title": "Sirāt",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133850188",
+    "imdb": "tt32298285",
+    "tmdb": 1151272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-16",
+  "runtime_minutes": 115
+}

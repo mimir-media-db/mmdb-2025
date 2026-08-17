@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_on_fire_2025",
+  "title": "Soul on Fire",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124098394",
+    "imdb": "tt28078628",
+    "tmdb": 1196791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-10"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sumo_2025",
+  "title": "Sumo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85847437",
+    "imdb": "tt33483024",
+    "tmdb": 619987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25"
+}

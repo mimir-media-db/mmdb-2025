@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smashing_machine_2025",
+  "title": "The Smashing Machine",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126012569",
+    "imdb": "tt11214558",
+    "tmdb": 760329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-01",
+  "runtime_minutes": 123
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_straight_circle_2025",
+  "title": "Straight Circle",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135436960",
+    "imdb": "tt29630535",
+    "tmdb": 1433601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-01",
+  "runtime_minutes": 108
+}

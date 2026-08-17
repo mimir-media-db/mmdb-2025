@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soil_story_2025",
+  "title": "Soil Story",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137177061",
+    "imdb": "tt39009362"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 13
+}

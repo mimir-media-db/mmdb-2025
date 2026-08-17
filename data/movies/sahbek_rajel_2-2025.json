@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sahbek_rajel_2_2025",
+  "title": "Sahbek Rajel 2",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137773897",
+    "imdb": "tt38687444",
+    "tmdb": 1599594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-10"
+}

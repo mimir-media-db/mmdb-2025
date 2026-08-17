@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunshine_2025",
+  "title": "Sunshine",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128787363",
+    "imdb": "tt31711171",
+    "tmdb": 1269838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-23",
+  "runtime_minutes": 92
+}

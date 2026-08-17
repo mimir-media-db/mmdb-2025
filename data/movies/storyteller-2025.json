@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_storyteller_2025",
+  "title": "The Storyteller",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132204434",
+    "imdb": "tt7782402",
+    "tmdb": 963682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saurus_city_2025",
+  "title": "Saurus City",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136785190",
+    "imdb": "tt9833308",
+    "tmdb": 836222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-15",
+  "runtime_minutes": 83
+}

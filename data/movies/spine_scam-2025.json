@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spine_scam_2025",
+  "title": "Spine Scam",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138265729",
+    "imdb": "tt34472248",
+    "tmdb": 1634577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-04"
+}

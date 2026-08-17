@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_september_5_2025",
+  "title": "September 5",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127688495",
+    "imdb": "tt28082769",
+    "tmdb": 1211472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-09",
+  "runtime_minutes": 91
+}

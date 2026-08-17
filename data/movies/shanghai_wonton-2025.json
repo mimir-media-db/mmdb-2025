@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shanghai_wonton_2025",
+  "title": "Shanghai Wonton",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136547471",
+    "imdb": "tt35348924",
+    "tmdb": 1406277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-15"
+}

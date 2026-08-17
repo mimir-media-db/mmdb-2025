@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_site_2025",
+  "title": "The Site",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136434698",
+    "imdb": "tt15435004",
+    "tmdb": 1000879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-05",
+  "runtime_minutes": 91
+}

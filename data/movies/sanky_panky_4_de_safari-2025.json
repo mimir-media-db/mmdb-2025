@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sanky_panky_4_de_safari_2025",
+  "title": "Sanky Panky 4: De Safari",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106864872",
+    "imdb": "tt14179630",
+    "tmdb": 1338321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

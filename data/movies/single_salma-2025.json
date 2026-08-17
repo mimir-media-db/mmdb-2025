@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_single_salma_2025",
+  "title": "Single Salma",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136656938",
+    "imdb": "tt27826850",
+    "tmdb": 1352528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-31"
+}

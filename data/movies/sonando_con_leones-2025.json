@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sonando_con_leones_2025",
+  "title": "Soñando con leones",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135400524",
+    "imdb": "tt15063134",
+    "tmdb": 1374709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

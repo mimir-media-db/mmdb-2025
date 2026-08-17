@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soldiers_of_light_2025",
+  "title": "Soldiers of Light",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135189685",
+    "imdb": "tt36379428",
+    "tmdb": 1301381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-06",
+  "runtime_minutes": 108
+}

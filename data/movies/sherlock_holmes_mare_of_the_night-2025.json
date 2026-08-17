@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sherlock_holmes_mare_of_the_night_2025",
+  "title": "Sherlock Holmes: Mare of the Night",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131689439",
+    "imdb": "tt21052558",
+    "tmdb": 1404535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24",
+  "runtime_minutes": 129
+}

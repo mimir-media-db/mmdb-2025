@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_subject_filmmaking_2025",
+  "title": "Subject: Filmmaking",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131321304",
+    "imdb": "tt30886857",
+    "tmdb": 1232763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-09",
+  "runtime_minutes": 89
+}

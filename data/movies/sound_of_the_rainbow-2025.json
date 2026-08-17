@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_of_the_rainbow_2025",
+  "title": "The Sound of the Rainbow",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574031",
+    "imdb": "tt38908684"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-31",
+  "runtime_minutes": 75
+}

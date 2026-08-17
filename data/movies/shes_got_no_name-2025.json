@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shes_got_no_name_2025",
+  "title": "She's Got No Name",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125469653",
+    "imdb": "tt5562068",
+    "tmdb": 1139695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-21",
+  "runtime_minutes": 150
+}

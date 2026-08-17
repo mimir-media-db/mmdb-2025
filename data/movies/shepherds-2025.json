@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shepherds_2025",
+  "title": "Shepherds",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127312272",
+    "imdb": "tt29634258",
+    "tmdb": 988361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-09",
+  "runtime_minutes": 113
+}

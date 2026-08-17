@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sarangapani_jathakam_2025",
+  "title": "Sarangapani Jathakam",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133779825",
+    "imdb": "tt32327480",
+    "tmdb": 1354069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25"
+}

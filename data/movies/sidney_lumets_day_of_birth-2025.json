@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sidney_lumets_day_of_birth_2025",
+  "title": "Sidney Lumet's Day of Birth",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139902672",
+    "imdb": "tt38018397"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-13",
+  "runtime_minutes": 92
+}

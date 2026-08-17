@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sokhna_2025",
+  "title": "Sokhna",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138744237",
+    "imdb": "tt29631056"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-20",
+  "runtime_minutes": 30
+}

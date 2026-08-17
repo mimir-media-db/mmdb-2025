@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_subham_2025",
+  "title": "Subham",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134416710",
+    "imdb": "tt34376523",
+    "tmdb": 1449364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-09",
+  "runtime_minutes": 125
+}

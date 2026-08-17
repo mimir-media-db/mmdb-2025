@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shreeman_vs_shreemati_2025",
+  "title": "Shreeman VS Shreemati",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134303872",
+    "imdb": "tt36272079",
+    "tmdb": 1330454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-01",
+  "runtime_minutes": 128
+}

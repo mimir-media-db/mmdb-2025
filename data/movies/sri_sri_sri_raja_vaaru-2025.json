@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sri_sri_sri_raja_vaaru_2025",
+  "title": "Sri Sri Sri Raja Vaaru",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134704473",
+    "imdb": "tt28359015",
+    "tmdb": 1416633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-06",
+  "runtime_minutes": 147
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sugar_mill_2025",
+  "title": "Sugar Mill",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133844344",
+    "imdb": "tt33349807",
+    "tmdb": 1355126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-31",
+  "runtime_minutes": 132
+}

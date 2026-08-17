@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strangers_chapter_2_2025",
+  "title": "The Strangers: Chapter 2",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122396990",
+    "imdb": "tt28671344",
+    "tmdb": 1010756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-16",
+  "runtime_minutes": 162
+}

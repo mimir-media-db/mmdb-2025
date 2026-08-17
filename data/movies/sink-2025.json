@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sink_2025",
+  "title": "Sink",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136139164",
+    "imdb": "tt34127385",
+    "tmdb": 1517721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-07",
+  "runtime_minutes": 88
+}

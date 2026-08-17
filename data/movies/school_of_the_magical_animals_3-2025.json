@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_school_of_the_magical_animals_3_2025",
+  "title": "School of the Magical Animals 3",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130381683",
+    "imdb": "tt32241578",
+    "tmdb": 1181765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-30",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_of_silence_2025",
+  "title": "Sound of Silence",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136691856",
+    "imdb": "tt36690044",
+    "tmdb": 1466319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-04"
+}

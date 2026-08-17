@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sur_la_route_de_papa_2025",
+  "title": "Sur la route de papa",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134884195",
+    "imdb": "tt35518655",
+    "tmdb": 1389410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-18",
+  "runtime_minutes": 91
+}

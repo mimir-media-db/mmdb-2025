@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sacramento_2025",
+  "title": "Sacramento",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119149787",
+    "imdb": "tt13491834",
+    "tmdb": 842931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-11",
+  "runtime_minutes": 84
+}

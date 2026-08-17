@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sambosa_chapati_2025",
+  "title": "Sambosa Chapati",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136701051",
+    "imdb": "tt37969585",
+    "tmdb": 1530492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-14"
+}

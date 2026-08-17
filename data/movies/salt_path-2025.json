@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_salt_path_2025",
+  "title": "The Salt Path",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120135481",
+    "imdb": "tt27766440",
+    "tmdb": 1127625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-17"
+}

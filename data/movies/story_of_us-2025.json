@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_story_of_us_2025",
+  "title": "The Story of Us",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131904289",
+    "imdb": "tt29690089",
+    "tmdb": 1025402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

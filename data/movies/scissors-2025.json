@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scissors_2025",
+  "title": "Scissors",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133864426",
+    "imdb": "tt27493378",
+    "tmdb": 1144577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 63
+}

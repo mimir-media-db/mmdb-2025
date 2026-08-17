@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_siko_siko_2025",
+  "title": "Siko Siko",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133502374",
+    "imdb": "tt35927674",
+    "tmdb": 1316416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-31"
+}

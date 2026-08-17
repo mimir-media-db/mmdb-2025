@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_school_2001_2025",
+  "title": "Summer School, 2001",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130740306",
+    "imdb": "tt37534718",
+    "tmdb": 1481097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-24",
+  "runtime_minutes": 102
+}

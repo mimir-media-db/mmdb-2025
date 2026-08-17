@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shes_the_he_2025",
+  "title": "She's the He",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137669677",
+    "imdb": "tt32261856",
+    "tmdb": 1422138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-09",
+  "runtime_minutes": 81
+}
