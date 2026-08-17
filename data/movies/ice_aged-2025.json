@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_aged_2025",
+  "title": "Ice Aged",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133295677",
+    "imdb": "tt35891039",
+    "tmdb": 1081128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-10",
+  "runtime_minutes": 110
+}

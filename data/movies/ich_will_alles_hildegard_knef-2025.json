@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ich_will_alles_hildegard_knef_2025",
+  "title": "Ich will alles. Hildegard Knef",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132156424",
+    "imdb": "tt35451741",
+    "tmdb": 1393308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-03",
+  "runtime_minutes": 98
+}

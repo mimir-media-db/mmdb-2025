@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_incarnation_2025",
+  "title": "Incarnation",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135507690",
+    "imdb": "tt37597844",
+    "tmdb": 1491333
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-17"
+}

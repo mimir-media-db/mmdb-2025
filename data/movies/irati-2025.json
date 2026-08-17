@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_irati_2025",
+  "title": "Irati",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108965590",
+    "imdb": "tt15734582",
+    "tmdb": 726274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-20",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_still_here_2025",
+  "title": "I'm Still Here",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124262351",
+    "imdb": "tt14961016",
+    "tmdb": 1000837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-15",
+  "runtime_minutes": 135
+}

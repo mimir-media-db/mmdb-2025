@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_io_ti_conosco_2025",
+  "title": "Io ti conosco",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135639711",
+    "imdb": "tt36166049",
+    "tmdb": 1446588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-27"
+}

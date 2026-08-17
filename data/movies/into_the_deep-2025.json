@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_deep_2025",
+  "title": "Into the Deep",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131844396",
+    "imdb": "tt28637027",
+    "tmdb": 1388808
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24"
+}

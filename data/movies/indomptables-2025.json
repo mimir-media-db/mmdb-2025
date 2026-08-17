@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_indomptables_2025",
+  "title": "Indomptables",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133879477",
+    "imdb": "tt36580117",
+    "tmdb": 1461911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-11",
+  "runtime_minutes": 81
+}

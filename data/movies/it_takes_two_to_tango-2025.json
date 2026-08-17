@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_it_takes_two_to_tango_2025",
+  "title": "It Takes Two to Tango",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133832564",
+    "imdb": "tt33305346",
+    "tmdb": 1306293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-16"
+}

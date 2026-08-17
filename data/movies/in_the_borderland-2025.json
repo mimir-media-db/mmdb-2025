@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_borderland_2025",
+  "title": "In the Borderland",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131929180",
+    "imdb": "tt34859472",
+    "tmdb": 1408693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-14"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_prinzip_familie_2025",
+  "title": "Im Prinzip Familie",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132559584",
+    "imdb": "tt34289412",
+    "tmdb": 1362442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-05",
+  "runtime_minutes": 91
+}

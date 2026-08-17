@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_shadows_of_dreams_2025",
+  "title": "In the Shadows of Dreams",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131342550",
+    "imdb": "tt30687112",
+    "tmdb": 1356482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-06",
+  "runtime_minutes": 90
+}

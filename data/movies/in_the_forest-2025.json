@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_forest_2025",
+  "title": "In the Forest",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137783517",
+    "imdb": "tt38710493"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 124
+}

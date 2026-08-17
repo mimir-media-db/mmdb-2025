@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_was_a_stranger_2025",
+  "title": "I Was a Stranger",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124354651",
+    "imdb": "tt21272942",
+    "tmdb": 1193128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-31"
+}

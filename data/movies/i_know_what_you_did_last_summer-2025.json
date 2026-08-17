@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_know_what_you_did_last_summer_2025",
+  "title": "I Know What You Did Last Summer",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130368011",
+    "imdb": "tt4045450",
+    "tmdb": 1083433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-17",
+  "runtime_minutes": 111
+}

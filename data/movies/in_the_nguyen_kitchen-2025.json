@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_nguyen_kitchen_2025",
+  "title": "In The Nguyen Kitchen",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132753329",
+    "imdb": "tt31047957",
+    "tmdb": 1001248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-05",
+  "runtime_minutes": 99
+}

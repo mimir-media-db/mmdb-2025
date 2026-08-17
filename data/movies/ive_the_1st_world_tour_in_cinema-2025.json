@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ive_the_1st_world_tour_in_cinema_2025",
+  "title": "IVE THE 1ST WORLD TOUR in CINEMA",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132197245",
+    "imdb": "tt34170103",
+    "tmdb": 1361488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-26",
+  "runtime_minutes": 111
+}

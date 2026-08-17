@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_not_a_robot_2025",
+  "title": "I'm Not a Robot",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131866230",
+    "imdb": "tt19837932",
+    "tmdb": 1178556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-14",
+  "runtime_minutes": 22
+}

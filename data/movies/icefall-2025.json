@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_icefall_2025",
+  "title": "Icefall",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125627194",
+    "imdb": "tt29780866",
+    "tmdb": 1242501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-23"
+}

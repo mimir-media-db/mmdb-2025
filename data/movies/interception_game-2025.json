@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_interception_game_2025",
+  "title": "The Interception Game",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136773496",
+    "imdb": "tt37623705",
+    "tmdb": 1541365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-30",
+  "runtime_minutes": 80
+}
