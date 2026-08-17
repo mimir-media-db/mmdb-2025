@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_virdee",
+  "title": "Virdee",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124706965",
+    "imdb": "tt29081720",
+    "tmdb": 233325
+  },
+  "last_updated": "2026-08-17"
+}

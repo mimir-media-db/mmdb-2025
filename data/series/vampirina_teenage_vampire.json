@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vampirina_teenage_vampire",
+  "title": "Vampirina: Teenage Vampire",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135969535",
+    "imdb": "tt34385400",
+    "tmdb": 275722
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vitya",
+  "title": "Vitya",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135900413",
+    "imdb": "tt38069208",
+    "tmdb": 304775
+  },
+  "last_updated": "2026-08-17"
+}

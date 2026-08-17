@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vals_spel",
+  "title": "Vals Spel",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137195871",
+    "imdb": "tt38884609",
+    "tmdb": 305046
+  },
+  "last_updated": "2026-08-17"
+}

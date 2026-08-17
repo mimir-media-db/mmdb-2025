@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_villeclimatdurabilite_voyage_dans_le_futur_de_la_construction",
+  "title": "Ville.Climat.Durabilité - Voyage dans le futur de la construction",
+  "start_year": 2024,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q134347292"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}
