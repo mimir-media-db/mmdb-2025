@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thammudu_2025",
+  "title": "Thammudu",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135285259",
+    "imdb": "tt27235882",
+    "tmdb": 1263029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-04"
+}

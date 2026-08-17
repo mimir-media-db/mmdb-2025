@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tom_the_bottleman_2025",
+  "title": "Tom the Bottleman",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133504687",
+    "imdb": "tt36282427",
+    "tmdb": 1455215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-06",
+  "runtime_minutes": 22
+}

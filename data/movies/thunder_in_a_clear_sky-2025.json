@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thunder_in_a_clear_sky_2025",
+  "title": "Thunder in a Clear Sky",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136387740",
+    "imdb": "tt38895614",
+    "tmdb": 1659460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-18",
+  "runtime_minutes": 73
+}

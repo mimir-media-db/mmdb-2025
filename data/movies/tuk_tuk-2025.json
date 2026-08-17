@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tuk_tuk_2025",
+  "title": "Tuk Tuk",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133573212",
+    "imdb": "tt33088937",
+    "tmdb": 1442486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21"
+}

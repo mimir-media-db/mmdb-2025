@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tasters_2025",
+  "title": "The Tasters",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133282969",
+    "imdb": "tt27811248",
+    "tmdb": 1291712
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-29",
+  "runtime_minutes": 100
+}

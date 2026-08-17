@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thanks_for_nothing_2025",
+  "title": "Thanks For Nothing",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136408808",
+    "imdb": "tt37021531",
+    "tmdb": 1461375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

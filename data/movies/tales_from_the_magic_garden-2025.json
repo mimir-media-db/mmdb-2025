@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tales_from_the_magic_garden_2025",
+  "title": "Tales from the Magic Garden",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116996035",
+    "imdb": "tt10312938",
+    "tmdb": 587370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 71
+}

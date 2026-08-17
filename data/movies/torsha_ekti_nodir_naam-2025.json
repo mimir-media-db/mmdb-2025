@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_torsha_ekti_nodir_naam_2025",
+  "title": "Torsha Ekti Nodir Naam",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134695784",
+    "imdb": "tt37080702",
+    "tmdb": 1491514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-30"
+}

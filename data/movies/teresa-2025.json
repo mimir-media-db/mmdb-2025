@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teresa_2025",
+  "title": "Teresa",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120188866",
+    "imdb": "tt12410714",
+    "tmdb": 710157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-13",
+  "runtime_minutes": 100
+}

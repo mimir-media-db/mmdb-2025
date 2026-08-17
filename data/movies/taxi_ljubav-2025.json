@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taxi_ljubav_2025",
+  "title": "Taxi ljubav",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135431824",
+    "imdb": "tt35977386",
+    "tmdb": 1535528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-04"
+}

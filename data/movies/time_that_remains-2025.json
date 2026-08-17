@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_that_remains_2025",
+  "title": "The Time That Remains",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136498727",
+    "imdb": "tt38366532",
+    "tmdb": 1550223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-16"
+}

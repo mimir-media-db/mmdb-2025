@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taandob_2025",
+  "title": "Taandob",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133802817",
+    "imdb": "tt36293840",
+    "tmdb": 1396122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-06"
+}

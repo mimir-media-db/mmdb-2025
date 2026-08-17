@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twinless_2025",
+  "title": "Twinless",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129978691",
+    "imdb": "tt31322753",
+    "tmdb": 1245347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-23",
+  "runtime_minutes": 100
+}

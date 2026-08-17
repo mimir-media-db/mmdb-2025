@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_men_for_vilma_2025",
+  "title": "Three Men For Vilma",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119494611",
+    "imdb": "tt32766835",
+    "tmdb": 1340922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-02"
+}

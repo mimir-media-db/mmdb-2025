@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_times_joao_liberada_2025",
+  "title": "Two Times João Liberada",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131990857",
+    "imdb": "tt35504279",
+    "tmdb": 1421136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 70
+}

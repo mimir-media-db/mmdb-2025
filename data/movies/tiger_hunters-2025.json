@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_hunters_2025",
+  "title": "Tiger Hunters",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573993",
+    "imdb": "tt39315191"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-17",
+  "runtime_minutes": 132
+}

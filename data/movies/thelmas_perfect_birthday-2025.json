@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thelmas_perfect_birthday_2025",
+  "title": "Thelma's Perfect Birthday",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137194898",
+    "imdb": "tt36640031",
+    "tmdb": 1330385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

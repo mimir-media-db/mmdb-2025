@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thudarum_2025",
+  "title": "Thudarum",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131315558",
+    "imdb": "tt31969600",
+    "tmdb": 1261125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25"
+}

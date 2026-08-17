@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_two_seasons_two_strangers_2025",
+  "title": "Two Seasons, Two Strangers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135266274",
+    "imdb": "tt37538491",
+    "tmdb": 1462735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-07"
+}

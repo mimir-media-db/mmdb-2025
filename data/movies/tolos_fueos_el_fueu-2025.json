@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tolos_fueos_el_fueu_2025",
+  "title": "Tolos fueos el fueu",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137167895",
+    "imdb": "tt39008902"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

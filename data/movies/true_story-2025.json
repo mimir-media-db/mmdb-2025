@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_true_story_2025",
+  "title": "A True Story",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137753219",
+    "imdb": "tt33336444",
+    "tmdb": 1427610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-22",
+  "runtime_minutes": 80
+}

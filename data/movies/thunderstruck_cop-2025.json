@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thunderstruck_cop_2025",
+  "title": "Thunderstruck Cop",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136929156",
+    "imdb": "tt35501210",
+    "tmdb": 952009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24"
+}

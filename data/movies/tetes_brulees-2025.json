@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tetes_brulees_2025",
+  "title": "Têtes Brûlées",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131539440",
+    "imdb": "tt35051039",
+    "tmdb": 1404171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-17"
+}

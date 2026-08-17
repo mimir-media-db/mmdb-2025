@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tagar_2025",
+  "title": "Tagar",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134429418",
+    "imdb": "tt35280261",
+    "tmdb": 1624838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-07"
+}

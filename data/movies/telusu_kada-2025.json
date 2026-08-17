@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_telusu_kada_2025",
+  "title": "Telusu Kada",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128474263",
+    "imdb": "tt27881494",
+    "tmdb": 1229947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-17"
+}
