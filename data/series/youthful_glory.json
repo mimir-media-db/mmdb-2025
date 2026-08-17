@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_youthful_glory",
+  "title": "Youthful Glory",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134892123",
+    "imdb": "tt32221618",
+    "tmdb": 262741
+  },
+  "last_updated": "2026-08-17"
+}

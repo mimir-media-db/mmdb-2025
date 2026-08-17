@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yarns",
+  "title": "The Yarns",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q139959578"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}
