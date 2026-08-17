@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eternity_2025",
+  "title": "Eternity",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126203157",
+    "imdb": "tt24950660",
+    "tmdb": 1259102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-07",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_tercer_espacio_2025",
+  "title": "El tercer espacio",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136368800",
+    "imdb": "tt38349498",
+    "tmdb": 1550969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

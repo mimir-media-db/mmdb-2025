@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_empire_2025",
+  "title": "The Empire",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111209750",
+    "imdb": "tt17375596",
+    "tmdb": 929831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-20",
+  "runtime_minutes": 111
+}

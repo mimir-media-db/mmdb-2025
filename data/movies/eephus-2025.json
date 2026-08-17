@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eephus_2025",
+  "title": "Eephus",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128635597",
+    "imdb": "tt28332337",
+    "tmdb": 1226777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-07",
+  "runtime_minutes": 98
+}

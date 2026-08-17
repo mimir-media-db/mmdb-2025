@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elephants_squirrels_2025",
+  "title": "Elephants & Squirrels",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138427278",
+    "imdb": "tt38648558",
+    "tmdb": 1559589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-01"
+}

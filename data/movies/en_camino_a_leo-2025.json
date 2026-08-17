@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_en_camino_a_leo_2025",
+  "title": "En camino a Leo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140352726",
+    "imdb": "tt37645598",
+    "tmdb": 1341656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

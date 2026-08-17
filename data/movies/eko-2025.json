@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eko_2025",
+  "title": "Eko",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136547119",
+    "imdb": "tt36616410",
+    "tmdb": 1070186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-21"
+}

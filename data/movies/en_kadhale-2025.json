@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_en_kadhale_2025",
+  "title": "En Kadhale",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134469069",
+    "imdb": "tt36733217"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-09"
+}

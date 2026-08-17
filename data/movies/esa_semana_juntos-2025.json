@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_esa_semana_juntos_2025",
+  "title": "Esa Semana Juntos",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135953287",
+    "imdb": "tt32442832",
+    "tmdb": 1297188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

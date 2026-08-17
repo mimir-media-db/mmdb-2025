@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_egghead_republic_2025",
+  "title": "Egghead Republic",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135458102",
+    "imdb": "tt26749593",
+    "tmdb": 1258112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-01"
+}

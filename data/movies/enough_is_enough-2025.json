@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enough_is_enough_2025",
+  "title": "Enough Is Enough",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137860498",
+    "imdb": "tt39215141",
+    "tmdb": 1599788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 65
+}

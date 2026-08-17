@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elshater_2025",
+  "title": "Elshater",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135553192",
+    "imdb": "tt37532633",
+    "tmdb": 1324136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-16"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_even_2025",
+  "title": "Even",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136297550",
+    "imdb": "tt21083532",
+    "tmdb": 1573263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

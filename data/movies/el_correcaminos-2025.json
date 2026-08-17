@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_correcaminos_2025",
+  "title": "El Correcaminos",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136538405",
+    "imdb": "tt32544293",
+    "tmdb": 1574935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

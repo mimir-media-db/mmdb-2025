@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eleanor_the_great_2025",
+  "title": "Eleanor the Great",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125627182",
+    "imdb": "tt30268321",
+    "tmdb": 1212271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-04",
+  "runtime_minutes": 98
+}

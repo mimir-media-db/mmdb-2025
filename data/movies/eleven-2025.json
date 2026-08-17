@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eleven_2025",
+  "title": "Eleven",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130553766",
+    "imdb": "tt28679253",
+    "tmdb": 1309643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-16",
+  "runtime_minutes": 135
+}

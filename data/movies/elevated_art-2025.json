@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elevated_art_2025",
+  "title": "Elevated Art",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134690989",
+    "imdb": "tt35671633"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-24",
+  "runtime_minutes": 72
+}
