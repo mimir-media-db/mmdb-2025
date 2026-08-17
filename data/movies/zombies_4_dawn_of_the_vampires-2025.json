@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zombies_4_dawn_of_the_vampires_2025",
+  "title": "Zombies 4: Dawn of the Vampires",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125201436",
+    "imdb": "tt31241595",
+    "tmdb": 1243341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-10"
+}

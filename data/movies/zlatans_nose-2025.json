@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zlatans_nose_2025",
+  "title": "Zlatan's Nose",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134099911",
+    "imdb": "tt35939778",
+    "tmdb": 1400110
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25",
+  "runtime_minutes": 83
+}
