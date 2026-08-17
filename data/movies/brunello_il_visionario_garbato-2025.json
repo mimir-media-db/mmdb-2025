@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brunello_il_visionario_garbato_2025",
+  "title": "Brunello - Il visionario garbato",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137357121",
+    "imdb": "tt37107071",
+    "tmdb": 1498729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 121
+}

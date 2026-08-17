@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_believe_in_santa_2_2025",
+  "title": "Believe in Santa 2",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136734562",
+    "imdb": "tt38705053",
+    "tmdb": 1544906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 98
+}

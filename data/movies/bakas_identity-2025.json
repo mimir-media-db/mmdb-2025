@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bakas_identity_2025",
+  "title": "BAKA's Identity",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135261038",
+    "imdb": "tt36593484",
+    "tmdb": 1466302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-24",
+  "runtime_minutes": 130
+}

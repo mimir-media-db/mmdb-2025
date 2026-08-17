@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_brahma_anandam_2025",
+  "title": "Brahma Anandam",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131940447",
+    "imdb": "tt32324361",
+    "tmdb": 1418578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-14"
+}

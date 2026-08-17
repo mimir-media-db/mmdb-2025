@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baby_invasion_2025",
+  "title": "Baby Invasion",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127716059",
+    "imdb": "tt33029871",
+    "tmdb": 1262740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bone_lake_2025",
+  "title": "Bone Lake",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135443289",
+    "imdb": "tt26783625",
+    "tmdb": 1330421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-24"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bloodstained_ivory_2025",
+  "title": "Bloodstained Ivory",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138803732",
+    "imdb": "tt27172706",
+    "tmdb": 1221946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-14"
+}

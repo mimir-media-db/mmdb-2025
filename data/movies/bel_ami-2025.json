@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bel_ami_2025",
+  "title": "Bel Ami",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136599519",
+    "imdb": "tt33616511",
+    "tmdb": 1234779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-26"
+}

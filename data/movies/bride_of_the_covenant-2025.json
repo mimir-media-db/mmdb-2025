@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bride_of_the_covenant_2025",
+  "title": "Bride of the Covenant",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135983795",
+    "imdb": "tt37263721",
+    "tmdb": 1527179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-12"
+}

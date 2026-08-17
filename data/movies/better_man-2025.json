@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_better_man_2025",
+  "title": "Better Man",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106261265",
+    "imdb": "tt14260836",
+    "tmdb": 799766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 135
+}

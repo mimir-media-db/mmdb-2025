@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_sin_2025",
+  "title": "Beyond the Sin",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123330666",
+    "imdb": "tt34603981",
+    "tmdb": 1099219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-11"
+}

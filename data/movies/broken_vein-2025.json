@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_vein_2025",
+  "title": "Broken Vein",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137299244",
+    "imdb": "tt32919616",
+    "tmdb": 1324836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-27",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_business_proposal_2025",
+  "title": "A Business Proposal﻿",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135293773",
+    "imdb": "tt35295730",
+    "tmdb": 1406956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-06"
+}

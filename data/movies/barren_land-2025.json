@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barren_land_2025",
+  "title": "Barren Land",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131543065",
+    "imdb": "tt32190199",
+    "tmdb": 1305273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-28"
+}

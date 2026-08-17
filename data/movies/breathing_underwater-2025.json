@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_breathing_underwater_2025",
+  "title": "Breathing Underwater",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135002047",
+    "tmdb": 1474272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-25",
+  "runtime_minutes": 74
+}

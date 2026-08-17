@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bridgeplayers_2025",
+  "title": "The Bridgeplayers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139806717",
+    "imdb": "tt35591067",
+    "tmdb": 1413903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-29"
+}

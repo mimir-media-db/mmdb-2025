@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_of_oslo_2025",
+  "title": "The Battle of Oslo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131140104",
+    "imdb": "tt32080656",
+    "tmdb": 1272586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-26"
+}

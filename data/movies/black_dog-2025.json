@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_dog_2025",
+  "title": "Black Dog",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126074918",
+    "imdb": "tt28131427",
+    "tmdb": 1249423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-06",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bikini_nuns_2025",
+  "title": "Bikini Nuns",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137517365",
+    "imdb": "tt33056211",
+    "tmdb": 1330610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 97
+}

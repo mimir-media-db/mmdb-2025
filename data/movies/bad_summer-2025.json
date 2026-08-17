@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_summer_2025",
+  "title": "A Bad Summer",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134284625",
+    "imdb": "tt35419785",
+    "tmdb": 1378734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-20",
+  "runtime_minutes": 114
+}

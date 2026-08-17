@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_bruises_of_yesterday_2025",
+  "title": "B.O.Y - Bruises Of Yesterday",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121268664",
+    "imdb": "tt26595192",
+    "tmdb": 1082942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-16",
+  "runtime_minutes": 87
+}

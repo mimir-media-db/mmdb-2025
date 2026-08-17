@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bonnard_pierre_and_marthe_2025",
+  "title": "Bonnard, Pierre and Marthe",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117751447",
+    "imdb": "tt23004264",
+    "tmdb": 995749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_rage_2025",
+  "title": "Broken Rage",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130138166",
+    "imdb": "tt33029866",
+    "tmdb": 1121914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-14",
+  "runtime_minutes": 62
+}

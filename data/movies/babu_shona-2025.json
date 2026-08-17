@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_babu_shona_2025",
+  "title": "Babu Shona",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132735079",
+    "imdb": "tt30490361",
+    "tmdb": 1116027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-14"
+}

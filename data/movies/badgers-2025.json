@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_badgers_2025",
+  "title": "The Badgers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133501728",
+    "imdb": "tt32600165",
+    "tmdb": 1435459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-19",
+  "runtime_minutes": 104
+}

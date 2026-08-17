@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_voices_2025",
+  "title": "Broken Voices",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130740282",
+    "imdb": "tt28149522",
+    "tmdb": 1483477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-06",
+  "runtime_minutes": 106
+}

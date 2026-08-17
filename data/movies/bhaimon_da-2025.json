@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhaimon_da_2025",
+  "title": "Bhaimon Da",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134620440",
+    "imdb": "tt33817456",
+    "tmdb": 1490994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-23"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bou_buttu_bhuta_2025",
+  "title": "Bou Buttu Bhuta",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134966565",
+    "imdb": "tt35419807",
+    "tmdb": 1448430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-12"
+}

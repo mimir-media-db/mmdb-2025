@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_better_days_2025",
+  "title": "Better Days",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133869051",
+    "imdb": "tt29887422",
+    "tmdb": 1178518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24"
+}

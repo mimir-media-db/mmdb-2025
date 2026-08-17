@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_burnt_earth_2025",
+  "title": "Burnt Earth",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136340336",
+    "imdb": "tt28660048",
+    "tmdb": 1167765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-26"
+}

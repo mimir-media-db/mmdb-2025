@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ballad_of_suzanne_cesaire_2025",
+  "title": "The Ballad of Suzanne Césaire",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139738183",
+    "imdb": "tt29893103",
+    "tmdb": 1219510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-06",
+  "runtime_minutes": 75
+}

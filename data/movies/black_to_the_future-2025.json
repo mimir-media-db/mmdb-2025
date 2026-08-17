@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_to_the_future_2025",
+  "title": "Black to the Future",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132131672",
+    "imdb": "tt32096648",
+    "tmdb": 1255783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-25",
+  "runtime_minutes": 83
+}

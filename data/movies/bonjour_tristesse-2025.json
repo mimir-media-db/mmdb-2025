@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bonjour_tristesse_2025",
+  "title": "Bonjour Tristesse",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118434235",
+    "imdb": "tt27774999",
+    "tmdb": 1127648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-05"
+}

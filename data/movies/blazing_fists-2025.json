@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blazing_fists_2025",
+  "title": "Blazing Fists",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137008751",
+    "imdb": "tt33996512",
+    "tmdb": 1363103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31",
+  "runtime_minutes": 119
+}

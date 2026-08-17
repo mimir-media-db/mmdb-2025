@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_body_blow_2025",
+  "title": "Body Blow",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140044612",
+    "imdb": "tt29477119",
+    "tmdb": 1468013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 99
+}

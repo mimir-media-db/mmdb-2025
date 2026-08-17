@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_be_loved_2025",
+  "title": "Be Loved",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136675059",
+    "imdb": "tt36412803",
+    "tmdb": 1382024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-30",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_batya_2_ded_2025",
+  "title": "Batya 2: Ded",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134875736",
+    "imdb": "tt30420630",
+    "tmdb": 1327683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 88
+}

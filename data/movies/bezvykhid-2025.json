@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bezvykhid_2025",
+  "title": "Bezvykhid",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573996",
+    "imdb": "tt39052792"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-20",
+  "runtime_minutes": 128
+}

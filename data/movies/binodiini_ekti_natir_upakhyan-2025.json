@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_binodiini_ekti_natir_upakhyan_2025",
+  "title": "Binodiini - Ekti Natir Upakhyan",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131719343",
+    "imdb": "tt21981402",
+    "tmdb": 1001949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-23",
+  "runtime_minutes": 151
+}

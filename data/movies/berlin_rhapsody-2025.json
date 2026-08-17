@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_berlin_rhapsody_2025",
+  "title": "Berlin Rhapsody",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134083640",
+    "imdb": "tt32582000"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-22",
+  "runtime_minutes": 80
+}

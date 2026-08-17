@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breaking_walls_2025",
+  "title": "Breaking Walls",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126942775",
+    "imdb": "tt22185974",
+    "tmdb": 1187315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21",
+  "runtime_minutes": 88
+}

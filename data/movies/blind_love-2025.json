@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_love_2025",
+  "title": "Blind Love",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131745388",
+    "imdb": "tt35332631",
+    "tmdb": 1127656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-06",
+  "runtime_minutes": 145
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ballad_of_wallis_island_2025",
+  "title": "The Ballad of Wallis Island",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125274110",
+    "imdb": "tt27674982",
+    "tmdb": 1122099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-25",
+  "runtime_minutes": 99
+}

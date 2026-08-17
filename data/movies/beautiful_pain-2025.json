@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_pain_2025",
+  "title": "Beautiful Pain",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27956727",
+    "imdb": "tt5103970",
+    "tmdb": 392848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 90
+}

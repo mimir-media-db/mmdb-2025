@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_in_the_pool_2025",
+  "title": "Boy in the Pool",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134315768",
+    "imdb": "tt36687358",
+    "tmdb": 1065967
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-14",
+  "runtime_minutes": 89
+}
