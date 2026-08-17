@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apuntes_para_una_ficcion_consentida_2025",
+  "title": "Apuntes para una ficción consentida",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136676772",
+    "imdb": "tt32014166",
+    "tmdb": 1342463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 79
+}

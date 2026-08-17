@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ash_2025",
+  "title": "Ash",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123862686",
+    "imdb": "tt17489650",
+    "tmdb": 931349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-11",
+  "runtime_minutes": 95
+}

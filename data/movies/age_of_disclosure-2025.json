@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_age_of_disclosure_2025",
+  "title": "The Age of Disclosure",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132733657",
+    "imdb": "tt35520315",
+    "tmdb": 1422166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-22",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_architecton_2025",
+  "title": "Architecton",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124339152",
+    "imdb": "tt18346498",
+    "tmdb": 1234597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_atonement_2025",
+  "title": "Atonement",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123330387",
+    "imdb": "tt9314852",
+    "tmdb": 741596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-01"
+}

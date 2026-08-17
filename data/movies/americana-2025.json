@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_americana_2025",
+  "title": "Americana",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117049250",
+    "imdb": "tt17676734",
+    "tmdb": 934456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-15",
+  "runtime_minutes": 110
+}

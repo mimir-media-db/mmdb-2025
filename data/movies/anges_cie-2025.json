@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anges_cie_2025",
+  "title": "Anges & Cie",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132888747",
+    "imdb": "tt35819793",
+    "tmdb": 1261616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-07",
+  "runtime_minutes": 91
+}

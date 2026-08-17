@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amateur_2025",
+  "title": "The Amateur",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119206814",
+    "imdb": "tt0899043",
+    "tmdb": 1087891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-09",
+  "runtime_minutes": 123
+}

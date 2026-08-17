@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_az_mano_divaanegihaayam_2025",
+  "title": "Az Mano DivaanegiHaayam",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140089672",
+    "imdb": "tt38178999",
+    "tmdb": 1709956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-29"
+}

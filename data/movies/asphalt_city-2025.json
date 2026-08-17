@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asphalt_city_2025",
+  "title": "Asphalt City",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112057421",
+    "imdb": "tt9663896",
+    "tmdb": 628922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-27",
+  "runtime_minutes": 125
+}

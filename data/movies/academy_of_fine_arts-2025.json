@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_academy_of_fine_arts_2025",
+  "title": "The Academy of Fine Arts",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135399423",
+    "imdb": "tt36652180",
+    "tmdb": 1372124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-29"
+}

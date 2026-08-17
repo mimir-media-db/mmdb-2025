@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alma_and_the_wolf_2025",
+  "title": "Alma and the Wolf",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125029935",
+    "imdb": "tt31849867",
+    "tmdb": 1328956
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-22"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_always_winter_2025",
+  "title": "Always Winter",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134644416",
+    "imdb": "tt33487489",
+    "tmdb": 1551194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

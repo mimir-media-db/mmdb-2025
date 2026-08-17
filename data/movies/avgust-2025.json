@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_avgust_2025",
+  "title": "Avgust",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135685436",
+    "imdb": "tt30478390",
+    "tmdb": 586387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-25"
+}

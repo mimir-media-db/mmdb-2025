@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alzarfa_escape_from_hanhounia_hell_2025",
+  "title": "Alzarfa: Escape from Hanhounia Hell",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135428272",
+    "imdb": "tt32429470",
+    "tmdb": 1295475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-03",
+  "runtime_minutes": 110
+}

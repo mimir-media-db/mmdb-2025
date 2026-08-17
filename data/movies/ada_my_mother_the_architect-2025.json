@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ada_my_mother_the_architect_2025",
+  "title": "ADA: My Mother the Architect",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136437273",
+    "imdb": "tt26915722",
+    "tmdb": 1319115
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-09",
+  "runtime_minutes": 81
+}

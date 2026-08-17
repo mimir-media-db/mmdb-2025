@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assessment_2025",
+  "title": "The Assessment",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126086644",
+    "imdb": "tt32768323",
+    "tmdb": 1317088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21",
+  "runtime_minutes": 114
+}

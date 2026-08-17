@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alabama_solution_2025",
+  "title": "The Alabama Solution",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131978291",
+    "imdb": "tt35307139",
+    "tmdb": 1413805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-28"
+}

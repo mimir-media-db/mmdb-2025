@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_the_party_goes_on_2025",
+  "title": "And the Party Goes On !",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117025081",
+    "imdb": "tt28182919",
+    "tmdb": 960042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-12",
+  "runtime_minutes": 106
+}

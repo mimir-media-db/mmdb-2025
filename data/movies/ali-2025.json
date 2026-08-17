@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ali_2025",
+  "title": "Ali",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135690012",
+    "imdb": "tt37891440",
+    "tmdb": 1648867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-18"
+}

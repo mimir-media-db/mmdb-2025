@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_afterburn_2025",
+  "title": "Afterburn",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124814444",
+    "imdb": "tt1210027",
+    "tmdb": 507244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-11"
+}

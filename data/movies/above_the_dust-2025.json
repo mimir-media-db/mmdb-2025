@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_above_the_dust_2025",
+  "title": "Above the Dust",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131336610",
+    "imdb": "tt17347524",
+    "tmdb": 945170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-24",
+  "runtime_minutes": 123
+}

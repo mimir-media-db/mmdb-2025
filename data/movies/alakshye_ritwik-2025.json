@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alakshye_ritwik_2025",
+  "title": "Alakshye Ritwik",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134619482",
+    "imdb": "tt31822168",
+    "tmdb": 1144417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-14"
+}

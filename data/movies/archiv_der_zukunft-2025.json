@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_archiv_der_zukunft_2025",
+  "title": "Archiv der Zukunft",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134028254",
+    "imdb": "tt27134292",
+    "tmdb": 1103267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-22",
+  "runtime_minutes": 92
+}

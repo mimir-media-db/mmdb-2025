@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_and_the_rest_will_follow_2025",
+  "title": "And the Rest Will Follow",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132086872",
+    "imdb": "tt31972741",
+    "tmdb": 885621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-01",
+  "runtime_minutes": 114
+}

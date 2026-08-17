@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alice_in_wonderland_2025",
+  "title": "Alice in Wonderland",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136523547",
+    "imdb": "tt33349068",
+    "tmdb": 1417539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-23",
+  "runtime_minutes": 108
+}

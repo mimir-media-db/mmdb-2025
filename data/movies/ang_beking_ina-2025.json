@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ang_beking_ina_2025",
+  "title": "Ang Beking Ina!",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135710989",
+    "imdb": "tt37847989"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-20"
+}

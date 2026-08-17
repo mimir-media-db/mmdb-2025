@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attention_children_2025",
+  "title": "Attention: Children",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574106",
+    "imdb": "tt36601637",
+    "tmdb": 1467790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-29",
+  "runtime_minutes": 75
+}

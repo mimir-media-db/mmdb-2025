@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anjila_2025",
+  "title": "Anjila",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136333369",
+    "imdb": "tt36503424",
+    "tmdb": 1384565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-13"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anaganaga_australia_lo_2025",
+  "title": "Anaganaga Australia Lo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133809686",
+    "imdb": "tt36203068",
+    "tmdb": 1457310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21"
+}

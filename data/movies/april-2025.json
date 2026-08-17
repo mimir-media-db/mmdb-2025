@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_april_2025",
+  "title": "April",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126209011",
+    "imdb": "tt31350080",
+    "tmdb": 1064021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-29",
+  "runtime_minutes": 134
+}

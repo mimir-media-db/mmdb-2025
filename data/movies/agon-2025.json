@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agon_2025",
+  "title": "Agon",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139564888",
+    "imdb": "tt35890662",
+    "tmdb": 1494235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 100
+}
