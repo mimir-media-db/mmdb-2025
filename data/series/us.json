@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_us",
+  "title": "Us",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q133454245",
+    "imdb": "tt32201754",
+    "tmdb": 252621
+  },
+  "last_updated": "2026-08-17"
+}
