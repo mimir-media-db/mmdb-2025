@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uniform_2025",
+  "title": "The Uniform",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354225",
+    "imdb": "tt33708235",
+    "tmdb": 1335881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-28"
+}

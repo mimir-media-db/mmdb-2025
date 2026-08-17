@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ungeduld_des_herzens_2025",
+  "title": "Ungeduld des Herzens",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131909811",
+    "imdb": "tt22055080",
+    "tmdb": 1412182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

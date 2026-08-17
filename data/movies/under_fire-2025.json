@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_fire_2025",
+  "title": "Under Fire",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135336613",
+    "imdb": "tt32212611",
+    "tmdb": 1511556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-15"
+}

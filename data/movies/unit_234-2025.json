@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unit_234_2025",
+  "title": "Unit 234",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112108763",
+    "imdb": "tt6906106",
+    "tmdb": 966822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-09"
+}

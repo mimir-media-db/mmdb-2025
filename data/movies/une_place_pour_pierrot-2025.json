@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_une_place_pour_pierrot_2025",
+  "title": "Une place pour Pierrot",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136036595",
+    "imdb": "tt33725922",
+    "tmdb": 1151269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-28"
+}

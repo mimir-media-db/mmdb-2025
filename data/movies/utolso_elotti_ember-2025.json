@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_utolso_elotti_ember_2025",
+  "title": "Utolsó elötti ember",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q785714",
+    "imdb": "tt0057633",
+    "tmdb": 462275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-03"
+}

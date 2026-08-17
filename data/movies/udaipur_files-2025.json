@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_udaipur_files_2025",
+  "title": "Udaipur Files",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135193179",
+    "imdb": "tt28630806",
+    "tmdb": 1510235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-08"
+}

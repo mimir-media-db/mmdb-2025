@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_stjernerne_pa_himlen_2025",
+  "title": "Under stjernerne på himlen",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124155007",
+    "imdb": "tt30023796",
+    "tmdb": 1385512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-20",
+  "runtime_minutes": 106
+}

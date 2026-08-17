@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_uraal_2025",
+  "title": "Uraal",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135508871",
+    "imdb": "tt37813425"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-01"
+}

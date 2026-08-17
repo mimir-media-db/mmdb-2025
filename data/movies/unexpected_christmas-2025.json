@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unexpected_christmas_2025",
+  "title": "Unexpected Christmas",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136410905",
+    "imdb": "tt34911155",
+    "tmdb": 1530523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-07",
+  "runtime_minutes": 104
+}

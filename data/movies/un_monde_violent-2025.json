@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_monde_violent_2025",
+  "title": "Un monde violent",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131829744",
+    "imdb": "tt34866772",
+    "tmdb": 1070018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-29"
+}
