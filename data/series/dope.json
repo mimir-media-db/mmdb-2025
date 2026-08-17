@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dope",
+  "title": "DOPE",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135270016",
+    "imdb": "tt37529553",
+    "tmdb": 290209
+  },
+  "last_updated": "2026-08-17"
+}

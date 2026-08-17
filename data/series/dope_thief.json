@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dope_thief",
+  "title": "Dope Thief",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116783932",
+    "imdb": "tt21638826",
+    "tmdb": 209876
+  },
+  "last_updated": "2026-08-17"
+}

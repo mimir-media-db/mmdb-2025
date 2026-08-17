@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_down_cemetery_road",
+  "title": "Down Cemetery Road",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126688522",
+    "imdb": "tt32132630",
+    "tmdb": 252000
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

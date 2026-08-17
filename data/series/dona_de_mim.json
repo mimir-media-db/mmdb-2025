@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dona_de_mim",
+  "title": "Dona de Mim",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q131607213",
+    "imdb": "tt36759024",
+    "tmdb": 283245
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 218
+}

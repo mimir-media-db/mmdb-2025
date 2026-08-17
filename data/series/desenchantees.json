@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_desenchantees",
+  "title": "Désenchantées",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132144228",
+    "imdb": "tt35889176",
+    "tmdb": 285049
+  },
+  "last_updated": "2026-08-17"
+}

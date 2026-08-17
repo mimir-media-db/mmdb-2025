@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_seusss_red_fish_blue_fish",
+  "title": "Dr. Seuss's Red Fish, Blue Fish",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136506703",
+    "imdb": "tt18940264",
+    "tmdb": 293703
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

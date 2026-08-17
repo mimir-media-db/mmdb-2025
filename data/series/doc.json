@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_doc",
+  "title": "Doc",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q129676773",
+    "imdb": "tt26748321",
+    "tmdb": 255055
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

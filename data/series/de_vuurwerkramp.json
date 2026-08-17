@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_de_vuurwerkramp",
+  "title": "De Vuurwerkramp",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134054773",
+    "imdb": "tt36775617",
+    "tmdb": 243457
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

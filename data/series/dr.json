@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_dr",
+  "title": "Dr.アシュラ",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133980633",
+    "tmdb": 287409
+  },
+  "last_updated": "2026-08-17"
+}

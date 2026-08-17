@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dear_hongrang",
+  "title": "Dear Hongrang",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122730767",
+    "imdb": "tt27554348",
+    "tmdb": 224819
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_der_hooligan",
+  "title": "Der Hooligan",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134389405",
+    "imdb": "tt35256070",
+    "tmdb": 280872
+  },
+  "last_updated": "2026-08-17"
+}

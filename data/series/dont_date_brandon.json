@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dont_date_brandon",
+  "title": "Don't Date Brandon",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136677877",
+    "imdb": "tt37972240",
+    "tmdb": 298846
+  },
+  "last_updated": "2026-08-17"
+}
