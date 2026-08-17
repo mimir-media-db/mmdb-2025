@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hundred_memories",
+  "title": "A Hundred Memories",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131716998",
+    "imdb": "tt33475769",
+    "tmdb": 271889
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

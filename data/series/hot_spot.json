@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hot_spot",
+  "title": "The Hot Spot",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131701465",
+    "imdb": "tt35377276",
+    "tmdb": 276903
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

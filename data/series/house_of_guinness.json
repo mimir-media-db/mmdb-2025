@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_guinness",
+  "title": "House of Guinness",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127416794",
+    "imdb": "tt13542714",
+    "tmdb": 250988
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

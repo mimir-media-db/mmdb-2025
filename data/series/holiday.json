@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_holiday",
+  "title": "Holiday",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q134718972",
+    "imdb": "tt36997468",
+    "tmdb": 278994
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

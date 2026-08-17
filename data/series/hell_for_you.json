@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hell_for_you",
+  "title": "Hell for You",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131416831",
+    "imdb": "tt35324821",
+    "tmdb": 278421
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

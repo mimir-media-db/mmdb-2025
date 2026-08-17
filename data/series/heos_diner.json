@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heos_diner",
+  "title": "Heo's Diner",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133265942",
+    "imdb": "tt36302714",
+    "tmdb": 285872
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}
