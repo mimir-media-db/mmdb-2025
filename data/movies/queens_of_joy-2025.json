@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queens_of_joy_2025",
+  "title": "Queens of Joy",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133464432",
+    "imdb": "tt32840257",
+    "tmdb": 1446171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 90
+}

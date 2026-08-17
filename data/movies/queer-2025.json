@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queer_2025",
+  "title": "Queer",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116771681",
+    "imdb": "tt24176060",
+    "tmdb": 1059128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-13",
+  "runtime_minutes": 135
+}

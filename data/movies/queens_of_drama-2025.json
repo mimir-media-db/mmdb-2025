@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queens_of_drama_2025",
+  "title": "Queens of Drama",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125831483",
+    "imdb": "tt28349668",
+    "tmdb": 1001376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-19",
+  "runtime_minutes": 115
+}

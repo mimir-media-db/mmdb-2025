@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quando_se_e_jovem_2025",
+  "title": "Quando Se É Jovem",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137695961",
+    "imdb": "tt40205851",
+    "tmdb": 1639008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-31",
+  "runtime_minutes": 81
+}

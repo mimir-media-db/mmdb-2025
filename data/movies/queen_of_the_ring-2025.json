@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_the_ring_2025",
+  "title": "Queen of the Ring",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125523347",
+    "imdb": "tt28070202",
+    "tmdb": 1144932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-07",
+  "runtime_minutes": 130
+}
