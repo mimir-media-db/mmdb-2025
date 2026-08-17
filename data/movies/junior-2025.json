@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_junior_2025",
+  "title": "Junior",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138894434"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

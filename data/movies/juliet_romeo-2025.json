@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_juliet_romeo_2025",
+  "title": "Juliet & Romeo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132146913",
+    "imdb": "tt26597666",
+    "tmdb": 1103857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-09",
+  "runtime_minutes": 122
+}

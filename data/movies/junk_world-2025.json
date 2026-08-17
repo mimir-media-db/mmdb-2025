@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_junk_world_2025",
+  "title": "Junk World",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137863763",
+    "imdb": "tt37679220",
+    "tmdb": 1170215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 104
+}

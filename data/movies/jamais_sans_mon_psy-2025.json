@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jamais_sans_mon_psy_2025",
+  "title": "Jamais sans mon psy",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125085856",
+    "imdb": "tt27821575",
+    "tmdb": 1130402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-09",
+  "runtime_minutes": 91
+}

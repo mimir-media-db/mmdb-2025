@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jolly_llb_3_2025",
+  "title": "Jolly LLB 3",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126013443",
+    "imdb": "tt27996020",
+    "tmdb": 1015981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-19",
+  "runtime_minutes": 157
+}

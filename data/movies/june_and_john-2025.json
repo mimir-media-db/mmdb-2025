@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_june_and_john_2025",
+  "title": "June and John",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133815865",
+    "imdb": "tt20218618",
+    "tmdb": 1216571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jagala_2025",
+  "title": "Jagala",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136190575",
+    "imdb": "tt26755355",
+    "tmdb": 1610569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-18"
+}
