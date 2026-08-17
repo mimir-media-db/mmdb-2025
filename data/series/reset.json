@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_reset",
+  "title": "Reset",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136788700",
+    "imdb": "tt35324277",
+    "tmdb": 279345
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

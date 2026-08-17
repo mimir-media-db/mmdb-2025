@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_real_man",
+  "title": "Real Man",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134026490",
+    "imdb": "tt32485985",
+    "tmdb": 255650
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

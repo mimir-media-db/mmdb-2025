@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_residence",
+  "title": "The Residence",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q117254317",
+    "imdb": "tt8740614",
+    "tmdb": 242054
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_ratolesti",
+  "title": "Ratolesti",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q130739673",
+    "imdb": "tt38492785"
+  },
+  "last_updated": "2026-08-17"
+}

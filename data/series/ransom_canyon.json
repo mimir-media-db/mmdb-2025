@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ransom_canyon",
+  "title": "Ransom Canyon",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132296748",
+    "imdb": "tt28088031",
+    "tmdb": 240993
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_regalo_de_amor",
+  "title": "Regalo de amor",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q133792888",
+    "imdb": "tt34434483",
+    "tmdb": 292652
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 100
+}

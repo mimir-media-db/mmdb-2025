@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_royals",
+  "title": "The Royals",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132119958",
+    "imdb": "tt33098081",
+    "tmdb": 261545
+  },
+  "last_updated": "2026-08-17"
+}

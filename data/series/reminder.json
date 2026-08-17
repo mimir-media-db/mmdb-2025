@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_reminder",
+  "title": "Reminder",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q134608350",
+    "imdb": "tt34995624",
+    "tmdb": 292516
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
