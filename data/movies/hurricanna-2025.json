@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hurricanna_2025",
+  "title": "Hurricanna",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139881325",
+    "imdb": "tt18068772",
+    "tmdb": 1091227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-11"
+}

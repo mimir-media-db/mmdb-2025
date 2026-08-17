@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_him_2025",
+  "title": "Him",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130410549",
+    "imdb": "tt20990442",
+    "tmdb": 986097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-19",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_henry_johnson_2025",
+  "title": "Henry Johnson",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133939157",
+    "imdb": "tt36266270",
+    "tmdb": 1418220
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-09",
+  "runtime_minutes": 85
+}

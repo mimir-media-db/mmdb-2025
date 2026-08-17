@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hallo_betty_2025",
+  "title": "Hallo Betty",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136375064",
+    "imdb": "tt35453057",
+    "tmdb": 1547363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 110
+}

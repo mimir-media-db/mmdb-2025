@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_highest_2_lowest_2025",
+  "title": "Highest 2 Lowest",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124512337",
+    "imdb": "tt31194612",
+    "tmdb": 1242434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-19",
+  "runtime_minutes": 133
+}

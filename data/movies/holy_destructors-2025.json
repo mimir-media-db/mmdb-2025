@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_destructors_2025",
+  "title": "Holy Destructors",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140455558",
+    "imdb": "tt38743569",
+    "tmdb": 1563711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 85
+}

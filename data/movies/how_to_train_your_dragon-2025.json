@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_train_your_dragon_2025",
+  "title": "How to Train Your Dragon",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118904382",
+    "imdb": "tt26743210",
+    "tmdb": 1087192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-11",
+  "runtime_minutes": 125
+}

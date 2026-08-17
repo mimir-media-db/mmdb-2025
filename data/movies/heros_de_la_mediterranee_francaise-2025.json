@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_heros_de_la_mediterranee_francaise_2025",
+  "title": "Héros de la Méditerranée française",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139862715"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-15"
+}

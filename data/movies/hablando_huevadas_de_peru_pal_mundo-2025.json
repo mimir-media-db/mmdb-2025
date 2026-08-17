@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hablando_huevadas_de_peru_pal_mundo_2025",
+  "title": "Hablando Huevadas: de Perú pa’l mundo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137609593",
+    "imdb": "tt38598013",
+    "tmdb": 1544768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 89
+}

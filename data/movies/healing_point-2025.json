@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_healing_point_2025",
+  "title": "Healing Point",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574094",
+    "imdb": "tt39393505",
+    "tmdb": 1659519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-20",
+  "runtime_minutes": 72
+}

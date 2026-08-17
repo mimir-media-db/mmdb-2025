@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hans_zimmer_friends_diamond_in_the_desert_2025",
+  "title": "Hans Zimmer & Friends: Diamond in the Desert",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133040484",
+    "imdb": "tt35616060",
+    "tmdb": 1425725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-19",
+  "runtime_minutes": 158
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_howl_2025",
+  "title": "Howl",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131956046",
+    "imdb": "tt35431239",
+    "tmdb": 1418572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 16
+}

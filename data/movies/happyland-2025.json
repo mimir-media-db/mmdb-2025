@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happyland_2025",
+  "title": "Happyland",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132757520",
+    "imdb": "tt27545977",
+    "tmdb": 1373983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-14"
+}

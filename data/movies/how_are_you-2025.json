@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_are_you_2025",
+  "title": "How Are You?",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132146936",
+    "imdb": "tt35405741",
+    "tmdb": 1416911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-15",
+  "runtime_minutes": 31
+}

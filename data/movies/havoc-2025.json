@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_havoc_2025",
+  "title": "Havoc",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107584295",
+    "imdb": "tt14123284",
+    "tmdb": 668489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25",
+  "runtime_minutes": 107
+}

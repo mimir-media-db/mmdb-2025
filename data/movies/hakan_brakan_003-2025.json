@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hakan_brakan_003_2025",
+  "title": "Håkan Bråkan 003",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130324647",
+    "imdb": "tt33477936",
+    "tmdb": 1430019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-19"
+}

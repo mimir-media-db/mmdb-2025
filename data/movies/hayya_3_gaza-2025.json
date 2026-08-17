@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hayya_3_gaza_2025",
+  "title": "Hayya 3: Gaza",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134880851",
+    "imdb": "tt38828051",
+    "tmdb": 1490902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-12",
+  "runtime_minutes": 96
+}

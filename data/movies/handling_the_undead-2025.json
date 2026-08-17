@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_handling_the_undead_2025",
+  "title": "Handling the Undead",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114843198",
+    "imdb": "tt2118648",
+    "tmdb": 1020896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-30",
+  "runtime_minutes": 97
+}

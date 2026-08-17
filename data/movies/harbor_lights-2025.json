@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harbor_lights_2025",
+  "title": "The Harbor Lights",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135925075",
+    "imdb": "tt34498379",
+    "tmdb": 1362574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-17",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hurry_up_tomorrow_2025",
+  "title": "Hurry Up Tomorrow",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122190665",
+    "imdb": "tt26927452",
+    "tmdb": 1093237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-15"
+}

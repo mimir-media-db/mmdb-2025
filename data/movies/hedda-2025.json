@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hedda_2025",
+  "title": "Hedda",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124215661",
+    "imdb": "tt27953589",
+    "tmdb": 997113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-07"
+}

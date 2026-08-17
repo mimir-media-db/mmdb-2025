@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_home_is_the_ocean_2025",
+  "title": "Home Is The Ocean",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135981299",
+    "imdb": "tt33425061",
+    "tmdb": 1357420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-25",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heightened_scrutiny_2025",
+  "title": "Heightened Scrutiny",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131971468",
+    "imdb": "tt34966548",
+    "tmdb": 1400775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

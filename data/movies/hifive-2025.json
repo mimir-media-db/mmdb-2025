@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hifive_2025",
+  "title": "Hi-Five",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110585119",
+    "imdb": "tt14044924",
+    "tmdb": 793058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-30",
+  "runtime_minutes": 119
+}
