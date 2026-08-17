@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3bhk_2025",
+  "title": "3BHK",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134520410",
+    "imdb": "tt32411272",
+    "tmdb": 1293849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-04"
+}
