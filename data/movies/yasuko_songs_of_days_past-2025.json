@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yasuko_songs_of_days_past_2025",
+  "title": "Yasuko, Songs of Days Past",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136436709",
+    "imdb": "tt35302471",
+    "tmdb": 1309057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-21",
+  "runtime_minutes": 128
+}

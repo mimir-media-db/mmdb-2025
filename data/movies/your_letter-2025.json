@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_your_letter_2025",
+  "title": "Your Letter",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136139225",
+    "imdb": "tt38266673",
+    "tmdb": 717787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youre_cordially_invited_2025",
+  "title": "You're Cordially Invited",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120072944",
+    "imdb": "tt21227864",
+    "tmdb": 996821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-30",
+  "runtime_minutes": 109
+}

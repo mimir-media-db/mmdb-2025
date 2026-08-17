@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yanuni_2025",
+  "title": "Yanuni",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133886442",
+    "imdb": "tt36590218",
+    "tmdb": 1465585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-14",
+  "runtime_minutes": 110
+}

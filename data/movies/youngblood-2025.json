@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_youngblood_2025",
+  "title": "Youngblood",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135649601",
+    "imdb": "tt22005882",
+    "tmdb": 1022046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-06"
+}
