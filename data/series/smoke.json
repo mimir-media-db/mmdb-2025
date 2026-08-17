@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_smoke",
+  "title": "Smoke",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125187657",
+    "imdb": "tt24163532",
+    "tmdb": 215995
+  },
+  "last_updated": "2026-08-17"
+}

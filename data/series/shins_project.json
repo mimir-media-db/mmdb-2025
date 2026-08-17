@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shins_project",
+  "title": "Shin's Project",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q135673232",
+    "imdb": "tt37812765",
+    "tmdb": 286198
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_small_town_big_story",
+  "title": "Small Town, Big Story",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131432756",
+    "imdb": "tt29359584",
+    "tmdb": 241274
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

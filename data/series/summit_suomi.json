@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_summit_suomi",
+  "title": "The Summit Suomi",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131766111",
+    "imdb": "tt35518733",
+    "tmdb": 281428
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 28
+}

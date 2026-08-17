@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_scooter_boys",
+  "title": "Scooter Boys",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134307952",
+    "imdb": "tt36855795"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_silk_kingdom",
+  "title": "The Silk Kingdom",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135220226",
+    "tmdb": 261747
+  },
+  "last_updated": "2026-08-17"
+}

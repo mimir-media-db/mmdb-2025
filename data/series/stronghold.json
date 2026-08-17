@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_stronghold",
+  "title": "The Stronghold",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117543228",
+    "imdb": "tt27511038",
+    "tmdb": 290956
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

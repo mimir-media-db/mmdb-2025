@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sicily_express",
+  "title": "Sicily Express",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136431820",
+    "imdb": "tt38566460",
+    "tmdb": 303072
+  },
+  "last_updated": "2026-08-17"
+}

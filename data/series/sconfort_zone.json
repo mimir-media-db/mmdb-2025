@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sconfort_zone",
+  "title": "Sconfort Zone",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133467725",
+    "imdb": "tt36071428",
+    "tmdb": 286690
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

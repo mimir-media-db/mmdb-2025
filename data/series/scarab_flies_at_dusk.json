@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_scarab_flies_at_dusk",
+  "title": "The Scarab Flies at Dusk",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124570470",
+    "imdb": "tt31114203",
+    "tmdb": 295162
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

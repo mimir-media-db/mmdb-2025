@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_surely_tomorrow",
+  "title": "Surely Tomorrow",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q133448548",
+    "imdb": "tt38221085",
+    "tmdb": 281005
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

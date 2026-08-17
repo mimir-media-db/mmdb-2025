@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_spring_of_youth",
+  "title": "Spring of Youth",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131541824",
+    "imdb": "tt36667479",
+    "tmdb": 280016
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

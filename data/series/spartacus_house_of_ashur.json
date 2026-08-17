@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_spartacus_house_of_ashur",
+  "title": "Spartacus: House of Ashur",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135111247",
+    "imdb": "tt29921437",
+    "tmdb": 240459
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

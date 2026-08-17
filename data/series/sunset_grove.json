@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sunset_grove",
+  "title": "Sunset Grove",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133569447",
+    "imdb": "tt36131650",
+    "tmdb": 286286
+  },
+  "last_updated": "2026-08-17"
+}

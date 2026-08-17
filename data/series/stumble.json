@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stumble",
+  "title": "Stumble",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q136748738",
+    "imdb": "tt34878951",
+    "tmdb": 296579
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

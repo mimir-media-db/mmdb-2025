@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_spartans_a_true_story",
+  "title": "Spartans: A True Story",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131986506",
+    "imdb": "tt15664022",
+    "tmdb": 214787
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

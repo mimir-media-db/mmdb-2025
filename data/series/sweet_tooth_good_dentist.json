@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sweet_tooth_good_dentist",
+  "title": "Sweet Tooth, Good Dentist",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q133454203",
+    "imdb": "tt32209764",
+    "tmdb": 252620
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

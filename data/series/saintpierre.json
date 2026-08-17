@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_saintpierre",
+  "title": "Saint-Pierre",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126094369",
+    "imdb": "tt33059905",
+    "tmdb": 255351
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

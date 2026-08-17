@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_shine_on_me",
+  "title": "Shine on Me",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137884995",
+    "imdb": "tt34852924",
+    "tmdb": 278577
+  },
+  "last_updated": "2026-08-17"
+}

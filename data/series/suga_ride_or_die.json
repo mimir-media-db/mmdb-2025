@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_suga_ride_or_die",
+  "title": "Suga: Ride or Die",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136146031",
+    "imdb": "tt32600812",
+    "tmdb": 294063
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}
