@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_guerreiros_do_sol",
+  "title": "Guerreiros do Sol",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q121118428",
+    "imdb": "tt24019192",
+    "tmdb": 215616
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 45
+}

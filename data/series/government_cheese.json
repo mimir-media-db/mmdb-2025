@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_government_cheese",
+  "title": "Government Cheese",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125958025",
+    "imdb": "tt30428883",
+    "tmdb": 241491
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

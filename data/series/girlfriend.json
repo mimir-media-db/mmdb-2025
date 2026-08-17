@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_girlfriend",
+  "title": "The Girlfriend",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127608901",
+    "imdb": "tt32267726",
+    "tmdb": 253376
+  },
+  "last_updated": "2026-08-17"
+}

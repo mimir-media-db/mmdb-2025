@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gringo_hunters",
+  "title": "The Gringo Hunters",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135231839",
+    "imdb": "tt31220187",
+    "tmdb": 246026
+  },
+  "last_updated": "2026-08-17"
+}

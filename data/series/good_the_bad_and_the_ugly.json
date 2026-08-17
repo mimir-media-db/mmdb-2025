@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_the_bad_and_the_ugly",
+  "title": "The Good, the Bad, and the Ugly",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q134719968",
+    "imdb": "tt38267961",
+    "tmdb": 285768
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}
