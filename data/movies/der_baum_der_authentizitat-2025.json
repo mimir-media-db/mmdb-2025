@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_baum_der_authentizitat_2025",
+  "title": "Der Baum der Authentizität",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134432106",
+    "imdb": "tt35332643",
+    "tmdb": 1403861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 89
+}

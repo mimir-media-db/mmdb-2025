@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deadline_2025",
+  "title": "Deadline",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136390444",
+    "imdb": "tt38349157",
+    "tmdb": 1543753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-07"
+}

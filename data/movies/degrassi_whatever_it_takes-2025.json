@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_degrassi_whatever_it_takes_2025",
+  "title": "Degrassi: Whatever It Takes",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136089456",
+    "imdb": "tt37655348",
+    "tmdb": 1516909
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-13"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drained_2025",
+  "title": "Drained",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135618430",
+    "imdb": "tt35310518",
+    "tmdb": 1414243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-07",
+  "runtime_minutes": 4
+}

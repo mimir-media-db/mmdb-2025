@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_divorce_lawyer_2025",
+  "title": "The Divorce Lawyer",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135114724",
+    "imdb": "tt33376869",
+    "tmdb": 1502263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-20",
+  "runtime_minutes": 98
+}

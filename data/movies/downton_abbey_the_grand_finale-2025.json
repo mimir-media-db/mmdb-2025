@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_downton_abbey_the_grand_finale_2025",
+  "title": "Downton Abbey: The Grand Finale",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126164193",
+    "imdb": "tt31888477",
+    "tmdb": 1289936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-08",
+  "runtime_minutes": 123
+}

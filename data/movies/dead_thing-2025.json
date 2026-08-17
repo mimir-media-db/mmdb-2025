@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_thing_2025",
+  "title": "The Dead Thing",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130615106",
+    "imdb": "tt21967916",
+    "tmdb": 1287842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-14"
+}

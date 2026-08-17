@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_divorce_me_2025",
+  "title": "Divorce Me",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137939868",
+    "imdb": "tt39110136",
+    "tmdb": 1507560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-24"
+}

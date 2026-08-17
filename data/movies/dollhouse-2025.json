@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dollhouse_2025",
+  "title": "Dollhouse",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133728943",
+    "imdb": "tt35276942",
+    "tmdb": 1404791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-13",
+  "runtime_minutes": 110
+}

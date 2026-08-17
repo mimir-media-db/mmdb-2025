@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_seed_2025",
+  "title": "The devil's seed",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137775592",
+    "imdb": "tt36510840",
+    "tmdb": 1468320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-19"
+}

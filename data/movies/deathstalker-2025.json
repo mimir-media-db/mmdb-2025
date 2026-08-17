@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deathstalker_2025",
+  "title": "Deathstalker",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126008203",
+    "imdb": "tt33996087",
+    "tmdb": 1253000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-15",
+  "runtime_minutes": 103
+}

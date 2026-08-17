@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dog_of_god_2025",
+  "title": "Dog of God",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136006861",
+    "imdb": "tt33738802",
+    "tmdb": 1282280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-06",
+  "runtime_minutes": 92
+}

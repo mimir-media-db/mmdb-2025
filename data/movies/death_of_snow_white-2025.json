@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_snow_white_2025",
+  "title": "The Death of Snow White",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133885795",
+    "imdb": "tt31022851",
+    "tmdb": 1409850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21",
+  "runtime_minutes": 110
+}

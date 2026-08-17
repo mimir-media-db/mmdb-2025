@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dropbear_2025",
+  "title": "Dropbear",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136514096",
+    "imdb": "tt36390771",
+    "tmdb": 1579796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

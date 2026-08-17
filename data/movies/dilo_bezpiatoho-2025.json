@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dilo_bezpiatoho_2025",
+  "title": "Dilo Bezpiatoho",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574017",
+    "imdb": "tt32655967",
+    "tmdb": 1296086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-13",
+  "runtime_minutes": 123
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dolly_2025",
+  "title": "Dolly",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138337407",
+    "imdb": "tt32639175",
+    "tmdb": 1309083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-21"
+}

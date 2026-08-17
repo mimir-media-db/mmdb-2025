@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_derriere_les_palmiers_2025",
+  "title": "Derrière les palmiers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138778057",
+    "imdb": "tt23644354",
+    "tmdb": 1046699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-30"
+}

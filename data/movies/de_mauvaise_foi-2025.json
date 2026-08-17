@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_mauvaise_foi_2025",
+  "title": "De mauvaise foi",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132180537",
+    "imdb": "tt35065961",
+    "tmdb": 1355089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-07"
+}

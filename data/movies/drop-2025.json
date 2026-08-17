@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drop_2025",
+  "title": "Drop",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125983478",
+    "imdb": "tt32149847",
+    "tmdb": 1249213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-09",
+  "runtime_minutes": 95
+}

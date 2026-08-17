@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dashoi_june_2025",
+  "title": "Dashoi June",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132748695",
+    "imdb": "tt35747590",
+    "tmdb": 1438006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-21"
+}

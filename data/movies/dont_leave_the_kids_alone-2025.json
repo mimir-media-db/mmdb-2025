@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_leave_the_kids_alone_2025",
+  "title": "Don't Leave the Kids Alone",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131747029",
+    "imdb": "tt27871792",
+    "tmdb": 1339274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31"
+}

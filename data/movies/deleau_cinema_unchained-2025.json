@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deleau_cinema_unchained_2025",
+  "title": "Deleau: Cinema Unchained",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140248404",
+    "imdb": "tt31709379",
+    "tmdb": 1567482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-21",
+  "runtime_minutes": 102
+}

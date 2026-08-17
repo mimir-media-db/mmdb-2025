@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_durgapur_junction_2025",
+  "title": "Durgapur Junction",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134756421",
+    "imdb": "tt36277363",
+    "tmdb": 1142452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25"
+}

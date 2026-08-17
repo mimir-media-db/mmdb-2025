@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_todos_lados_un_poco_2025",
+  "title": "De todos lados un poco",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136102732",
+    "imdb": "tt35961648"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 88
+}

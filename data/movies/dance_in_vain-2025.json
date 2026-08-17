@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_in_vain_2025",
+  "title": "A Dance in Vain",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135987624",
+    "imdb": "tt37845117",
+    "tmdb": 1315742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-06"
+}

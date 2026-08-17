@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_detective_chinatown_1900_2025",
+  "title": "Detective Chinatown 1900",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131522509",
+    "imdb": "tt34463310",
+    "tmdb": 1357305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-29",
+  "runtime_minutes": 135
+}

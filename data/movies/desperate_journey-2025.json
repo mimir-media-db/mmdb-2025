@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desperate_journey_2025",
+  "title": "Desperate Journey",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137177175",
+    "imdb": "tt32152229",
+    "tmdb": 1284807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-28",
+  "runtime_minutes": 108
+}

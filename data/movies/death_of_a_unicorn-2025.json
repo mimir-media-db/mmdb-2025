@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_a_unicorn_2025",
+  "title": "Death of a Unicorn",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120887939",
+    "imdb": "tt28443655",
+    "tmdb": 1153714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-08",
+  "runtime_minutes": 104
+}

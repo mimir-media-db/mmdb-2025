@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_queen_in_hollywood_2025",
+  "title": "Dancing Queen in Hollywood",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139900398",
+    "imdb": "tt36302675",
+    "tmdb": 1453538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-16"
+}

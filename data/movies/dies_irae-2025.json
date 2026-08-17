@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dies_irae_2025",
+  "title": "Diés Iraé",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134520415",
+    "imdb": "tt36302733",
+    "tmdb": 1396869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-31"
+}

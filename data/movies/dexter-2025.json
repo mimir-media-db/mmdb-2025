@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dexter_2025",
+  "title": "Dexter",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133449011",
+    "imdb": "tt35518994",
+    "tmdb": 1422471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-14"
+}

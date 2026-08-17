@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_language_2025",
+  "title": "Dead Language",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135298298",
+    "imdb": "tt12839450",
+    "tmdb": 1480326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 110
+}
