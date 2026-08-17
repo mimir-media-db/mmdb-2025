@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wizard_of_the_emerald_city_2025",
+  "title": "The Wizard of the Emerald City",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120514821",
+    "imdb": "tt24218194",
+    "tmdb": 658224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 104
+}

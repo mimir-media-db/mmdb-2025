@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walls_akinni_inuk_2025",
+  "title": "Walls - Akinni Inuk",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136358517",
+    "imdb": "tt35938514",
+    "tmdb": 1400113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-21",
+  "runtime_minutes": 105
+}

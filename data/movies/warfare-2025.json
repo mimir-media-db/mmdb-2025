@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warfare_2025",
+  "title": "Warfare",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125217247",
+    "imdb": "tt31434639",
+    "tmdb": 1241436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-16",
+  "runtime_minutes": 95
+}

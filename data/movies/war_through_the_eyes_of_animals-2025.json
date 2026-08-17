@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_through_the_eyes_of_animals_2025",
+  "title": "War Through the Eyes of Animals",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128214361",
+    "imdb": "tt32203874",
+    "tmdb": 1131244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-06",
+  "runtime_minutes": 97
+}

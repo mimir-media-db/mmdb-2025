@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wish_you_were_here_2025",
+  "title": "Wish You Were Here",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131543023",
+    "imdb": "tt14893438",
+    "tmdb": 842328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-17"
+}

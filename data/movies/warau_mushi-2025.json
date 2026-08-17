@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_warau_mushi_2025",
+  "title": "Warau Mushi",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131274918",
+    "imdb": "tt35616789",
+    "tmdb": 1387790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24"
+}

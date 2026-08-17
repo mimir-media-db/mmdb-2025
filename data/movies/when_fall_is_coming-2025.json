@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_fall_is_coming_2025",
+  "title": "When Fall Is Coming",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124664023",
+    "imdb": "tt29482291",
+    "tmdb": 1171634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-31",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wrecker_2025",
+  "title": "The Wrecker",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122946886",
+    "imdb": "tt26690921",
+    "tmdb": 1101284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-31"
+}

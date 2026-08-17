@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_war_songs_2025",
+  "title": "War Songs",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575974",
+    "imdb": "tt38355721",
+    "tmdb": 1546854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-03"
+}

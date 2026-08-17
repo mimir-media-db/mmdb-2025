@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_words_of_war_2025",
+  "title": "Words of War",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116265668",
+    "imdb": "tt8679660",
+    "tmdb": 975615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-02"
+}

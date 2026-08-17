@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wolfram_2025",
+  "title": "Wolfram",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136376941",
+    "imdb": "tt36826227",
+    "tmdb": 1476362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-26"
+}

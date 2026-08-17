@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_written_directed_by_god_2025",
+  "title": "Written & Directed by God",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134723530",
+    "imdb": "tt27170332",
+    "tmdb": 1101684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-18"
+}

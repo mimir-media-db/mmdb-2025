@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wooden_fish_2025",
+  "title": "Wooden Fish",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135337956",
+    "imdb": "tt37673666",
+    "tmdb": 1442920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-15",
+  "runtime_minutes": 30
+}

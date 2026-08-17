@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_while_the_green_grass_grows_2025",
+  "title": "While The Green Grass Grows",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134367689",
+    "imdb": "tt27489069"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-12",
+  "runtime_minutes": 166
+}

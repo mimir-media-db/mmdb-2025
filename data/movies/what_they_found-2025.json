@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_they_found_2025",
+  "title": "What They Found",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132257642",
+    "imdb": "tt36460263",
+    "tmdb": 1433499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-07",
+  "runtime_minutes": 36
+}

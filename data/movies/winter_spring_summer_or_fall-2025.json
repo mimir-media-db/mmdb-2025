@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_spring_summer_or_fall_2025",
+  "title": "Winter Spring Summer or Fall",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115929234",
+    "imdb": "tt24515124",
+    "tmdb": 1059073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25",
+  "runtime_minutes": 97
+}

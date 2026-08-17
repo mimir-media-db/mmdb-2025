@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_with_you_in_the_future_2025",
+  "title": "With You in the Future",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132176608",
+    "imdb": "tt35559925",
+    "tmdb": 1429299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

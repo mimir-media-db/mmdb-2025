@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weser_2025",
+  "title": "Weser",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139069543",
+    "imdb": "tt41609502",
+    "tmdb": 1566842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 85
+}

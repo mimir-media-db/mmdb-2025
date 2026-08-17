@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_in_the_line_2025",
+  "title": "The woman in the line",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135908018",
+    "imdb": "tt27698095",
+    "tmdb": 1193861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-04",
+  "runtime_minutes": 105
+}

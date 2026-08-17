@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wanda_rutkiewicz_ostatnia_wyprawa_2025",
+  "title": "Wanda Rutkiewicz. Ostatnia wyprawa",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131619190",
+    "imdb": "tt34143856",
+    "tmdb": 1276160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-30",
+  "runtime_minutes": 90
+}

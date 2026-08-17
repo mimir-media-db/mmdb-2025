@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wallace_and_gromit_vengeance_most_fowl_2025",
+  "title": "Wallace and Gromit: Vengeance Most Fowl",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126390903",
+    "imdb": "tt17163970",
+    "tmdb": 929204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-03",
+  "runtime_minutes": 79
+}

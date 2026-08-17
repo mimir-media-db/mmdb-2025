@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_youre_strange_2025",
+  "title": "When You're Strange",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1577115",
+    "imdb": "tt1333667",
+    "tmdb": 37659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-04",
+  "runtime_minutes": 86
+}

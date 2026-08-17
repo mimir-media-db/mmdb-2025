@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_the_light_breaks_2025",
+  "title": "When the Light Breaks",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125940265",
+    "imdb": "tt27476906",
+    "tmdb": 1257407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-19",
+  "runtime_minutes": 82
+}

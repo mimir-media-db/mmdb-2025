@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_banquet_2025",
+  "title": "The Wedding Banquet",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125660863",
+    "imdb": "tt32214413",
+    "tmdb": 1278827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-27",
+  "runtime_minutes": 102
+}

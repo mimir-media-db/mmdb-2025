@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_paris_2025",
+  "title": "The Wrong Paris",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131956863",
+    "imdb": "tt33039440",
+    "tmdb": 1321439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-12",
+  "runtime_minutes": 105
+}
