@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ground_zero_2025",
+  "title": "Ground Zero",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133890495",
+    "imdb": "tt28377588",
+    "tmdb": 1221198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-25"
+}

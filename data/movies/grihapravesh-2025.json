@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grihapravesh_2025",
+  "title": "Grihapravesh",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134909435",
+    "imdb": "tt37137016",
+    "tmdb": 1156976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-13"
+}

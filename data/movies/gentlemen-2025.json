@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gentlemen_2025",
+  "title": "The Gentlemen",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136592879",
+    "imdb": "tt38731975",
+    "tmdb": 1489674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-22"
+}

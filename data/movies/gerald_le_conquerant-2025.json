@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gerald_le_conquerant_2025",
+  "title": "Gérald le Conquérant",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136005924",
+    "imdb": "tt29312656",
+    "tmdb": 1174382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-03"
+}

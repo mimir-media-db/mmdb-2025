@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guardian_of_the_field_2025",
+  "title": "Guardian of the Field",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132128744",
+    "imdb": "tt35376549",
+    "tmdb": 1425080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-05"
+}

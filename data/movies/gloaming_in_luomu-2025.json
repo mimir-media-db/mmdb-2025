@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gloaming_in_luomu_2025",
+  "title": "Gloaming in Luomu",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136139174",
+    "imdb": "tt38044279",
+    "tmdb": 1535886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-21"
+}

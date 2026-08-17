@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guardians_of_christmas_2025",
+  "title": "The Guardians of Christmas",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136446207",
+    "imdb": "tt36827043",
+    "tmdb": 1479377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-13",
+  "runtime_minutes": 90
+}

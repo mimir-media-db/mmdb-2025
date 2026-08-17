@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_killer_2025",
+  "title": "Ghost Killer",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136294345",
+    "imdb": "tt33305290",
+    "tmdb": 1330435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-11",
+  "runtime_minutes": 105
+}

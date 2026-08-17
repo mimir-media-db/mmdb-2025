@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_handwriting_2025",
+  "title": "The Good Handwriting",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131578118",
+    "imdb": "tt32561334",
+    "tmdb": 1407635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-15",
+  "runtime_minutes": 110
+}

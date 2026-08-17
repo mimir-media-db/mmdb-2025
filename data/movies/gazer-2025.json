@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gazer_2025",
+  "title": "Gazer",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126281957",
+    "imdb": "tt28633405",
+    "tmdb": 1215077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-03",
+  "runtime_minutes": 114
+}

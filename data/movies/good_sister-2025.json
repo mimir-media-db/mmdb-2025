@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_sister_2025",
+  "title": "The Good Sister",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131764813",
+    "imdb": "tt35438186",
+    "tmdb": 1418512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

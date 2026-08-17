@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_g20_2025",
+  "title": "G20",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124337176",
+    "imdb": "tt23476986",
+    "tmdb": 1045938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-10",
+  "runtime_minutes": 108
+}

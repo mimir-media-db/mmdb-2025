@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_news_2025",
+  "title": "Good News",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131859817",
+    "imdb": "tt33550069",
+    "tmdb": 1296404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-05",
+  "runtime_minutes": 136
+}

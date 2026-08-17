@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gabbys_dollhouse_the_movie_2025",
+  "title": "Gabby's Dollhouse: The Movie",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126414863",
+    "imdb": "tt32214143",
+    "tmdb": 1280282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-26",
+  "runtime_minutes": 98
+}

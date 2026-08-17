@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grihostho_2025",
+  "title": "Grihostho",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134301135",
+    "imdb": "tt31325595",
+    "tmdb": 1386677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-07"
+}

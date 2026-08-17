@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_good_child_2025",
+  "title": "A Good Child",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140967595",
+    "imdb": "tt38637298"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-07"
+}

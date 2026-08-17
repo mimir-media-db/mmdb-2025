@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gringo_hunter_2025",
+  "title": "Gringo Hunter",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130370500",
+    "imdb": "tt32565484",
+    "tmdb": 1469354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

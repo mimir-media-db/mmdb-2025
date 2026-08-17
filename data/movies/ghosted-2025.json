@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghosted_2025",
+  "title": "Ghosted",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140695350",
+    "imdb": "tt33921158",
+    "tmdb": 1435145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

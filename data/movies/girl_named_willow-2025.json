@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_named_willow_2025",
+  "title": "A Girl Named Willow",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127327950",
+    "imdb": "tt35300281",
+    "tmdb": 1176932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-27"
+}

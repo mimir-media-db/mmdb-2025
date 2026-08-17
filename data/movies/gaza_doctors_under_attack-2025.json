@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gaza_doctors_under_attack_2025",
+  "title": "Gaza: Doctors Under Attack",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134571194",
+    "imdb": "tt37504739",
+    "tmdb": 1486460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-02",
+  "runtime_minutes": 62
+}

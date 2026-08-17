@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_game_2025",
+  "title": "The Ghost Game",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135653079",
+    "imdb": "tt37285917",
+    "tmdb": 1354700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-06",
+  "runtime_minutes": 94
+}

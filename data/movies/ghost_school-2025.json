@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghost_school_2025",
+  "title": "Ghost School",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136954725",
+    "imdb": "tt37547768",
+    "tmdb": 1516456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 88
+}

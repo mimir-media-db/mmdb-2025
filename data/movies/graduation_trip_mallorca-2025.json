@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_graduation_trip_mallorca_2025",
+  "title": "Graduation Trip: Mallorca",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134551636",
+    "imdb": "tt31317401",
+    "tmdb": 1245165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 115
+}

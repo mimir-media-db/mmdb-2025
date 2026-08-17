@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gunslingers_2025",
+  "title": "Gunslingers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133055066",
+    "imdb": "tt24850708",
+    "tmdb": 1293286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-11"
+}

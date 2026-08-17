@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_generazione_z_2025",
+  "title": "Generazione Z",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132860577",
+    "imdb": "tt35727993"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-03",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gruschel_mich_die_studivzstory_2025",
+  "title": "Gruschel mich! Die studiVZ-Story",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132158466",
+    "imdb": "tt35665414",
+    "tmdb": 1430283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-05",
+  "runtime_minutes": 60
+}

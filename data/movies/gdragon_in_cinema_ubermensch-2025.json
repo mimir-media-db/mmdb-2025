@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gdragon_in_cinema_ubermensch_2025",
+  "title": "G-Dragon in Cinema: Übermensch",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136558785",
+    "imdb": "tt38262395",
+    "tmdb": 1478082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-10-17"
+}
