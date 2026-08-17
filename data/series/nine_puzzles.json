@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nine_puzzles",
+  "title": "Nine Puzzles",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q133894482",
+    "imdb": "tt29927351",
+    "tmdb": 227191
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

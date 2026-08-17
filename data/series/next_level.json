@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_next_level",
+  "title": "The Next Level",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134444849",
+    "imdb": "tt34376736",
+    "tmdb": 281021
+  },
+  "last_updated": "2026-08-17"
+}

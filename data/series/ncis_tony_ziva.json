@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ncis_tony_ziva",
+  "title": "NCIS: Tony & Ziva",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125899005",
+    "imdb": "tt31512256",
+    "tmdb": 247732
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

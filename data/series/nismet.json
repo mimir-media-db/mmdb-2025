@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nismet",
+  "title": "Nismet",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132851307",
+    "imdb": "tt35665983",
+    "tmdb": 283270
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

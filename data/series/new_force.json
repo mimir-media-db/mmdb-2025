@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_new_force",
+  "title": "The New Force",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135996240",
+    "imdb": "tt31828197",
+    "tmdb": 271128
+  },
+  "last_updated": "2026-08-17"
+}
