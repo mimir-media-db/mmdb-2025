@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ride_or_die_2025",
+  "title": "Ride or Die",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134001822",
+    "imdb": "tt31098308",
+    "tmdb": 1354628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-08",
+  "runtime_minutes": 85
+}

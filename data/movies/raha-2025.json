@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raha_2025",
+  "title": "Raha",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132564980",
+    "imdb": "tt35624487",
+    "tmdb": 1425217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-02"
+}

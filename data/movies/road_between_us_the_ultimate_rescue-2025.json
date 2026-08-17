@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_road_between_us_the_ultimate_rescue_2025",
+  "title": "The Road Between Us: The Ultimate Rescue",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135781160",
+    "imdb": "tt33350479",
+    "tmdb": 1529481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-10",
+  "runtime_minutes": 95
+}

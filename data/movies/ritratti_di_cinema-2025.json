@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ritratti_di_cinema_2025",
+  "title": "Ritratti di cinema",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138002096",
+    "imdb": "tt39075329",
+    "tmdb": 1575569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-26",
+  "runtime_minutes": 73
+}

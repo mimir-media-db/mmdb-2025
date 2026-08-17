@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_room_next_door_2025",
+  "title": "The Room Next Door",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124359261",
+    "imdb": "tt29439114",
+    "tmdb": 1088514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-10",
+  "runtime_minutes": 107
+}

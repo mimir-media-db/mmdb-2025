@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_robot_to_2025",
+  "title": "Robot T-O",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133454352",
+    "imdb": "tt29516588",
+    "tmdb": 1154725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-07",
+  "runtime_minutes": 78
+}

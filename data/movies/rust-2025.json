@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rust_2025",
+  "title": "Rust",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109051190",
+    "imdb": "tt11001074",
+    "tmdb": 710258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-01"
+}

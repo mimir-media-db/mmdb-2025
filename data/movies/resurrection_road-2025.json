@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_resurrection_road_2025",
+  "title": "Resurrection Road",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138749094",
+    "imdb": "tt27000642",
+    "tmdb": 1260794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-06"
+}

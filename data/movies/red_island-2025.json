@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_island_2025",
+  "title": "Red Island",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111592711",
+    "imdb": "tt13846540",
+    "tmdb": 820707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-23",
+  "runtime_minutes": 116
+}

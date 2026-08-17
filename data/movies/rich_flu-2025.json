@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rich_flu_2025",
+  "title": "Rich Flu",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115405596",
+    "imdb": "tt17677434",
+    "tmdb": 934584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-24",
+  "runtime_minutes": 106
+}

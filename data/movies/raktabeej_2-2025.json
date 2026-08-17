@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raktabeej_2_2025",
+  "title": "Raktabeej 2",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135454894",
+    "imdb": "tt36132462",
+    "tmdb": 1390615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-26"
+}

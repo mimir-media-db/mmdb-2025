@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_rawalpindi_express_2025",
+  "title": "Rawalpindi Express",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134612384"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

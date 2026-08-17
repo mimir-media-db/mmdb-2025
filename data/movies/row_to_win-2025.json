@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_row_to_win_2025",
+  "title": "Row To Win",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136504947",
+    "imdb": "tt37561398",
+    "tmdb": 1516436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-30"
+}

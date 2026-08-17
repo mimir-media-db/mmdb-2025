@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raid_2_2025",
+  "title": "Raid 2",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126918438",
+    "imdb": "tt28089700",
+    "tmdb": 1227128
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-01"
+}

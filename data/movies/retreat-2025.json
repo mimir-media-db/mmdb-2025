@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_retreat_2025",
+  "title": "Retreat",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131612507",
+    "imdb": "tt8601738",
+    "tmdb": 1379418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-08"
+}

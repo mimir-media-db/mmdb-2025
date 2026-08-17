@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rising_fury_2025",
+  "title": "A Rising Fury",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123735210",
+    "imdb": "tt5916874",
+    "tmdb": 965053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-20",
+  "runtime_minutes": 82
+}

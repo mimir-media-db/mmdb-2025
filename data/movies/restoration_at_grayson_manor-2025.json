@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_restoration_at_grayson_manor_2025",
+  "title": "The Restoration at Grayson Manor",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139208342",
+    "imdb": "tt32767134",
+    "tmdb": 1528009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 90
+}

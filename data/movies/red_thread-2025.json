@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_thread_2025",
+  "title": "The Red Thread",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136528442",
+    "imdb": "tt35661604",
+    "tmdb": 1433593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

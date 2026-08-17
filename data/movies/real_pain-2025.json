@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_real_pain_2025",
+  "title": "A Real Pain",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123690368",
+    "imdb": "tt21823606",
+    "tmdb": 1013850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-16",
+  "runtime_minutes": 90
+}

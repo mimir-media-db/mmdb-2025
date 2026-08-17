@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reset_2025",
+  "title": "Reset",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136358509",
+    "imdb": "tt12373972",
+    "tmdb": 1155216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-30"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_from_the_other_planet_2025",
+  "title": "The Return from the Other Planet",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125947452",
+    "imdb": "tt14888952",
+    "tmdb": 1119820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-13",
+  "runtime_minutes": 81
+}

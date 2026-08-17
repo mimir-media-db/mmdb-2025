@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rekhachithram_2025",
+  "title": "Rekhachithram",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131578114",
+    "imdb": "tt32284154",
+    "tmdb": 1290954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-09"
+}

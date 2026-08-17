@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_relay_2025",
+  "title": "Relay",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117742969",
+    "imdb": "tt11539996",
+    "tmdb": 1088166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-22",
+  "runtime_minutes": 112
+}

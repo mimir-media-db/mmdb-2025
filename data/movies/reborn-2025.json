@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reborn_2025",
+  "title": "The Reborn",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138413719",
+    "imdb": "tt37076958",
+    "tmdb": 1374789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 80
+}

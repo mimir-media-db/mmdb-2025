@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_real_film_2025",
+  "title": "Real (film)",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133305430",
+    "imdb": "tt32478667",
+    "tmdb": 1230925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-20",
+  "runtime_minutes": 90
+}

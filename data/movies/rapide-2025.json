@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rapide_2025",
+  "title": "Rapide",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134083594",
+    "imdb": "tt34208307",
+    "tmdb": 1261504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

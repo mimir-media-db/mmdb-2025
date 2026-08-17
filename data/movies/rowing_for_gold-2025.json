@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rowing_for_gold_2025",
+  "title": "Rowing for Gold",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136535659",
+    "imdb": "tt30425537",
+    "tmdb": 1273698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 107
+}

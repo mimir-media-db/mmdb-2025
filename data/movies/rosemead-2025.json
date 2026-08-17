@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rosemead_2025",
+  "title": "Rosemead",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133889047",
+    "imdb": "tt13109732",
+    "tmdb": 766520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-19"
+}
