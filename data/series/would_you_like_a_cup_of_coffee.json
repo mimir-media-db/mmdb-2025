@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_would_you_like_a_cup_of_coffee",
+  "title": "Would You Like a Cup of Coffee?",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136006901",
+    "imdb": "tt36070012"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

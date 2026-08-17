@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_we_were_liars",
+  "title": "We Were Liars",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131577952",
+    "imdb": "tt3914054",
+    "tmdb": 215522
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

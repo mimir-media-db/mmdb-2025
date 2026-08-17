@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_witch",
+  "title": "The Witch",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131746501",
+    "imdb": "tt27712331",
+    "tmdb": 200794
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}
