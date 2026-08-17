@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_bonne_etoile_2025",
+  "title": "La Bonne Étoile",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130044699",
+    "imdb": "tt32553661",
+    "tmdb": 1255778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-11-12",
+  "runtime_minutes": 100
+}

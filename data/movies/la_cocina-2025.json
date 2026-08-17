@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_cocina_2025",
+  "title": "La cocina",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124334469",
+    "imdb": "tt19864832",
+    "tmdb": 966238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-06",
+  "runtime_minutes": 139
+}

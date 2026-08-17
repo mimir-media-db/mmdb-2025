@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vie_devant_moi_2025",
+  "title": "La Vie devant moi",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131828549",
+    "imdb": "tt30399248",
+    "tmdb": 1001435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-26",
+  "runtime_minutes": 91
+}

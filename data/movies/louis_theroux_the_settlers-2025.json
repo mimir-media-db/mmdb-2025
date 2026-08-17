@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_louis_theroux_the_settlers_2025",
+  "title": "Louis Theroux: The Settlers",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134195788",
+    "imdb": "tt36640622",
+    "tmdb": 1466013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-27",
+  "runtime_minutes": 61
+}

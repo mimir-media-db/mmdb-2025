@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_leopardico_2025",
+  "title": "Leopardi&Co.",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135918796",
+    "imdb": "tt28786554",
+    "tmdb": 1173129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-12-11"
+}

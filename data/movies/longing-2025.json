@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_longing_2025",
+  "title": "The Longing",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131808914",
+    "imdb": "tt35453013",
+    "tmdb": 1418516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 104
+}

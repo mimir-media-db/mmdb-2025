@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_front_2025",
+  "title": "The Last Front",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123583548",
+    "imdb": "tt9713418",
+    "tmdb": 633425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-27",
+  "runtime_minutes": 98
+}

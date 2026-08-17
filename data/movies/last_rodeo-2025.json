@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_rodeo_2025",
+  "title": "The Last Rodeo",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131632909",
+    "imdb": "tt30908405",
+    "tmdb": 1380682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-23",
+  "runtime_minutes": 118
+}

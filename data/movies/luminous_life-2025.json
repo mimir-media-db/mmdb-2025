@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_luminous_life_2025",
+  "title": "The Luminous Life",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135108162",
+    "imdb": "tt33424589",
+    "tmdb": 1462597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-26"
+}

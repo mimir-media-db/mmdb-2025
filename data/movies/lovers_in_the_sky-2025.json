@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lovers_in_the_sky_2025",
+  "title": "Lovers in the Sky",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140085368",
+    "imdb": "tt37080626",
+    "tmdb": 1285876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

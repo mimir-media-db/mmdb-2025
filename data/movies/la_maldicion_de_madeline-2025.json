@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_maldicion_de_madeline_2025",
+  "title": "La maldición de Madeline",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138504291",
+    "imdb": "tt39297256",
+    "tmdb": 1144098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 90
+}

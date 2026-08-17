@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_latin_blood_the_ballad_of_ney_matogrosso_2025",
+  "title": "Latin Blood - The Ballad of Ney Matogrosso",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132778669",
+    "imdb": "tt35301431",
+    "tmdb": 1212121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-01",
+  "runtime_minutes": 129
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_lorraine_2025",
+  "title": "Little Lorraine",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135454891",
+    "imdb": "tt30420705",
+    "tmdb": 1356963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-05"
+}

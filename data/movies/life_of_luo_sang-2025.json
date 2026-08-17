@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_of_luo_sang_2025",
+  "title": "Life of Luo Sang",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136311516",
+    "imdb": "tt34317244",
+    "tmdb": 1541690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-11"
+}

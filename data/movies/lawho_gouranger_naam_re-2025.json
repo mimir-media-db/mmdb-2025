@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lawho_gouranger_naam_re_2025",
+  "title": "Lawho Gouranger Naam Re",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137265415",
+    "imdb": "tt16733786",
+    "tmdb": 918957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-25"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_melange_des_genres_2025",
+  "title": "Le Mélange des genres",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133832542",
+    "imdb": "tt34997988",
+    "tmdb": 1235298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-16"
+}

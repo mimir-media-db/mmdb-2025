@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lilly_2025",
+  "title": "Lilly",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130287348",
+    "imdb": "tt5853716",
+    "tmdb": 1133093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-09",
+  "runtime_minutes": 93
+}

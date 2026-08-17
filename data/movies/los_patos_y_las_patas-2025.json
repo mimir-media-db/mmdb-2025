@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_patos_y_las_patas_2025",
+  "title": "Los patos y las patas",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135005713",
+    "imdb": "tt28663560",
+    "tmdb": 1498340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

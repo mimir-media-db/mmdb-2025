@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lovely_2025",
+  "title": "Lovely",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134238384",
+    "imdb": "tt27917202",
+    "tmdb": 1134456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-16",
+  "runtime_minutes": 116
+}

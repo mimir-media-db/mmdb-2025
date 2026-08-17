@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_night_i_conquered_the_city_of_thebes_2025",
+  "title": "Last Night I Conquered the City of Thebes",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136522783",
+    "imdb": "tt15181334",
+    "tmdb": 858477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 112
+}

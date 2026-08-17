@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_decouverte_de_la_chouette_dor_2025",
+  "title": "La Découverte de la Chouette d'Or",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134304306",
+    "imdb": "tt36722519",
+    "tmdb": 1448275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-05-02",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lucy_2025",
+  "title": "Lucy",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573742",
+    "imdb": "tt35459573",
+    "tmdb": 1441551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-06-20"
+}

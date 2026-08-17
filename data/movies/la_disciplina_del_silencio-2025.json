@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_disciplina_del_silencio_2025",
+  "title": "La disciplina del silencio",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135932651",
+    "imdb": "tt38056335",
+    "tmdb": 1520670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-26"
+}

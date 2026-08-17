@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_femme_de_2025",
+  "title": "La Femme de",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138835378",
+    "imdb": "tt37526897",
+    "tmdb": 1000990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-25"
+}

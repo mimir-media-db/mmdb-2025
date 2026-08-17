@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_ochi_2025",
+  "title": "The Legend of Ochi",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117336433",
+    "imdb": "tt8866456",
+    "tmdb": 896536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-26",
+  "runtime_minutes": 96
+}

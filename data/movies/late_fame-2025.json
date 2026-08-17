@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_late_fame_2025",
+  "title": "Late Fame",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125808089",
+    "imdb": "tt32298494",
+    "tmdb": 1285895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-08-30",
+  "runtime_minutes": 90
+}

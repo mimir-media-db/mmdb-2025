@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_forever_2025",
+  "title": "Love Forever",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123859861",
+    "imdb": "tt30308957",
+    "tmdb": 1214481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-14"
+}

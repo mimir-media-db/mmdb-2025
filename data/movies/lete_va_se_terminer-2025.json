@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lete_va_se_terminer_2025",
+  "title": "L'été va se terminer",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131295126",
+    "imdb": "tt28484952",
+    "tmdb": 1168197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-02-27"
+}

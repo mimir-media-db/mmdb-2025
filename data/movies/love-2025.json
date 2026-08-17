@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_2025",
+  "title": "Love",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127726954",
+    "imdb": "tt30810792",
+    "tmdb": 1228685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-03-13",
+  "runtime_minutes": 119
+}

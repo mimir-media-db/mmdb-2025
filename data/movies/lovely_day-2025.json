@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lovely_day_2025",
+  "title": "Lovely Day",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135436956",
+    "imdb": "tt32620888",
+    "tmdb": 1073521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-09-05"
+}

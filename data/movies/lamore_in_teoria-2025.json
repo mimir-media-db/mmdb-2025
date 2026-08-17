@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lamore_in_teoria_2025",
+  "title": "L'amore, in teoria",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134184081",
+    "imdb": "tt33306544",
+    "tmdb": 1397053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-04-24"
+}

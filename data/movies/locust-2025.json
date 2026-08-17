@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_locust_2025",
+  "title": "Locust",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131310287",
+    "imdb": "tt32058418",
+    "tmdb": 1131460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-07-30",
+  "runtime_minutes": 120
+}

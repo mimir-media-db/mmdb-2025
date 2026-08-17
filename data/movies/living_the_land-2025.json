@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_living_the_land_2025",
+  "title": "Living the Land",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131892886",
+    "imdb": "tt31079597",
+    "tmdb": 1421153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lucky_winners_2025",
+  "title": "Lucky Winners",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124326764",
+    "imdb": "tt28444113",
+    "tmdb": 1216452
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-30",
+  "runtime_minutes": 103
+}

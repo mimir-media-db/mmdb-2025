@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lermontov_2025",
+  "title": "Lermontov",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136548389",
+    "imdb": "tt37183983",
+    "tmdb": 1416320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-01",
+  "runtime_minutes": 104
+}

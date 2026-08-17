@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fille_dun_grand_amour_2025",
+  "title": "La Fille d'un grand amour",
+  "year": 2025,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131592574",
+    "imdb": "tt32103879",
+    "tmdb": 1156108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2025-01-08"
+}
