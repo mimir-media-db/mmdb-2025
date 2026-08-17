@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_excellent_life",
+  "title": "Excellent Life",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137839072"
+  },
+  "last_updated": "2026-08-17"
+}

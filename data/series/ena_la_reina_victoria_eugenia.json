@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ena_la_reina_victoria_eugenia",
+  "title": "Ena. La reina Victoria Eugenia",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133859202",
+    "imdb": "tt29152827",
+    "tmdb": 238346
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

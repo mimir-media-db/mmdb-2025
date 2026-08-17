@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eta_mundo_melhor",
+  "title": "Êta Mundo Melhor!",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q131573896",
+    "imdb": "tt37449174",
+    "tmdb": 46151
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 220
+}

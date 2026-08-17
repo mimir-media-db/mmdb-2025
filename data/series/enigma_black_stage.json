@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_enigma_black_stage",
+  "title": "Enigma Black Stage",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q125963822",
+    "imdb": "tt29715950",
+    "tmdb": 296238
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

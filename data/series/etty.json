@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_etty",
+  "title": "Etty",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136772942",
+    "imdb": "tt27237072",
+    "tmdb": 296539
+  },
+  "last_updated": "2026-08-17"
+}

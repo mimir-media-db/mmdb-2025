@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_turco",
+  "title": "El Turco",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133449187",
+    "imdb": "tt19079130",
+    "tmdb": 220377
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

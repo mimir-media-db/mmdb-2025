@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ein_sehr_gutes_quiz_mit_hoher_gewinnsumme",
+  "title": "Ein sehr gutes Quiz (mit hoher Gewinnsumme)",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q133464400",
+    "imdb": "tt32174388",
+    "tmdb": 287123
+  },
+  "last_updated": "2026-08-17"
+}
