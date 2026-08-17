@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_football_parents",
+  "title": "Football Parents",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134006420",
+    "imdb": "tt33078939",
+    "tmdb": 261009
+  },
+  "last_updated": "2026-08-17"
+}

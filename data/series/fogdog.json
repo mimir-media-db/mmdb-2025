@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fogdog",
+  "title": "FOGDOG",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135221426",
+    "imdb": "tt37610843",
+    "tmdb": 294254
+  },
+  "last_updated": "2026-08-17"
+}

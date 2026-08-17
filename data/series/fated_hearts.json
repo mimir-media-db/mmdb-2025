@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fated_hearts",
+  "title": "Fated Hearts",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137609237",
+    "imdb": "tt36856056",
+    "tmdb": 272484
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 38
+}

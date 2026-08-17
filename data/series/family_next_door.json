@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_family_next_door",
+  "title": "The Family Next Door",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135428020",
+    "imdb": "tt34712975",
+    "tmdb": 297869
+  },
+  "last_updated": "2026-08-17"
+}

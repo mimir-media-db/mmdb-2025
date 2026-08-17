@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fate",
+  "title": "Fate",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136288519",
+    "imdb": "tt31522591",
+    "tmdb": 242907
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

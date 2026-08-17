@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_first_night_with_the_duke",
+  "title": "The First Night With the Duke",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131437744",
+    "imdb": "tt37266905",
+    "tmdb": 278331
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

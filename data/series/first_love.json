@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_first_love",
+  "title": "First Love",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136793929",
+    "imdb": "tt38125175",
+    "tmdb": 297846
+  },
+  "last_updated": "2026-08-17"
+}
