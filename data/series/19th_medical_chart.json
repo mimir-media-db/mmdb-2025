@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_19th_medical_chart",
+  "title": "The 19th Medical Chart",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135394276",
+    "imdb": "tt37274927",
+    "tmdb": 293432
+  },
+  "last_updated": "2026-08-17"
+}
