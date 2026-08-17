@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_other_peoples_money",
+  "title": "Other People’s Money",
+  "start_year": 2024,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131948140",
+    "imdb": "tt23805252",
+    "tmdb": 286537
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

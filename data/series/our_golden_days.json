@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_our_golden_days",
+  "title": "Our Golden Days",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q134318846",
+    "imdb": "tt37876545",
+    "tmdb": 287010
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}

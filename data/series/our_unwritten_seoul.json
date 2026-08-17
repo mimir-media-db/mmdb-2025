@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_our_unwritten_seoul",
+  "title": "Our Unwritten Seoul",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q131393572",
+    "imdb": "tt36724865",
+    "tmdb": 261980
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_only_you_thai_tv_series",
+  "title": "Only You (Thai TV series)",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131456915",
+    "imdb": "tt33458973",
+    "tmdb": 271341
+  },
+  "last_updated": "2026-08-17"
+}
