@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_clean_slate",
+  "title": "Clean Slate",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q132175421",
+    "imdb": "tt10167012",
+    "tmdb": 279836
+  },
+  "last_updated": "2026-08-17"
+}

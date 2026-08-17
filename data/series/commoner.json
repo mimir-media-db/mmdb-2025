@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_commoner",
+  "title": "The Commoner",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131625091",
+    "imdb": "tt29203138",
+    "tmdb": 228264
+  },
+  "last_updated": "2026-08-17"
+}

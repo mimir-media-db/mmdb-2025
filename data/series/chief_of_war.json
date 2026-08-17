@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chief_of_war",
+  "title": "Chief of War",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115475569",
+    "imdb": "tt19381692",
+    "tmdb": 196890
+  },
+  "last_updated": "2026-08-17"
+}

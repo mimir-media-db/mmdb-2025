@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_company",
+  "title": "The Company",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137793676",
+    "imdb": "tt32021491",
+    "tmdb": 270856
+  },
+  "last_updated": "2026-08-17"
+}

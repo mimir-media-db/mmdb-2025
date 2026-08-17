@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chosen_home_tv_series",
+  "title": "Chosen Home (TV series)",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136465211",
+    "imdb": "tt38632746",
+    "tmdb": 299403
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_confidence_queen",
+  "title": "Confidence Queen",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q132520175",
+    "imdb": "tt37262316",
+    "tmdb": 259710
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_carlos_alcaraz_my_way",
+  "title": "Carlos Alcaraz: My Way",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126180270",
+    "imdb": "tt31724374",
+    "tmdb": 280885
+  },
+  "last_updated": "2026-08-17"
+}

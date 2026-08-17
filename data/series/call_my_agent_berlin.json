@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_call_my_agent_berlin",
+  "title": "Call My Agent Berlin",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136135996",
+    "imdb": "tt36255074",
+    "tmdb": 296527
+  },
+  "last_updated": "2026-08-17"
+}

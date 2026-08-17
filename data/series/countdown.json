@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_countdown",
+  "title": "Countdown",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132067625",
+    "imdb": "tt32559610",
+    "tmdb": 256317
+  },
+  "last_updated": "2026-08-17"
+}
