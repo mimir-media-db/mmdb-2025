@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tres_gracas",
+  "title": "Três Graças",
+  "start_year": 2025,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q134081273",
+    "imdb": "tt38591370",
+    "tmdb": 289996
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 179
+}

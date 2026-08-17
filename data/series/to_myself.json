@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_to_myself",
+  "title": "To Myself",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135181336",
+    "imdb": "tt37422731",
+    "tmdb": 295806
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_this_city_is_ours",
+  "title": "This City Is Ours",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126192641",
+    "imdb": "tt31438328",
+    "tmdb": 255570
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

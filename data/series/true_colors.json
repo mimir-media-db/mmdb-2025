@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_true_colors",
+  "title": "TRUE COLORS",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140482888",
+    "tmdb": 278919
+  },
+  "last_updated": "2026-08-17"
+}

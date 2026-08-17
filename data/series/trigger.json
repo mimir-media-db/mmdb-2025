@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_trigger",
+  "title": "Trigger",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q130597380",
+    "imdb": "tt27898511",
+    "tmdb": 238084
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

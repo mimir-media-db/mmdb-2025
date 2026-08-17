@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tokyo_salad_bowl",
+  "title": "Tokyo Salad Bowl",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131986879",
+    "imdb": "tt35435312",
+    "tmdb": 274008
+  },
+  "last_updated": "2026-08-17"
+}

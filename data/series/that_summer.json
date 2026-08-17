@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_that_summer",
+  "title": "That Summer",
+  "start_year": 2025,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q136243313",
+    "imdb": "tt34930091",
+    "tmdb": 278145
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

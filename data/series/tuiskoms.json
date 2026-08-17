@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tuiskoms",
+  "title": "Tuiskoms",
+  "start_year": 2025,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q132396349",
+    "imdb": "tt35704111",
+    "tmdb": 283579
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}
